@@ -19,7 +19,10 @@ Hướng dẫn:
 import json
 from pathlib import Path
 
-from markitdown import MarkItDown
+try:
+    from markitdown import MarkItDown
+except ImportError:  # Allow JSON conversion even when the optional converter is absent.
+    MarkItDown = None
 
 LANDING_DIR = Path(__file__).parent.parent / "data" / "landing"
 OUTPUT_DIR = Path(__file__).parent.parent / "data" / "standardized"
@@ -31,17 +34,35 @@ def convert_legal_docs():
     output_dir = OUTPUT_DIR / "legal"
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    md = MarkItDown()
+    if not legal_dir.exists():
+        print(f"  No input directory found: {legal_dir}")
+        return
 
-    for filepath in legal_dir.iterdir():
-        if filepath.suffix.lower() in (".pdf", ".docx", ".doc"):
-            print(f"Converting: {filepath.name}")
-            # TODO: Convert và lưu file
-            # result = md.convert(str(filepath))
-            # output_path = output_dir / f"{filepath.stem}.md"
-            # output_path.write_text(result.text_content, encoding="utf-8")
-            # print(f"  ✓ Saved: {output_path}")
-            raise NotImplementedError("Implement convert_legal_docs")
+    legal_files = [
+        filepath
+        for filepath in sorted(legal_dir.rglob("*"))
+        if filepath.suffix.lower() in (".pdf", ".docx", ".doc")
+    ]
+    if not legal_files:
+        print("  No supported legal documents found.")
+        return
+    if MarkItDown is None:
+        raise RuntimeError(
+            'MarkItDown is required for legal documents. '
+            'Install it with: pip install "markitdown[pdf]"'
+        )
+
+    md = MarkItDown()
+    for filepath in legal_files:
+        print(f"Converting: {filepath.name}")
+        result = md.convert(str(filepath))
+
+        # Preserve any directory hierarchy below landing/legal/.
+        relative_path = filepath.relative_to(legal_dir).with_suffix(".md")
+        output_path = output_dir / relative_path
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+        output_path.write_text(result.text_content or "", encoding="utf-8")
+        print(f"  ✓ Saved: {output_path}")
 
 
 def convert_news_articles():
@@ -50,22 +71,35 @@ def convert_news_articles():
     output_dir = OUTPUT_DIR / "news"
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    for filepath in news_dir.iterdir():
-        if filepath.suffix.lower() == ".json":
-            print(f"Converting: {filepath.name}")
-            # TODO: Đọc JSON, extract content_markdown, lưu thành .md
-            # data = json.loads(filepath.read_text(encoding="utf-8"))
-            # output_path = output_dir / f"{filepath.stem}.md"
-            #
-            # # Thêm metadata header
-            # header = f"# {data.get('title', 'Unknown')}\n\n"
-            # header += f"**Source:** {data.get('url', 'N/A')}\n"
-            # header += f"**Crawled:** {data.get('date_crawled', 'N/A')}\n\n---\n\n"
-            #
-            # content = header + data.get("content_markdown", "")
-            # output_path.write_text(content, encoding="utf-8")
-            # print(f"  ✓ Saved: {output_path}")
-            raise NotImplementedError("Implement convert_news_articles")
+    if not news_dir.exists():
+        print(f"  No input directory found: {news_dir}")
+        return
+
+    for filepath in sorted(news_dir.rglob("*.json")):
+        print(f"Converting: {filepath.name}")
+        data = json.loads(filepath.read_text(encoding="utf-8-sig"))
+        if not isinstance(data, dict):
+            raise ValueError(f"Expected a JSON object in {filepath}")
+
+        relative_path = filepath.relative_to(news_dir).with_suffix(".md")
+        output_path = output_dir / relative_path
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+
+        title = str(data.get("title") or "Unknown")
+        source = str(data.get("url") or "N/A")
+        crawled_at = str(data.get("date_crawled") or "N/A")
+        article_content = data.get("content_markdown", "")
+        if not isinstance(article_content, str):
+            article_content = str(article_content)
+
+        header = (
+            f"# {title}\n\n"
+            f"**Source:** {source}\n"
+            f"**Crawled:** {crawled_at}\n\n"
+            "---\n\n"
+        )
+        output_path.write_text(header + article_content, encoding="utf-8")
+        print(f"  ✓ Saved: {output_path}")
 
 
 def convert_all():
