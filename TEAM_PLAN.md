@@ -163,12 +163,18 @@ python -c "from sentence_transformers import SentenceTransformer; SentenceTransf
 | **Trường** | Đọc `data/standardized/*.md`, viết lại `golden_dataset.json` **15–20 câu bám sát nội dung thật** | `feat/truong-cp2-golden` |
 | **Tuấn Anh** | Viết khung Task 9 (chưa chạy được), review + merge PR CP1 | `feat/tuananh-cp2-pipeline` |
 
-🚦 **DECISION GATE — cuối CP2 (1:00)**: nếu `bge-m3` chưa tải xong, Tuấn Anh đổi 2 dòng trong `task4_chunking_indexing.py`:
-```python
-EMBEDDING_MODEL = "intfloat/multilingual-e5-small"   # 471MB thay vì 2.27GB
-EMBEDDING_DIM = 384
+✅ **DECISION GATE — ĐÃ CHỐT: dùng `intfloat/multilingual-e5-small` (384 chiều), KHÔNG dùng `bge-m3`.**
+
+Không phải vì mạng chậm mà là chặn kỹ thuật cứng: `BAAI/bge-m3` trên Hub **chỉ có `pytorch_model.bin`, không có `model.safetensors`**, mà `transformers` 5.x chặn `torch.load` trên `.bin` khi `torch < 2.6` (CVE-2025-32434) — máy lab đang là `torch 2.5.1`. Giữ bge-m3 thì **mỗi người** phải tải 200 MB–2,5 GB torch cộng 2,27 GB model, và rủi ro phá vỡ stack đang chạy.
+
+`EMBEDDING_MODEL` đọc từ biến môi trường nên ai có `torch>=2.6` vẫn quay lại được mà không sửa code:
+```powershell
+$env:EMBEDDING_MODEL="BAAI/bge-m3"; $env:EMBEDDING_DIM="1024"
 ```
-báo cả nhóm tải model đó, index lại, ghi lý do vào README. **Không chần chừ quá 1:00.**
+
+🔴 **Hai điều bắt buộc đọc trong `DATA_REPORT.md` trước khi code Task 5/6/9:**
+1. Gọi `embed_query()` chứ **không** gọi `get_embedding_model().encode()` — model E5 cần tiền tố `query:`/`passage:`, thiếu thì vẫn chạy nhưng kém đi mà **không có triệu chứng**.
+2. `SCORE_THRESHOLD` đo được là **0.85** (liên quan 0,882–0,923 · lạc đề 0,815–0,828). Con số **0.48** trong `LAB_GUIDE.md` tính cho model khác — dùng nó thì fallback không bao giờ chạy.
 
 ✅ **Pass CP2**: `chroma_db/` tồn tại, `collection.count() > 0`; `pytest ...::TestTask4 -v` và `::TestTask6` xanh.
 
@@ -465,12 +471,31 @@ Phân bố gợi ý:
 - ~25% cần tổng hợp 2 nguồn: *"nên chọn hộ kinh doanh hay công ty TNHH khi bán trên TikTok Shop?"* (LDN 2020 + NĐ 01/2021 + TT 40/2021)
 - ~15% ngoài domain để test fallback: *"cách nấu phở bò"*, *"thủ tục ly hôn"*
 
-**`eval_pipeline.py`** — implement `evaluate_with_ragas()`, `compare_configs()`, `export_results()`. RAGAS 0.1.21 cần LLM judge, trỏ về OpenRouter:
+**`eval_pipeline.py`** — implement `evaluate_with_ragas()`, `compare_configs()`, `export_results()`.
+
+⚠️ **Repo đã đổi sang `ragas==0.3.9`** (bản `0.1.21` không cài được trên Python 3.12 — nó kéo `langchain-community 0.2.x` pin `numpy<2`, đụng `scipy` đòi `numpy>=2`). **Khối comment mẫu trong `eval_pipeline.py:91-114` là API 0.1.x, không còn chạy** — đừng bỏ comment ra dùng thẳng. Bản đã verify chạy được:
+
 ```python
+from ragas import EvaluationDataset, SingleTurnSample, evaluate
+from ragas.llms import LangchainLLMWrapper
+from ragas.metrics import (Faithfulness, ResponseRelevancy,
+                           LLMContextRecall, LLMContextPrecisionWithReference)
 from langchain_openai import ChatOpenAI
-llm = ChatOpenAI(model=..., base_url="https://openrouter.ai/api/v1", api_key=os.getenv("OPENROUTER_API_KEY"))
-result = evaluate(dataset, metrics=[...], llm=llm)
+
+# Ten field DA DOI: question->user_input, answer->response,
+#                   contexts->retrieved_contexts, ground_truth->reference
+dataset = EvaluationDataset(samples=[SingleTurnSample(
+    user_input=..., response=..., retrieved_contexts=[...], reference=...)])
+
+judge = LangchainLLMWrapper(ChatOpenAI(          # BAT BUOC boc wrapper
+    model=..., base_url="https://openrouter.ai/api/v1",
+    api_key=os.getenv("OPENROUTER_API_KEY")))
+
+result = evaluate(dataset, metrics=[Faithfulness(), ResponseRelevancy(),
+                  LLMContextRecall(), LLMContextPrecisionWithReference()], llm=judge)
 ```
+
+🕳️ **Bẫy im lặng đã đo được**: nếu dựng dataset bằng tên cột cũ (`question`/`answer`/`contexts`/`ground_truth`), ragas **không báo lỗi** — nó trả về `EvaluationDataset(features=[], len=N)` rỗng, và điểm ra 0/NaN. Kiểm tra ngay sau khi dựng dataset: `print(dataset.to_pandas().columns.tolist())` phải thấy đủ `['user_input','retrieved_contexts','response','reference']`.
 A/B: **Config A** = `retrieve(use_reranking=True)`; **Config B** = chỉ `semantic_search()` (dense-only).
 💡 Giả thuyết đáng kiểm chứng để viết vào phân tích: hybrid sẽ thắng rõ ở câu hỏi chứa **số hiệu văn bản** ("Điều 87", "Nghị định 52") vì BM25 bắt chính xác token số, còn dense search hay trượt.
 

@@ -122,6 +122,43 @@ ChromaDB chỉ nhận scalar (`str`/`int`/`float`/`bool`), không nhận `list`/
 
 Dùng chung `src/legal_utils.py` (đã port từ P-185): `normalize_doc_number`, `make_provision_id`, `parse_vn_date`, `extract_article_num`, `extract_citations`, `ARTICLE_RE`.
 
+### ⭐ Embedding model — ĐÃ ĐỔI, và có một hợp đồng bắt buộc
+
+**Model đã chốt: `intfloat/multilingual-e5-small` (384 chiều, 471 MB), KHÔNG phải `BAAI/bge-m3`.**
+
+Lý do không phải "mạng chậm" mà là chặn kỹ thuật cứng:
+
+| | |
+|---|---|
+| Máy lab | `torch 2.5.1+cu121` · `transformers 5.14.1` · `sentence-transformers 5.6.1` |
+| `BAAI/bge-m3` trên Hub | **chỉ có `pytorch_model.bin`, KHÔNG có `model.safetensors`** |
+| `transformers` 5.x | chặn `torch.load` trên `.bin` khi `torch < 2.6` (CVE-2025-32434) → **ném lỗi ngay** |
+
+Giữ bge-m3 thì mỗi người phải tải 200 MB–2,5 GB torch **cộng** 2,27 GB model, và có nguy cơ phá vỡ stack đang chạy tốt. `chroma_db/` lại nằm trong `.gitignore` nên **cả 5 người đều phải tự chạy `task4`** — mọi cách vá cục bộ đều vô nghĩa.
+
+Ai có `torch>=2.6` muốn quay lại bge-m3 thì **không cần sửa code**:
+```powershell
+$env:EMBEDDING_MODEL="BAAI/bge-m3"; $env:EMBEDDING_DIM="1024"
+```
+
+#### 🔴 Hợp đồng bắt buộc cho Task 5 (Đức Anh)
+
+Họ model E5 huấn luyện với **tiền tố bắt buộc**: `"query: "` cho câu hỏi, `"passage: "` cho tài liệu. Thiếu tiền tố thì model **vẫn chạy, vẫn trả kết quả, chỉ kém hơn** — không exception, không triệu chứng nào để lần ra.
+
+Nên đừng gọi `get_embedding_model().encode()` trực tiếp. Dùng:
+
+```python
+from .task4_chunking_indexing import embed_query, get_collection
+
+vec = embed_query(query)                      # tự gắn "query: "
+res = get_collection().query(query_embeddings=[vec], n_results=top_k,
+                             include=["documents", "metadatas", "distances"])
+```
+
+`embed_query()` và `embed_passages()` tự bật/tắt tiền tố theo tên model, nên nếu sau này đổi về bge-m3 thì code Task 5 **không phải sửa gì**.
+
+> Triệu chứng khi gắn sai: điểm cosine của **mọi** câu đều thấp bất thường (<0,6) kể cả câu chắc chắn liên quan. Gặp thì xoá `chroma_db/` và index lại, đừng index đè.
+
 ### Chunking đã dùng — ảnh hưởng trực tiếp tới cách bạn viết retrieval
 
 **Không cắt mù 800 ký tự.** Đáp án của một câu hỏi pháp lý gần như luôn nằm gọn trong **một Điều**.
@@ -204,9 +241,59 @@ P-185 đo: nâng trần token 4.000 → 8.000 kéo R@5 từ 0,640 lên 0,720. N�
 
 ---
 
-## 5. Thống kê corpus sau chunk
+## 5. Thống kê corpus + số hiệu chuẩn ngưỡng
 
-*(điền ở CP3)*
+### Corpus đã index
+
+| | |
+|---|---|
+| Văn bản | 4 |
+| Chunk | **1.095** |
+| Chunk vượt `CHUNK_SIZE × 1,1` | **0** (`TestTask4` xanh) |
+| Có `legal_ref` | 871/1.095 (**79%**) |
+| Độ dài chunk trung bình | 565 ký tự |
+| `customer_role` | `doanh_nghiep` 548 · `both` 546 · `ho_kinh_doanh` 1 |
+| Collection | `ecommerce_legal_docs`, cosine, 384 chiều |
+
+> `ho_kinh_doanh` chỉ có 1 chunk là **đúng với corpus hiện tại** — NĐ 01/2021 (văn bản về hộ kinh doanh) chưa nạp được. Con số này sẽ tăng khi lấp xong lỗ hổng ở mục 1.
+
+### 🔴 SCORE_THRESHOLD — số đo thật, đừng dùng 0.48 trong tài liệu
+
+`LAB_GUIDE.md` và `day8-lab-rag-pipeline.md` ghi `0.48`. **Giá trị đó KHÔNG áp dụng cho model hiện tại** — nó tính cho model khác. Với `multilingual-e5-small`, ngưỡng 0,48 nằm dưới cả câu lạc đề nhất, nên fallback PageIndex sẽ **không bao giờ** kích hoạt.
+
+Đo trên chính corpus này (lấy cosine cao nhất của mỗi câu):
+
+| Nhóm | Khoảng cosine | Ví dụ |
+|---|---|---|
+| **Liên quan** | **0,882 – 0,923** | "Vốn điều lệ của công ty cổ phần…" → 0,923 (LDN Điều 112) |
+| **Lạc đề** | **0,815 – 0,828** | "Công thức nấu phở bò…" → 0,828 · "xyzabc123nonsense" → 0,815 |
+
+→ **Đề xuất `SCORE_THRESHOLD = 0.85`** (giữa hai cụm, biên 0,054 mỗi phía).
+
+Đức Anh nên tự chạy lại phép đo này sau khi lấp NĐ 01/2021 + TT 40/2021, vì thêm văn bản có thể dịch dải điểm.
+
+Kiểm chứng retrieval — cả 4 câu liên quan đều trúng đúng điều khoản:
+
+| Câu hỏi | Trúng |
+|---|---|
+| Thành lập công ty TNHH một thành viên… | LDN **Điều 48** |
+| Hàng hoá nào bị cấm đăng bán trên sàn… | NĐ 52 **Điều 26** |
+| Nghĩa vụ của người bán trên sàn… | NĐ 52 **Điều 35** |
+| Vốn điều lệ của công ty cổ phần… | LDN **Điều 112** |
+
+### ⚠️ Hạn chế đã đo: query KHÔNG DẤU bị hỏng
+
+Cùng một câu hỏi, gõ không dấu thì điểm mất hết khả năng phân biệt:
+
+| Query | Cosine | Trúng |
+|---|---|---|
+| "Thành lập công ty TNHH một thành viên…" (có dấu) | 0,887 | LDN Điều 48 ✅ |
+| "thanh lap cong ty TNHH mot thanh vien…" (không dấu) | 0,868 | TikTok Terms ❌ |
+| "cong thuc nau pho bo" (không dấu, lạc đề) | 0,855 | TikTok Terms |
+
+Không dấu thì câu đúng chủ đề (0,868) và câu lạc đề (0,855) **gần như bằng nhau** → ngưỡng nào cũng vô dụng. BM25 còn hỏng nặng hơn vì token không khớp chút nào.
+
+→ **Việc cho Đức Anh (Task 5) và Kỳ Anh (Task 6):** nếu còn giờ, thêm bước khôi phục dấu hoặc so khớp không dấu ở tầng chuẩn hoá câu hỏi. Nếu không kịp thì **ghi vào README như hạn chế đã biết** và nhắc trong demo là hệ thống giả định người dùng gõ có dấu — nói ra một hạn chế đã đo được luôn tốt hơn để coach tự phát hiện.
 
 ---
 

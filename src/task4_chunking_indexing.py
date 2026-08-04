@@ -48,11 +48,21 @@ CHUNK_SIZE = 800
 CHUNK_OVERLAP = 100
 CHUNKING_METHOD = "legal_structure_then_recursive"
 
-# bge-m3: 1024 chiều, multilingual, mạnh với tiếng Việt. Nặng 2,27 GB.
-# Mạng chậm thì đổi bằng biến môi trường, KHÔNG sửa code:
-#     $env:EMBEDDING_MODEL="intfloat/multilingual-e5-small"; $env:EMBEDDING_DIM="384"
-EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "BAAI/bge-m3")
-EMBEDDING_DIM = int(os.getenv("EMBEDDING_DIM", "1024"))
+# ĐÃ ĐỔI TỪ bge-m3 SANG e5-small — đừng đổi ngược lại nếu chưa nâng torch.
+#
+# `BAAI/bge-m3` trên Hub CHỈ có `pytorch_model.bin`, không có `model.safetensors`
+# (kiểm bằng `hf_fs ls hf://models/BAAI/bge-m3`). Mà `transformers` 5.x chặn
+# `torch.load` trên tệp .bin khi torch < 2.6 (CVE-2025-32434). Máy lab đang chạy
+# torch 2.5.1+cu121 → bge-m3 NÉM LỖI NGAY, không phải mạng chậm.
+#
+# Nâng torch thì phải tải 200 MB–2,5 GB MỖI NGƯỜI, cộng 2,27 GB bge-m3, và có
+# nguy cơ phá vỡ transformers/sentence-transformers đang chạy tốt. e5-small có
+# safetensors, chỉ 471 MB, chạy thẳng với torch hiện tại.
+#
+# Ai có torch>=2.6 muốn dùng lại bge-m3 thì KHÔNG cần sửa code:
+#     $env:EMBEDDING_MODEL="BAAI/bge-m3"; $env:EMBEDDING_DIM="1024"
+EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "intfloat/multilingual-e5-small")
+EMBEDDING_DIM = int(os.getenv("EMBEDDING_DIM", "384"))
 
 VECTOR_STORE = "chromadb"
 COLLECTION_NAME = "ecommerce_legal_docs"
@@ -78,6 +88,35 @@ def get_embedding_model():
 
         _model = SentenceTransformer(EMBEDDING_MODEL)
     return _model
+
+
+# ── Tiền tố E5 ────────────────────────────────────────────────────────────
+#
+# Họ model E5 được huấn luyện với tiền tố BẮT BUỘC: "query: " cho câu hỏi,
+# "passage: " cho tài liệu. Thiếu tiền tố thì model VẪN CHẠY, VẪN TRẢ KẾT QUẢ,
+# chỉ là kém hơn — không có exception, không có triệu chứng nào để lần ra.
+#
+# Vì vậy KHÔNG để mỗi Task tự nhớ gắn. Dùng hai hàm dưới đây; chúng tự bật/tắt
+# tiền tố theo tên model nên đổi sang bge-m3 (không dùng tiền tố) vẫn đúng mà
+# không phải sửa chỗ nào.
+_DUNG_TIEN_TO = "e5" in EMBEDDING_MODEL.lower()
+
+
+def embed_passages(texts: list[str], show_progress: bool = False) -> list[list[float]]:
+    """Nhúng TÀI LIỆU (lúc index). Task 4 dùng."""
+    model = get_embedding_model()
+    if _DUNG_TIEN_TO:
+        texts = [f"passage: {t}" for t in texts]
+    return model.encode(texts, show_progress_bar=show_progress, batch_size=16).tolist()
+
+
+def embed_query(text: str) -> list[float]:
+    """Nhúng CÂU HỎI (lúc truy vấn). Task 5 dùng hàm này, KHÔNG gọi
+    `get_embedding_model().encode()` trực tiếp — sẽ mất tiền tố."""
+    model = get_embedding_model()
+    if _DUNG_TIEN_TO:
+        text = f"query: {text}"
+    return model.encode(text).tolist()
 
 
 def get_collection():
@@ -220,11 +259,11 @@ def chunk_documents(documents: list[dict]) -> list[dict]:
 # =============================================================================
 
 def embed_chunks(chunks: list[dict]) -> list[dict]:
-    model = get_embedding_model()
-    texts = [c["content"] for c in chunks]
-    embs = model.encode(texts, show_progress_bar=True, batch_size=16)
+    # Qua embed_passages() để tiền tố "passage: " được gắn đúng — index và truy
+    # vấn phải cùng quy ước, lệch nhau là điểm cosine tụt mà không báo lỗi.
+    embs = embed_passages([c["content"] for c in chunks], show_progress=True)
     for c, e in zip(chunks, embs):
-        c["embedding"] = e.tolist()
+        c["embedding"] = e
     return chunks
 
 
