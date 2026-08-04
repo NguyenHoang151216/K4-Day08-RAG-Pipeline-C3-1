@@ -19,6 +19,42 @@ trả lời. Đoạn văn cần ngắn gọn, giàu từ khóa liên quan và vi
 Không nhắc rằng đây là câu trả lời giả định, không thêm tiêu đề hay giải thích."""
 
 
+def _open_index():
+    """Trả collection đã index hoặc ``None`` nếu Task 4 chưa chạy."""
+    from .task4_chunking_indexing import get_collection
+
+    try:
+        collection = get_collection()
+        return collection if collection.count() > 0 else None
+    except Exception as exc:
+        message = str(exc).lower()
+        if "does not exist" in message or "not found" in message:
+            return None
+        raise
+
+
+def _query_collection(collection, embedding, top_k: int) -> list[dict]:
+    """Query Chroma và chuẩn hóa kết quả về contract chung của Task 5."""
+    results = collection.query(
+        query_embeddings=[embedding],
+        n_results=min(top_k, collection.count()),
+        include=["documents", "metadatas", "distances"],
+    )
+    output = []
+    for document, metadata, distance in zip(
+        results.get("documents", [[]])[0],
+        results.get("metadatas", [[]])[0],
+        results.get("distances", [[]])[0],
+    ):
+        score = min(1.0, max(0.0, 1.0 - float(distance)))
+        output.append({
+            "content": document or "",
+            "score": round(score, 4),
+            "metadata": metadata or {},
+        })
+    return sorted(output, key=lambda item: item["score"], reverse=True)[:top_k]
+
+
 def semantic_search(query: str, top_k: int = 10) -> list[dict]:
     """
     Tìm kiếm ngữ nghĩa sử dụng vector similarity.
@@ -38,42 +74,16 @@ def semantic_search(query: str, top_k: int = 10) -> list[dict]:
     if not isinstance(query, str) or not query.strip() or top_k <= 0:
         return []
 
-    from .task4_chunking_indexing import get_collection, get_embedding_model
+    from .task4_chunking_indexing import get_embedding_model
 
-    try:
-        collection = get_collection()
-        count = collection.count()
-    except Exception as exc:
-        # Chroma dùng các exception khác nhau giữa các phiên bản khi collection
-        # chưa tồn tại. Chỉ coi đó là corpus chưa index; lỗi query vẫn nổi lên.
-        if "does not exist" in str(exc).lower() or "not found" in str(exc).lower():
-            return []
-        raise
-    if count == 0:
+    collection = _open_index()
+    if collection is None:
         return []
 
-    model = get_embedding_model()
-    query_vector = model.encode(query.strip(), normalize_embeddings=True).tolist()
-    results = collection.query(
-        query_embeddings=[query_vector],
-        n_results=min(top_k, count),
-        include=["documents", "metadatas", "distances"],
-    )
-
-    output = []
-    for document, metadata, distance in zip(
-        results.get("documents", [[]])[0],
-        results.get("metadatas", [[]])[0],
-        results.get("distances", [[]])[0],
-    ):
-        score = min(1.0, max(0.0, 1.0 - float(distance)))
-        output.append({
-            "content": document,
-            "score": round(score, 4),
-            "metadata": metadata or {},
-        })
-    output.sort(key=lambda item: item["score"], reverse=True)
-    return output[:top_k]
+    query_vector = get_embedding_model().encode(
+        query.strip(), normalize_embeddings=True
+    ).tolist()
+    return _query_collection(collection, query_vector, top_k)
 
 
 def semantic_search_hyde(query: str, top_k: int = 10) -> list[dict]:
@@ -90,33 +100,17 @@ def semantic_search_hyde(query: str, top_k: int = 10) -> list[dict]:
     if not isinstance(query, str) or not query.strip() or top_k <= 0:
         return []
 
-    from .task4_chunking_indexing import get_collection, get_embedding_model
+    from .task4_chunking_indexing import get_embedding_model
 
-    collection = get_collection()
-    count = collection.count()
-    if count == 0:
+    collection = _open_index()
+    if collection is None:
         return []
 
     hypothetical_document = _generate_hypothetical_doc(query.strip())
     vector = get_embedding_model().encode(
         hypothetical_document, normalize_embeddings=True
     ).tolist()
-    results = collection.query(
-        query_embeddings=[vector],
-        n_results=min(top_k, count),
-        include=["documents", "metadatas", "distances"],
-    )
-    output = []
-    for document, metadata, distance in zip(
-        results["documents"][0], results["metadatas"][0], results["distances"][0]
-    ):
-        score = min(1.0, max(0.0, 1.0 - float(distance)))
-        output.append({
-            "content": document,
-            "score": round(score, 4),
-            "metadata": metadata or {},
-        })
-    return sorted(output, key=lambda item: item["score"], reverse=True)[:top_k]
+    return _query_collection(collection, vector, top_k)
 
 
 def _generate_hypothetical_doc(query: str) -> str:

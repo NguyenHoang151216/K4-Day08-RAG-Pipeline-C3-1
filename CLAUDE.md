@@ -4,13 +4,35 @@ Repo này có **5 người làm song song, mỗi người một AI agent riêng*
 
 ---
 
+## 0. Chủ đề của nhóm — 🏛️ Trợ Lý Pháp Lý Khởi Nghiệp & Thương Mại Điện Tử
+
+Tra cứu quy định pháp lý khi bán hàng trên TikTok Shop / Shopee, đăng ký Hộ kinh doanh cá thể, thành lập Công ty TNHH / Cổ phần.
+
+**Corpus** (`data/landing/legal/`): Luật Doanh nghiệp 2020 · Nghị định 01/2021/NĐ-CP (đăng ký DN & hộ kinh doanh) · Thông tư 40/2021/TT-BTC (thuế hộ & cá nhân kinh doanh) · Nghị định 52/2013/NĐ-CP (TMĐT) · Nghị định 85/2021/NĐ-CP · Quy định người bán TikTok Shop/Shopee.
+
+**Hai câu hỏi demo flagship** — mọi thay đổi đều phải giữ chúng chạy được:
+- *"Bán hàng online trên TikTok Shop đạt doanh thu bao nhiêu thì phải nộp thuế TNCN và GTGT?"*
+- *"Hồ sơ và thủ tục đăng ký Hộ kinh doanh cá thể gồm những giấy tờ gì?"*
+
+⚠️ Repo starter viết theo chủ đề cũ ("E-commerce Support / Shopee"). Nếu gặp text chủ đề cũ trong **file thuộc vùng của bạn** thì sửa cho khớp; nếu ở file người khác thì **báo, đừng sửa**.
+
+**Metadata schema chốt ở Task 4** (ChromaDB chỉ nhận scalar):
+```python
+{"source": "nd-01-2021.pdf", "type": "legal"|"news", "chunk_index": int,
+ "doc_title": "Nghị định 01/2021/NĐ-CP", "legal_ref": "Điều 87",
+ "customer_role": "ho_kinh_doanh"|"doanh_nghiep"|"both"}
+```
+`legal_ref` dùng để LLM cite dạng `[Nghị định 01/2021/NĐ-CP, Điều 87]` — đừng bỏ field này khi format context.
+
+---
+
 ## 1. Chủ quyền file — TUYỆT ĐỐI không sửa file ngoài vùng của mình
 
 | Vùng file | Chủ sở hữu | Role |
 |---|---|---|
-| `data/**`, `src/task1_*.py`, `src/task2_*.py`, `src/task3_*.py`, `src/task4_*.py`, `src/task5_*.py` | **Đức Anh** | Data & Dense Search |
+| `data/**`, `src/task1_*.py`, `src/task2_*.py`, `src/task3_*.py`, `src/task4_*.py`, `README.md`, `requirements.txt`, `.gitignore`, `.gitattributes`, `CLAUDE.md`, `TEAM_PLAN.md`, `.env.example` | **Tuấn Anh** | Data & Indexing Lead + Merge Captain |
+| `src/task5_*.py`, `src/task9_*.py`, `src/supervisor.py` | **Đức Anh** | RAG Architect & Dense Search |
 | `src/task6_*.py`, `src/task7_*.py`, `src/task8_*.py` | **Kỳ Anh** | Sparse Search & Reranking |
-| `src/task9_*.py`, `src/supervisor.py`, `README.md`, `requirements.txt`, `.gitignore`, `.gitattributes`, `CLAUDE.md`, `.env.example` | **Tuấn Anh** | Team Leader & RAG Architect |
 | `src/task10_*.py`, `app.py` | **Hoàng** | Frontend & Chatbot |
 | `group_project/**` | **Trường** | Evaluation & QA |
 | `tests/**` | **KHÔNG AI** — file chấm điểm, sửa là gian lận | — |
