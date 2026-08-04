@@ -86,13 +86,11 @@ ChromaDB chỉ nhận giá trị scalar (str/int/float/bool) trong metadata.
 
 | Người | Role | Nhiệm vụ | File sở hữu (ĐỘC QUYỀN) |
 |---|---|---|---|
-| **Tuấn Anh** | **Data & Indexing Lead** + **Merge Captain** | Task 1–3 (thu thập, chuẩn hoá), Task 4 (chunk + index + metadata), điều phối merge, README | `data/**`, `src/task1_*.py`, `src/task2_*.py`, `src/task3_*.py`, `src/task4_*.py`, `README.md`, `requirements.txt`, `.gitignore`, `.gitattributes`, `CLAUDE.md`, `TEAM_PLAN.md`, `.env.example` |
-| **Đức Anh** | **RAG Architect & Dense Search** | Task 5 (semantic + HyDE), Task 9 (pipeline hoàn chỉnh), deploy HF | `src/task5_*.py`, `src/task9_*.py`, `src/supervisor.py` |
-| **Kỳ Anh** | Sparse Search & Reranking | Task 6 (BM25 + TF-IDF), Task 7 (RRF), Task 8 (vectorless fallback) | `src/task6_*.py`, `src/task7_*.py`, `src/task8_*.py` |
-| **Hoàng** | Frontend & Chatbot + **Repo Admin** | Task 10 (generation), `app.py`, conversation memory, UI/UX | `src/task10_generation.py`, `app.py` |
-| **Trường** | Evaluation & QA | Golden dataset, RAGAS, A/B, báo cáo, **chạy pytest cho cả team** | `group_project/**` |
-
-> 🔄 **Đã đổi so với bản trước**: Tuấn Anh chuyển sang phụ trách dữ liệu + indexing (Task 1–4); Đức Anh nhận Task 5 + Task 9. Tuấn Anh vẫn giữ vai Merge Captain và các file cấu hình chung.
+| **Tuấn Anh** | Role 1 — Team Leader & RAG Architect | Task 9, tích hợp, **merge captain**, README kiến trúc, thuyết trình | `src/task9_retrieval_pipeline.py`, `README.md`, `requirements.txt`, `.gitignore`, `.gitattributes`, `CLAUDE.md`, `TEAM_PLAN.md`, `.env.example`, `src/supervisor.py` |
+| **Đức Anh** | Role 2 — Data & Dense Search Dev | Task 1–3 (thu thập), Task 4 (chunk+index), Task 5 (semantic + HyDE), deploy HF | `data/**`, `src/task1_*.py`, `src/task2_*.py`, `src/task3_*.py`, `src/task4_*.py`, `src/task5_*.py` |
+| **Kỳ Anh** | Role 3 — Sparse Search & Reranking Dev | Task 6 (BM25 + TF-IDF), Task 7 (RRF), Task 8 (vectorless fallback) | `src/task6_*.py`, `src/task7_*.py`, `src/task8_*.py` |
+| **Hoàng** | Role 4 — Frontend & Chatbot Dev + **Repo Admin** | Task 10 (generation), `app.py`, conversation memory, UI/UX | `src/task10_generation.py`, `app.py` |
+| **Trường** | Role 5 — Evaluation & QA Engineer | Golden dataset, RAGAS, A/B, báo cáo, **chạy pytest cho cả team** | `group_project/**` |
 
 **Không ai được sửa `tests/`** — file chấm điểm.
 **Không ai sửa file ngoài vùng của mình.** Cần đổi file người khác → nhắn group chat, chủ file tự sửa.
@@ -128,9 +126,9 @@ python -c "from sentence_transformers import SentenceTransformer; SentenceTransf
 
 | Người | Việc CP0 |
 |---|---|
-| **Hoàng** | GitHub → Settings → Collaborators → mời 4 người (**Write**), Tuấn Anh cấp **Maintain**. Bật branch protection `main`: *Require a pull request before merging* (0 approval). |
-| **Tuấn Anh** | ✅ **ĐÃ XONG** — setup commit đã ở trên `main`. |
-| **Cả 5** | `git pull origin main` → chạy mục 3.2. Đăng ký https://openrouter.ai → tạo key → copy `.env.example` thành `.env`, điền `OPENROUTER_API_KEY`. Test: `python -c "import os,dotenv;dotenv.load_dotenv();print(os.getenv('OPENROUTER_API_KEY')[:12])"` |
+| **Hoàng** | GitHub repo → Settings → Collaborators → mời 4 người còn lại (**Write**), riêng Tuấn Anh cấp **Maintain** để merge PR. Bật branch protection cho `main`: *Require a pull request before merging* (0 approval để merge nhanh). |
+| **Tuấn Anh** | ✅ **ĐÃ XONG** — setup commit (`.gitignore` + `.gitattributes` + `CLAUDE.md` + `TEAM_PLAN.md`) đã ở trên `main`. |
+| **Cả 5** | `git clone` → `git pull origin main` → chạy mục 3.2 (config git). Đăng ký https://openrouter.ai → Keys → Create key. Copy `.env.example` → `.env`, điền `OPENROUTER_API_KEY`. Test: `python -c "import os,dotenv;dotenv.load_dotenv();print(os.getenv('OPENROUTER_API_KEY')[:12])"` |
 | **Trường** | Đăng ký thêm https://pageindex.ai lấy `PAGEINDEX_API_KEY` (nếu được), gửi Kỳ Anh. Không có cũng không sao — xem Plan B Task 8. |
 
 ✅ **Pass CP0**: `import chromadb, sentence_transformers, streamlit` không lỗi; có `.env`; 4 người nhận lời mời collaborator.
@@ -143,11 +141,11 @@ python -c "from sentence_transformers import SentenceTransformer; SentenceTransf
 
 | Người | Việc | Branch |
 |---|---|---|
-| **Tuấn Anh** | Task 1 + 2 + 3. Ưu tiên tải NĐ 01/2021 và TT 40/2021 TRƯỚC | `feat/tuananh-cp1-data` |
-| **Đức Anh** | **Không đụng `data/`.** Tìm & gửi link 6 văn bản + 5 bài báo qua chat cho Tuấn Anh; viết khung Task 9 + `supervisor.py` | `feat/ducanh-cp1-skeleton` |
-| **Kỳ Anh** | Task 7 (`rerank_rrf` + `rerank`) — thuần thuật toán, test bằng dummy, **không chờ ai** | `feat/kyanh-cp1-rerank` |
-| **Hoàng** | Task 10 phần thuần: `reorder_for_llm()` + `format_context()` (không cần LLM/data) | `feat/hoang-cp1-reorder` |
-| **Trường** | Khung 15 câu `golden_dataset.json` theo chủ đề pháp lý (tinh chỉnh sau khi có data) | `feat/truong-cp1-golden` |
+| **Đức Anh** | Task 1 + 2 + 3 | `feat/ducanh-cp1-data` |
+| **Tuấn Anh** | **Hỗ trợ Đức Anh**: nhận 3/5 URL crawl, gửi file JSON qua chat để Đức Anh commit (KHÔNG tự commit vào `data/`) | — |
+| **Kỳ Anh** | Task 7 (`rerank_rrf` + `rerank`) — thuần thuật toán, test bằng dummy data, **không cần chờ ai** | `feat/kyanh-cp1-rerank` |
+| **Hoàng** | Task 10 phần thuần: `reorder_for_llm()` + `format_context()` (không cần LLM, không cần data) | `feat/hoang-cp1-reorder` |
+| **Trường** | Viết khung 15 câu `golden_dataset.json` (câu hỏi chung về chính sách TMĐT, tinh chỉnh sau khi có data thật) + đọc rubric | `feat/truong-cp1-golden` |
 
 ✅ **Pass CP1**: ≥3 (mục tiêu 6) file PDF trong `data/landing/legal/` mỗi file >1KB; ≥5 JSON trong `data/landing/news/` mỗi file >500 bytes **có field `url`**; có `.md` tương ứng trong `data/standardized/`. PR Tuấn Anh **merge đầu tiên**.
 
@@ -161,7 +159,8 @@ python -c "from sentence_transformers import SentenceTransformer; SentenceTransf
 | **Đức Anh** | Task 5 `semantic_search()` — code trước theo contract, test ngay khi Task 4 merge | `feat/ducanh-cp2-semantic` |
 | **Kỳ Anh** | Task 6 (`build_bm25_index` + `lexical_search`) — cần `data/standardized/` từ CP1 | `feat/kyanh-cp2-bm25` |
 | **Hoàng** | Task 10: gọi LLM OpenRouter với **fake chunks hardcode**, chưa nối `retrieve()` | `feat/hoang-cp2-llm` |
-| **Trường** | Đọc `data/standardized/*.md`, viết lại `golden_dataset.json` **15–20 câu bám văn bản thật** | `feat/truong-cp2-golden` |
+| **Trường** | Đọc `data/standardized/*.md`, viết lại `golden_dataset.json` **15–20 câu bám sát nội dung thật** | `feat/truong-cp2-golden` |
+| **Tuấn Anh** | Viết khung Task 9 (chưa chạy được), review + merge PR CP1 | `feat/tuananh-cp2-pipeline` |
 
 🚦 **DECISION GATE — cuối CP2 (1:00)**: nếu `bge-m3` chưa tải xong, Tuấn Anh đổi 2 dòng trong `task4_chunking_indexing.py`:
 ```python
@@ -182,7 +181,7 @@ báo cả nhóm tải model đó, index lại, ghi lý do vào README. **Không 
 | **Đức Anh** | Task 9 `retrieve()` + **calibrate `SCORE_THRESHOLD` bằng đo thật** | `feat/ducanh-cp3-pipeline` |
 | **Tuấn Anh** | Kiểm tra chất lượng chunk (điều/khoản có bị cắt đôi không), reindex nếu cần | `feat/tuananh-cp3-fix` |
 | **Hoàng** | Nối `generate_with_citation()` → `retrieve()` thật, wire vào `app.py` | `feat/hoang-cp3-wire` |
-| **Trường** | Viết `evaluate_with_ragas()` + `compare_configs()` | `feat/truong-cp3-ragas` |
+| **Quyền** | Viết `evaluate_with_ragas()` + `compare_configs()` | `feat/truong-cp3-ragas` |
 
 ✅ **Pass CP3**: `rerank_rrf([dense, sparse])` gộp đúng; `pageindex_search()` trả list có `source: "pageindex"`; Đức Anh đọc được bảng điểm cosine query liên quan vs lạc đề.
 
@@ -190,8 +189,7 @@ báo cả nhóm tải model đó, index lại, ghi lý do vào README. **Không 
 
 ### CP4 — Chốt 50đ pipeline (1:20 – 1:45) ⭐ MỐC QUAN TRỌNG NHẤT
 
-- **Tuấn Anh**: merge toàn bộ PR → `main` theo đúng thứ tự, giữ `main` xanh.
-- **Đức Anh**: hoàn tất Task 9, chạy smoke test end-to-end.
+- **Tuấn Anh**: merge toàn bộ PR → `main`, hoàn tất Task 9.
 - **Trường (QA)**: trên `main` mới nhất chạy
   ```powershell
   $env:PYTHONIOENCODING="utf-8"
@@ -208,8 +206,8 @@ báo cả nhóm tải model đó, index lại, ghi lý do vào README. **Không 
 
 | Người | Việc |
 |---|---|
-| **Trường** | RAGAS 4 metric × 2 config (A: hybrid+rerank / B: dense-only), điền `results.md`: bảng điểm, Δ, worst 3, 3 đề xuất |
-| **Hoàng** | Conversation memory + UI hiển thị score/highlight; **đổi câu hỏi gợi ý trong sidebar sang chủ đề pháp lý** |
+| **Trường** | Chạy RAGAS 4 metric × 2 config (A: hybrid+rerank / B: dense-only), điền `results.md`: bảng điểm, Δ, worst 3, 3 đề xuất |
+| **Hoàng** | Conversation memory (multi-turn) + UI hiển thị score/highlight trong `app.py` |
 | **Đức Anh** | `git add -f chroma_db/` (LFS) + deploy Hugging Face Spaces |
 | **Tuấn Anh** | **README: đổi tiêu đề/frontmatter HF từ "E-commerce Support" sang "Trợ lý Pháp lý Khởi nghiệp & TMĐT"** + diagram kiến trúc + bảng phân công + giải thích config (chunk 800/100, model, threshold, metadata schema) |
 | **Kỳ Anh** | Chuẩn bị notes giải thích BM25 vs TF-IDF (bonus 5đ) |
@@ -222,10 +220,10 @@ báo cả nhóm tải model đó, index lại, ghi lý do vào README. **Không 
 
 | Người | Phần trình bày |
 |---|---|
-| **Tuấn Anh** | Chủ đề, nguồn 6 văn bản, **vì sao phải thêm NĐ 01/2021 + TT 40/2021**, metadata schema `legal_ref`, chunk 800/100 |
-| **Đức Anh** | Kiến trúc pipeline, hybrid retrieval, **cái bẫy fallback** (cosine gốc vs RRF), HyDE |
-| **Kỳ Anh** | BM25 vs TF-IDF, công thức RRF, vectorless retrieval (bonus 5đ) |
-| **Hoàng** | Live demo Streamlit — chạy đúng 2 câu hỏi flagship + citation có điều/khoản + memory |
+| **Tuấn Anh** | Tổng quan kiến trúc + luồng dữ liệu + phân công |
+| **Đức Anh** | Nguồn data, lý do chunk 800/100, `customer_role`, HyDE |
+| **Kỳ Anh** | BM25 vs TF-IDF, công thức RRF, **cái bẫy fallback** (bonus 5đ) |
+| **Hoàng** | Live demo Streamlit + citation + memory |
 | **Trường** | Bảng RAGAS A/B + worst performers + đề xuất |
 
 Cuối cùng: `git push origin main`, gửi link repo + link HF Space.
@@ -457,7 +455,7 @@ Chọn `LLM_MODEL` là model `:free` (https://openrouter.ai/models?max_price=0).
 
 ---
 
-### 4.5 TRƯỜNG — Evaluation & QA
+### 4.5 Quyền — Evaluation & QA
 
 **`golden_dataset.json`** — **15–20 câu**, mỗi câu `{question, expected_answer, expected_context}`.
 ⚠️ **3 câu mẫu sẵn có nói về Shopee — phải xoá và viết lại toàn bộ theo chủ đề pháp lý.** Phải bám nội dung `data/standardized/` thật.
@@ -560,5 +558,5 @@ Kiểm: `results.md` đủ 4 metric × 2 config + Δ, worst 3, 3 đề xuất.
 **Hoàng (Frontend & Chatbot):**
 > Đọc `CLAUDE.md` và mục 4.4 của `TEAM_PLAN.md` trước. Tôi là **Hoàng — Frontend & Chatbot Dev**. Tôi CHỈ được sửa: `src/task10_generation.py` và `app.py`. Không sửa file khác, không sửa `tests/`, không `git add .`. Chủ đề nhóm đã đổi sang **Trợ lý Pháp lý Khởi nghiệp & TMĐT** — phải sửa `SYSTEM_PROMPT`, tiêu đề và 5 câu hỏi gợi ý trong sidebar cho khớp. Nhiệm vụ: (1) `reorder_for_llm` = `chunks[::2] + chunks[1::2][::-1]`. (2) `format_context` BẮT BUỘC chèn `metadata['source']` (test assert tên file có trong context), nên chèn thêm `doc_title` + `legal_ref` để LLM cite dạng `[Nghị định 01/2021/NĐ-CP, Điều 87]`. (3) `generate_with_citation` gọi OpenRouter qua OpenAI SDK `base_url="https://openrouter.ai/api/v1"`, model `:free`, bọc try/except để hết quota thì trả message lỗi chứ không raise. (4) `app.py` đã xong ~90% — xoá TODO chết dòng 113–118, thêm conversation memory 4 lượt và UI hiển thị score/badge nguồn/legal_ref. Chạy `python -m src.task10_generation` để test.
 
-**Trường (Evaluation & QA):**
-> Đọc `CLAUDE.md` và mục 4.5 của `TEAM_PLAN.md` trước. Tôi là **Trường — Evaluation & QA Engineer**. Tôi CHỈ được sửa file trong `group_project/**`. Không sửa `src/`, không sửa `app.py`, TUYỆT ĐỐI không sửa `tests/` (file chấm điểm — sửa là gian lận). Không `git add .`. Chủ đề nhóm là **Trợ lý Pháp lý Khởi nghiệp & TMĐT** (Luật Doanh nghiệp 2020, NĐ 01/2021, TT 40/2021, NĐ 52/2013, NĐ 85/2021, quy định TikTok Shop/Shopee). Nhiệm vụ: (1) **Xoá 3 câu mẫu Shopee cũ**, viết `golden_dataset.json` 15–20 câu mới bám `data/standardized/` thật — 60% trả lời trực tiếp, 25% cần tổng hợp 2 nguồn, 15% ngoài domain để test fallback. (2) Implement `evaluate_with_ragas`, `compare_configs` (A: `retrieve(use_reranking=True)` vs B: dense-only `semantic_search`), `export_results` — RAGAS judge trỏ về OpenRouter qua `ChatOpenAI(base_url=...)`. (3) Điền `results.md` đủ 4 phần. Quota OpenRouter free 50 req/ngày cho CẢ tài khoản: chạy 5 câu trước, chỉ mở rộng nếu còn quota. Tôi cũng là QA: sau mỗi lần `main` cập nhật, chạy `python -m pytest tests/test_individual.py -v` và báo bảng *test fail/skip → task → chủ file*.
+**Trường (Role 5):**
+> Đọc `CLAUDE.md` ở root repo trước. Tôi là **Trường — Evaluation & QA Engineer**. Tôi CHỈ được sửa file trong `group_project/**`. Không sửa `src/`, không sửa `app.py`, TUYỆT ĐỐI không sửa `tests/` (đó là file chấm điểm — sửa là gian lận). Không `git add .`. Nhiệm vụ: (1) Viết lại `golden_dataset.json` 15–20 câu bám sát nội dung thật trong `data/standardized/` (60% trả lời trực tiếp, 25% cần tổng hợp 2 nguồn, 15% ngoài domain để test fallback). (2) Implement `evaluate_with_ragas`, `compare_configs` (A: `retrieve(use_reranking=True)` vs B: dense-only `semantic_search`), `export_results` — RAGAS judge trỏ về OpenRouter qua `ChatOpenAI(base_url=...)`. (3) Điền `results.md` đủ 4 phần. Lưu ý quota OpenRouter free 50 req/ngày cho CẢ tài khoản: chạy 5 câu trước để lấy số, chỉ mở rộng 15 câu nếu còn quota. Ngoài ra tôi là QA: sau mỗi lần `main` cập nhật, chạy `python -m pytest tests/test_individual.py -v` và báo bảng *test fail/skip → task → chủ file*.
