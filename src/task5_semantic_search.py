@@ -9,6 +9,15 @@ Yêu cầu:
     - Phải tương thích với embedding model và vector store ở Task 4
 """
 
+import os
+
+
+HYDE_MODEL = "openai/gpt-oss-20b:free"
+HYDE_SYSTEM_PROMPT = """Bạn là chuyên gia về thương mại điện tử và pháp luật Việt Nam.
+Từ câu hỏi của người dùng, hãy viết một đoạn tài liệu giả định có khả năng chứa câu
+trả lời. Đoạn văn cần ngắn gọn, giàu từ khóa liên quan và viết bằng tiếng Việt.
+Không nhắc rằng đây là câu trả lời giả định, không thêm tiêu đề hay giải thích."""
+
 
 def semantic_search(query: str, top_k: int = 10) -> list[dict]:
     """
@@ -26,35 +35,120 @@ def semantic_search(query: str, top_k: int = 10) -> list[dict]:
         }
         Sorted by score descending.
     """
-    # TODO: Implement semantic search
-    #
-    # Bước 1: Embed query bằng cùng model ở Task 4
-    # Bước 2: Query vector store (cosine similarity)
-    # Bước 3: Return top_k results
-    #
-    # Ví dụ với ChromaDB:
-    # from .task4_chunking_indexing import get_collection, get_embedding_model
-    #
-    # model = get_embedding_model()
-    # query_vector = model.encode(query).tolist()
-    #
-    # collection = get_collection()
-    # results = collection.query(
-    #     query_embeddings=[query_vector],
-    #     n_results=top_k,
-    #     include=["documents", "metadatas", "distances"],
-    # )
-    #
-    # output = []
-    # for doc, meta, dist in zip(
-    #     results["documents"][0], results["metadatas"][0], results["distances"][0]
-    # ):
-    #     score = max(0.0, 1.0 - dist)  # cosine distance → similarity
-    #     output.append({"content": doc, "score": round(score, 4), "metadata": meta})
-    #
-    # output.sort(key=lambda x: x["score"], reverse=True)
-    # return output[:top_k]
-    raise NotImplementedError("Implement semantic_search")
+    if not isinstance(query, str) or not query.strip() or top_k <= 0:
+        return []
+
+    from .task4_chunking_indexing import get_collection, get_embedding_model
+
+    try:
+        collection = get_collection()
+        count = collection.count()
+    except Exception as exc:
+        # Chroma dùng các exception khác nhau giữa các phiên bản khi collection
+        # chưa tồn tại. Chỉ coi đó là corpus chưa index; lỗi query vẫn nổi lên.
+        if "does not exist" in str(exc).lower() or "not found" in str(exc).lower():
+            return []
+        raise
+    if count == 0:
+        return []
+
+    model = get_embedding_model()
+    query_vector = model.encode(query.strip(), normalize_embeddings=True).tolist()
+    results = collection.query(
+        query_embeddings=[query_vector],
+        n_results=min(top_k, count),
+        include=["documents", "metadatas", "distances"],
+    )
+
+    output = []
+    for document, metadata, distance in zip(
+        results.get("documents", [[]])[0],
+        results.get("metadatas", [[]])[0],
+        results.get("distances", [[]])[0],
+    ):
+        score = min(1.0, max(0.0, 1.0 - float(distance)))
+        output.append({
+            "content": document,
+            "score": round(score, 4),
+            "metadata": metadata or {},
+        })
+    output.sort(key=lambda item: item["score"], reverse=True)
+    return output[:top_k]
+
+
+def semantic_search_hyde(query: str, top_k: int = 10) -> list[dict]:
+    """Tìm kiếm bằng Hypothetical Document Embeddings (HyDE).
+
+    Khác với :func:`semantic_search`, hàm này nhờ LLM viết một đoạn tài liệu
+    giả định có thể trả lời ``query``, rồi embed đoạn văn đó để tìm chunk thật
+    gần nhất trong ChromaDB. LLM chỉ hỗ trợ tạo truy vấn; nội dung trả về luôn
+    lấy từ vector store.
+
+    Raises:
+        RuntimeError: Khi thiếu API key hoặc OpenRouter không sinh được tài liệu.
+    """
+    if not isinstance(query, str) or not query.strip() or top_k <= 0:
+        return []
+
+    from .task4_chunking_indexing import get_collection, get_embedding_model
+
+    collection = get_collection()
+    count = collection.count()
+    if count == 0:
+        return []
+
+    hypothetical_document = _generate_hypothetical_doc(query.strip())
+    vector = get_embedding_model().encode(
+        hypothetical_document, normalize_embeddings=True
+    ).tolist()
+    results = collection.query(
+        query_embeddings=[vector],
+        n_results=min(top_k, count),
+        include=["documents", "metadatas", "distances"],
+    )
+    output = []
+    for document, metadata, distance in zip(
+        results["documents"][0], results["metadatas"][0], results["distances"][0]
+    ):
+        score = min(1.0, max(0.0, 1.0 - float(distance)))
+        output.append({
+            "content": document,
+            "score": round(score, 4),
+            "metadata": metadata or {},
+        })
+    return sorted(output, key=lambda item: item["score"], reverse=True)[:top_k]
+
+
+def _generate_hypothetical_doc(query: str) -> str:
+    """Sinh tài liệu giả định cho HyDE bằng OpenRouter."""
+    from dotenv import load_dotenv
+    from openai import OpenAI
+
+    load_dotenv()
+    api_key = os.getenv("OPENROUTER_API_KEY")
+    if not api_key:
+        raise RuntimeError(
+            "Thiếu OPENROUTER_API_KEY. Hãy cấu hình key trong file .env để chạy HyDE."
+        )
+
+    client = OpenAI(api_key=api_key, base_url="https://openrouter.ai/api/v1")
+    try:
+        response = client.chat.completions.create(
+            model=os.getenv("OPENROUTER_MODEL", HYDE_MODEL),
+            messages=[
+                {"role": "system", "content": HYDE_SYSTEM_PROMPT},
+                {"role": "user", "content": query},
+            ],
+            temperature=0.2,
+            max_tokens=250,
+        )
+        hypothetical_document = (response.choices[0].message.content or "").strip()
+    except Exception as exc:
+        raise RuntimeError(f"Không thể sinh tài liệu HyDE từ OpenRouter: {exc}") from exc
+
+    if not hypothetical_document:
+        raise RuntimeError("OpenRouter trả về tài liệu HyDE rỗng")
+    return hypothetical_document
 
 
 if __name__ == "__main__":
