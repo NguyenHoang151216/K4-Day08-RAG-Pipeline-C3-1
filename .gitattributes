@@ -1,3 +1,8 @@
+# Chuan hoa line ending: repo luon luu LF du may ai cau hinh core.autocrlf the nao.
+# Chan truong hop 1 nguoi commit CRLF lam ca file bi danh dau "thay doi toan bo".
+# Cac dong binary ben duoi ghi de dong nay (rule sau thang rule truoc).
+* text=auto
+
 chroma_db/chroma.sqlite3 filter=lfs diff=lfs merge=lfs -text
 *.bin filter=lfs diff=lfs merge=lfs -text
 *.pdf filter=lfs diff=lfs merge=lfs -text

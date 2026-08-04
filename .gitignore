@@ -9,6 +9,11 @@ venv/
 # Env (keys)
 .env
 
+# Vector store — moi nguoi tu sinh local bang `python -m src.task4_chunking_indexing`.
+# KHONG commit: file sqlite binary, doi sau moi lan index, 5 nguoi push vao se conflict.
+# Chi force-add 1 lan o CP5 de deploy: git add -f chroma_db/
+chroma_db/
+
 # Temp PDF conversion cache
 data/_tmp_pdf/
 
