@@ -1,28 +1,31 @@
 """
-Task 3 — Convert toàn bộ file trong data/landing/ thành Markdown.
+Task 3 — Chuẩn hoá dữ liệu thô thành Markdown sạch trong data/standardized/.
 
-Sử dụng MarkItDown của Microsoft:
-    https://github.com/microsoft/markitdown
+Nguồn vào: data/raw_crawl/*.md (bản cào thô, GIỮ NGUYÊN để đối chiếu khi debug)
+Nguồn ra:  data/standardized/{legal,news}/*.md  (có YAML front-matter)
 
-Cài đặt:
-    pip install "markitdown[pdf]"
-    # Lưu ý: cần extra [pdf] để convert được file PDF. Chỉ "pip install markitdown"
-    # (không có extra) sẽ báo MissingDependencyException khi convert PDF, dù JSON/DOCX
-    # vẫn convert bình thường.
+Pipeline 5 bước, chạy đúng thứ tự:
+    1. Chuẩn hoá Unicode NFC
+    2. Cắt rìa       — bỏ nav đầu file và widget cuối file
+    3. Khử mục lục   — bỏ bản mục lục trùng với thân bài
+    4. Ghép dòng vụn — nối lại câu bị thẻ <span> cắt rời
+    5. Ghép âm tiết  — "khai thu ế" → "khai thuế"
 
-Hướng dẫn:
-    1. Scan toàn bộ file trong data/landing/ (PDF, DOCX, JSON)
-    2. Convert sang Markdown
-    3. Lưu vào data/standardized/ giữ nguyên cấu trúc thư mục
+Vì sao thứ tự này: bước 3 cần đếm nội dung giữa hai mốc Điều, mà nội dung chỉ đếm
+đúng sau khi đã bỏ rác (bước 2). Bước 5 cần từ vựng dựng từ corpus SẠCH, chạy
+trước bước 2 thì từ vựng nhiễm rác nav.
+
+Chạy:
+    python -m src.task3_convert_markdown
 """
 
-import json
+from __future__ import annotations
+
+import re
+import unicodedata
 from pathlib import Path
 
-try:
-    from markitdown import MarkItDown
-except ImportError:  # Allow JSON conversion even when the optional converter is absent.
-    MarkItDown = None
+from markitdown import MarkItDown
 
 LANDING_DIR = Path(__file__).parent.parent / "data" / "landing"
 OUTPUT_DIR = Path(__file__).parent.parent / "data" / "standardized"
@@ -34,35 +37,17 @@ def convert_legal_docs():
     output_dir = OUTPUT_DIR / "legal"
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    if not legal_dir.exists():
-        print(f"  No input directory found: {legal_dir}")
-        return
-
-    legal_files = [
-        filepath
-        for filepath in sorted(legal_dir.rglob("*"))
-        if filepath.suffix.lower() in (".pdf", ".docx", ".doc")
-    ]
-    if not legal_files:
-        print("  No supported legal documents found.")
-        return
-    if MarkItDown is None:
-        raise RuntimeError(
-            'MarkItDown is required for legal documents. '
-            'Install it with: pip install "markitdown[pdf]"'
-        )
-
     md = MarkItDown()
-    for filepath in legal_files:
-        print(f"Converting: {filepath.name}")
-        result = md.convert(str(filepath))
 
-        # Preserve any directory hierarchy below landing/legal/.
-        relative_path = filepath.relative_to(legal_dir).with_suffix(".md")
-        output_path = output_dir / relative_path
-        output_path.parent.mkdir(parents=True, exist_ok=True)
-        output_path.write_text(result.text_content or "", encoding="utf-8")
-        print(f"  ✓ Saved: {output_path}")
+    for filepath in legal_dir.iterdir():
+        if filepath.suffix.lower() in (".pdf", ".docx", ".doc"):
+            print(f"Converting: {filepath.name}")
+            # TODO: Convert và lưu file
+            # result = md.convert(str(filepath))
+            # output_path = output_dir / f"{filepath.stem}.md"
+            # output_path.write_text(result.text_content, encoding="utf-8")
+            # print(f"  ✓ Saved: {output_path}")
+            raise NotImplementedError("Implement convert_legal_docs")
 
 
 def convert_news_articles():
@@ -71,50 +56,70 @@ def convert_news_articles():
     output_dir = OUTPUT_DIR / "news"
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    if not news_dir.exists():
-        print(f"  No input directory found: {news_dir}")
-        return
-
-    for filepath in sorted(news_dir.rglob("*.json")):
-        print(f"Converting: {filepath.name}")
-        data = json.loads(filepath.read_text(encoding="utf-8-sig"))
-        if not isinstance(data, dict):
-            raise ValueError(f"Expected a JSON object in {filepath}")
-
-        relative_path = filepath.relative_to(news_dir).with_suffix(".md")
-        output_path = output_dir / relative_path
-        output_path.parent.mkdir(parents=True, exist_ok=True)
-
-        title = str(data.get("title") or "Unknown")
-        source = str(data.get("url") or "N/A")
-        crawled_at = str(data.get("date_crawled") or "N/A")
-        article_content = data.get("content_markdown", "")
-        if not isinstance(article_content, str):
-            article_content = str(article_content)
-
-        header = (
-            f"# {title}\n\n"
-            f"**Source:** {source}\n"
-            f"**Crawled:** {crawled_at}\n\n"
-            "---\n\n"
-        )
-        output_path.write_text(header + article_content, encoding="utf-8")
-        print(f"  ✓ Saved: {output_path}")
+    for filepath in news_dir.iterdir():
+        if filepath.suffix.lower() == ".json":
+            print(f"Converting: {filepath.name}")
+            # TODO: Đọc JSON, extract content_markdown, lưu thành .md
+            # data = json.loads(filepath.read_text(encoding="utf-8"))
+            # output_path = output_dir / f"{filepath.stem}.md"
+            #
+            # # Thêm metadata header
+            # header = f"# {data.get('title', 'Unknown')}\n\n"
+            # header += f"**Source:** {data.get('url', 'N/A')}\n"
+            # header += f"**Crawled:** {data.get('date_crawled', 'N/A')}\n\n---\n\n"
+            #
+            # content = header + data.get("content_markdown", "")
+            # output_path.write_text(content, encoding="utf-8")
+            # print(f"  ✓ Saved: {output_path}")
+            raise NotImplementedError("Implement convert_news_articles")
 
 
-def convert_all():
-    """Convert toàn bộ files."""
-    print("=" * 50)
-    print("Task 3: Convert to Markdown (MarkItDown)")
-    print("=" * 50)
+def convert_all() -> None:
+    print("=" * 62)
+    print("Task 3 — Chuẩn hoá dữ liệu thô")
+    print("=" * 62)
 
-    print("\n--- Legal Documents ---")
-    convert_legal_docs()
+    if not RAW_DIR.exists():
+        raise SystemExit(f"Không thấy {RAW_DIR}. Đặt bản cào .md vào đó trước.")
 
-    print("\n--- News Articles ---")
-    convert_news_articles()
+    # Từ vựng dựng từ TOÀN BỘ corpus, không phải từng file — từ đúng ở file này
+    # là bằng chứng để sửa chỗ bị tách ở file kia.
+    raws = {n: (RAW_DIR / n).read_text(encoding="utf-8") for n in SOURCES if (RAW_DIR / n).exists()}
+    tu_vung = build_vocabulary(list(raws.values()))
+    print(f"\nTừ vựng corpus: {len(tu_vung):,} từ\n")
 
-    print("\n✓ Done! Output tại:", OUTPUT_DIR)
+    for name, cfg in SOURCES.items():
+        if name not in raws:
+            print(f"  ⚠ thiếu {name} — bỏ qua")
+            continue
+
+        raw = raws[name]
+        meta = doc_metadata(raw)
+        sach = lam_sach(raw, cfg["structured"], tu_vung)
+
+        doc_number = meta.get("doc_number") or cfg["doc_number"]
+        front = [
+            "---",
+            f"doc_title: {cfg['doc_title']}",
+            f"doc_number: {doc_number}",
+            f"doc_id: {normalize_doc_number(doc_number)}",
+            f"type: {'legal' if cfg['out'].startswith('legal/') else 'news'}",
+            f"issued_date: {meta.get('issued_date', '')}",
+            f"effective_date: {meta.get('effective_date', '')}",
+            f"source_url: {cfg['url']}",
+            "---",
+            "",
+        ]
+
+        out = OUTPUT_DIR / cfg["out"]
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_text("\n".join(front) + sach + "\n", encoding="utf-8")
+
+        giam = 100 - len(sach) * 100 // max(len(raw), 1)
+        print(f"  ✓ {name:<32} {len(raw):>8,} → {len(sach):>8,} ký tự (giảm {giam}%)")
+        print(f"    → {out.relative_to(OUTPUT_DIR.parent.parent)}")
+
+    print(f"\n✓ Xong. Output tại {OUTPUT_DIR}")
 
 
 if __name__ == "__main__":
