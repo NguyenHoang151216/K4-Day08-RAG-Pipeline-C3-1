@@ -111,11 +111,12 @@ python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 ```
-> Nếu đứt giữa chừng vì `pageindex` / `ragas` (Python 3.12 hay xung đột), cài đợt lõi trước — đủ qua 35 test:
+> 🔧 **Đã fix ngày 04/08/2026 — `ragas==0.1.21` bị gỡ bỏ.** Bản cũ kéo `langchain-community 0.2.x` vốn pin `numpy<2` trên Python 3.12, đụng độ với `scipy 1.18` (do `sentence-transformers`/`scikit-learn` kéo về) đòi `numpy>=2` → pip báo `ResolutionImpossible` và **không cài được package nào**. `requirements.txt` nay dùng `ragas==0.3.9` (không còn upper-bound langchain, cho `numpy<3`) nên **cài một phát là xong, không cần tách đợt nữa**.
+>
+> Nếu mạng đứt giữa chừng (wheel `torch` rất nặng), cứ chạy lại — pip có cache:
 > ```powershell
-> pip install python-dotenv requests numpy "markitdown[pdf]" fpdf2 langchain-text-splitters sentence-transformers chromadb rank-bm25 scikit-learn openai streamlit pytest crawl4ai beautifulsoup4
-> playwright install chromium
-> pip install ragas==0.1.21 datasets langchain-openai   # đợt 2, chỉ Trường bắt buộc
+> pip install --timeout 180 --retries 15 -r requirements.txt
+> playwright install chromium     # crawl4ai (Task 2) cần browser engine
 > ```
 
 Ngay khi `sentence-transformers` cài xong, **mọi người** tải model nền:

@@ -29,9 +29,12 @@ openai>=1.30.0
 streamlit>=1.35.0
 
 # Group project - Evaluation
-ragas==0.1.21
-datasets>=2.14.0
-langchain-openai>=0.1.0
+# ragas 0.1.21 keo langchain-community 0.2.x -> pin numpy<2 tren Python 3.12,
+# dung do voi scipy/torch/chromadb (numpy>=2) => pip khong resolve duoc.
+# Dong 0.3.x bo upper-bound langchain va cho numpy<3. API eval doi, xem eval_pipeline.py.
+ragas==0.3.9
+datasets>=4.0.0
+langchain-openai>=0.2.0
 
 # Testing (dung de cham diem bai ca nhan)
 pytest>=7.0.0
