@@ -74,15 +74,16 @@ def semantic_search(query: str, top_k: int = 10) -> list[dict]:
     if not isinstance(query, str) or not query.strip() or top_k <= 0:
         return []
 
-    from .task4_chunking_indexing import get_embedding_model
+    # Qua embed_query() chứ KHÔNG gọi .encode() trực tiếp: model E5 cần tiền tố
+    # "query: ", thiếu nó thì điểm cosine tụt mà KHÔNG có triệu chứng nào.
+    # embed_query() tự bật/tắt tiền tố theo tên model nên đổi model vẫn đúng.
+    from .task4_chunking_indexing import embed_query
 
     collection = _open_index()
     if collection is None:
         return []
 
-    query_vector = get_embedding_model().encode(
-        query.strip(), normalize_embeddings=True
-    ).tolist()
+    query_vector = embed_query(query.strip())
     return _query_collection(collection, query_vector, top_k)
 
 
@@ -100,16 +101,17 @@ def semantic_search_hyde(query: str, top_k: int = 10) -> list[dict]:
     if not isinstance(query, str) or not query.strip() or top_k <= 0:
         return []
 
-    from .task4_chunking_indexing import get_embedding_model
+    # HyDE embed một đoạn TÀI LIỆU giả định, nên dùng embed_passages() với tiền
+    # tố "passage: " cho khớp cách các chunk trong index được nhúng — không phải
+    # embed_query(). Nhầm hai cái này làm lệch không gian vector.
+    from .task4_chunking_indexing import embed_passages
 
     collection = _open_index()
     if collection is None:
         return []
 
     hypothetical_document = _generate_hypothetical_doc(query.strip())
-    vector = get_embedding_model().encode(
-        hypothetical_document, normalize_embeddings=True
-    ).tolist()
+    vector = embed_passages([hypothetical_document])[0]
     return _query_collection(collection, vector, top_k)
 
 

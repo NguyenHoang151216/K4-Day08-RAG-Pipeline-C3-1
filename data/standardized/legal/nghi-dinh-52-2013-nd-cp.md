@@ -10,18 +10,8 @@ source_url: https://thuvienphapluat.vn/van-ban/Thuong-mai/Nghi-dinh-52-2013-ND-C
 Điều 9 Luật Ban hành văn bản quy phạm pháp luật 2025
 X CÁC NỘI DUNG ĐƯỢC SỬA ĐỔI, HƯỚNG DẪN Các nội dung của VB này được VB khác thay đổi, hướng dẫn sẽ được làm nổi bật bằng các màu sắc:
 : Sửa đổi, thay thế, hủy bỏ : Bổ sung : Đính chính : Hướng dẫn Click vào phần bôi vàng để xem chi tiết.
-Lao Động Tiền Lương X Tư vấn Pháp luật X Pháp Luật Nhà Đất X Chủ đề liên quan X Từ khoá:
-Số Hiệu, Tiêu đề hoặc Nội dung ngắn gọn của Văn Bản...
-Văn bản PL Dự thảo Công văn TCVN Tra cứu nhanh :
-Thời điểm Áp dụng Tình trạng Hiệu lực Lĩnh vực, Ngành Thời gian Ban hành Đăng nhập Dùng tài khoản L aw N et Quên mật khẩu?
-Đăng ký mới Google ĐĂNG KÝ THÀNH VIÊN MIỄN PHÍ ĐỂ Khai thác hơn 547.000 văn bản Pháp Luật Nhận Email văn bản mới hàng tuần Được hỗ trợ tra cứu trực tuyến Tra cứu Mẫu hợp đồng, Bảng giá đất ... và nhiều Tiện ích quan trọng khác Hỗ trợ Dịch Vụ (028) 3930 3279 Hỗ trợ trực tuyến 0906 22 99 66 0838 22 99 66 Đăng nhập để sử dụng tiện ích Tên Thành Viên:
-Mật khẩu:
-Bạn chưa là thành viên thì đăng ký để sử dụng tiện ích Họ và tên:
-Ông Bà Anh Chị Tên Thành Viên:
-Mật khẩu:
-E-mail:
-ĐT di động:
-Vui lòng nhập thêm số điện thoại để chúng tôi hỗ trợ bạn tốt hơn Tôi đã đọc và đồng ý với Thỏa Ước Dịch Vụ và Quy chế bảo vệ dữ liệu cá nhân của THƯ VIỆN PHÁP LUẬT Đăng nhập bằng tài khoản L aw N et Đăng nhập bằng Google Tóm tắt nội dung Nội dung Tiếng Anh (English) Văn bản gốc/PDF Lược đồ Liên quan hiệu lực Liên quan nội dung Thuộc tính Tải về Các bản dự thảo Đang tải văn bản...
+hoặc Nội dung ngắn gọn của Văn Bản...
+Google Khai thác hơn 547.000 văn bản Pháp Luật Nhận Email văn bản mới hàng tuần Được hỗ trợ tra cứu trực tuyến Tra cứu Mẫu hợp đồng, Bảng giá đất ... và nhiều Tiện ích quan trọng khác Hỗ trợ Dịch Vụ (028) 3930 3279 Hỗ trợ trực tuyến 0906 22 99 66 0838 22 99 66 Họ và tên:
 Nghị định 52/2013/NĐ-CP thương mại điện tử Số hiệu:
 52/2013/NĐ-CP Loại văn bản:
 Nghị định Nơi ban hành:

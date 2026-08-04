@@ -46,8 +46,19 @@ TOP_P = 0.9
 # Chọn 0.3 vì: RAG cần factual, ít sáng tạo
 TEMPERATURE = 0.3
 
-LLM_MODEL = "openai/gpt-oss-120b"
-GROQ_BASE_URL = "https://api.groq.com/openai/v1"
+# Cấu hình LLM đọc HOÀN TOÀN từ biến môi trường — không hardcode endpoint hay
+# key vào code, vì file này được commit còn `.env` thì không.
+#
+# Tên biến để trung tính (LLM_* chứ không phải GROQ_*/OPENAI_*) để mỗi người tự
+# cắm nhà cung cấp của mình: Groq, OpenRouter, OpenAI, hay endpoint tự dựng —
+# tất cả đều dùng chung giao diện OpenAI-compatible.
+#
+# Đặt trong `.env` của riêng bạn (xem `.env.example`):
+#     LLM_BASE_URL=...
+#     LLM_API_KEY=...
+#     LLM_MODEL=...
+LLM_BASE_URL = os.getenv("LLM_BASE_URL", "https://openrouter.ai/api/v1")
+LLM_MODEL = os.getenv("LLM_MODEL", "openai/gpt-4o-mini")
 
 
 # =============================================================================
@@ -181,11 +192,18 @@ def generate_with_citation(query: str, top_k: int = TOP_K) -> dict:
         f"Câu hỏi: {query}"
     )
 
-    api_key = os.getenv("GROQ_API_KEY")
+    api_key = os.getenv("LLM_API_KEY")
     if not api_key:
+        # Thiếu key thì VẪN trả về sources — phần retrieval đã chạy xong và tự nó
+        # đã có giá trị demo. Sập cả hàm ở đây là vứt bỏ công việc đã làm được.
         return {
             "answer": (
-                "Chưa cấu hình GROQ_API_KEY. Hãy thêm khóa API Groq vào file .env."
+                "⚠️ Chưa cấu hình LLM. Hãy tạo file `.env` ở gốc repo với:\n\n"
+                "```\nLLM_BASE_URL=<endpoint OpenAI-compatible>\n"
+                "LLM_API_KEY=<khoá của bạn>\nLLM_MODEL=<tên model>\n```\n\n"
+                "Xem `.env.example`. Mỗi người tự cấu hình nhà cung cấp của mình "
+                "(Groq / OpenRouter / OpenAI / endpoint riêng).\n\n"
+                "Phần truy xuất vẫn hoạt động — xem các nguồn bên dưới."
             ),
             "sources": chunks,
             "retrieval_source": retrieval_source,
@@ -194,7 +212,7 @@ def generate_with_citation(query: str, top_k: int = TOP_K) -> dict:
     try:
         from openai import OpenAI
 
-        client = OpenAI(api_key=api_key, base_url=GROQ_BASE_URL)
+        client = OpenAI(api_key=api_key, base_url=LLM_BASE_URL)
         response = client.chat.completions.create(
             model=LLM_MODEL,
             messages=[

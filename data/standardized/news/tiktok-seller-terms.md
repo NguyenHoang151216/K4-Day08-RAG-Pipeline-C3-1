@@ -7,7 +7,7 @@ issued_date:
 effective_date: 
 source_url: https://seller-vn.tiktok.com/university/essay?knowledge_id=2581017870255874&lang=vi-VN
 ---
-ĐIỀU KHOẢN DỊCH VỤ DÀNH CHO NGƯỜI BÁN TRÊN TIKTOK SHOP ĐIỀU KHOẢN DỊCH VỤ DÀNH CHO NGƯỜI BÁN TRÊN TIKTOK SHOP 09/02/2026 Áp dụng cho:Việt Nam ĐIỀU KHOẢN DỊCH VỤ DÀNH CHO NGƯỜI BÁN TRÊN TIKTOK SHOP Cập nhật gần nhất: ngày 9 tháng 2 năm 2026 1.
+ĐIỀU KHOẢN DỊCH VỤ DÀNH CHO NGƯỜI BÁN TRÊN TIKTOK SHOP 09/02/2026 Áp dụng cho:Việt Nam ĐIỀU KHOẢN DỊCH VỤ DÀNH CHO NGƯỜI BÁN TRÊN TIKTOK SHOP Cập nhật gần nhất: ngày 9 tháng 2 năm 2026 1.
 Giới Thiệu Các Điều Khoản Dịch Vụ này (bao gồm các Phụ Lục, Phụ Chú và Phụ Chương) (gọi chung cùng nhau là “ Điều Khoản ”) điều chỉnh việc sử dụng TikTok Shop để quảng bá và bán (“ Chào Bán ”) hàng hóa (“ Sản Phẩm ”) bởi các thương nhân (“ Người Bán/Bạn ”) cho người dùng của ứng dụng TikTok (“ Nền Tảng ”) (“ Người Mua/Người Dùng ”), cũng như việc Bạn sử dụng Thị Trường Dịch Vụ và đăng ký Dịch Vụ Của Đối Tác được cung cấp bởi Đối Tác, và sử dụng Dịch Vụ Kho Tích Hợp được cung cấp bởi Kho Tích Hợp (theo cách các thuật ngữ như vậy được định nghĩa trong Điều Khoản này).
 Chủ thể cung cấp Nền Tảng cho Bạn là chủ thể cung cấp TikTok Shop cho Bạn. Bạn có thể tìm hiểu chi tiết về chủ thể tương ứng cung cấp Nền Tảng tại Điều Khoản Dịch Vụ Của TikTok . Điều này phụ thuộc vào nơi thường trú của Bạn. Trong các Điều Khoản này, (các) chủ thể mà Bạn giao kết hợp đồng (“ TikTok/Chúng Tôi ”) tùy thuộc vào nơi thường trú của Bạn. Khi các Điều Khoản này đề cập đến một “Bên Liên Kết Của TikTok”, thì thuật ngữ này có nghĩa là bất kỳ chủ thể nào trực tiếp hoặc gián tiếp kiểm soát, được kiểm soát bởi, hoặc chịu sự kiểm soát chung với Chúng Tôi.
 2.

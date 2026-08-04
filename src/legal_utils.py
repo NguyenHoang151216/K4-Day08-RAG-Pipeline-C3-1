@@ -123,6 +123,118 @@ def extract_citations(text: str | None) -> list[str]:
     return sorted(set(_CITATION_RE.findall(text)))
 
 
+# ── Chuẩn hoá câu hỏi ──────────────────────────────────────────────────────
+#
+# Người Việt hỏi luật gần như luôn viết tắt ("thuế TNCN", "NĐ 52"), trong khi văn
+# bản luật viết đầy đủ. BM25 khớp theo token nên "TNCN" KHÔNG BAO GIỜ khớp
+# "thu nhập cá nhân" — câu hỏi demo flagship của nhóm dính đúng lỗi này.
+#
+# Đặt ở đây (không phải trong task5 hay task9) vì CẢ HAI đều phải dùng, mà hai
+# bản sao lệch nhau là kiểu lỗi im lặng nguy hiểm nhất.
+#
+# Dùng \b hai đầu để "CP" không nuốt chữ trong "CPTPP" hay "cấp".
+ABBREV_MAP = {
+    # Loại văn bản
+    r"\bNĐ\b": "Nghị định",
+    r"\bTT\b": "Thông tư",
+    r"\bQĐ\b": "Quyết định",
+    r"\bNQ\b": "Nghị quyết",
+    r"\bVBHN\b": "Văn bản hợp nhất",
+    # Thuế — nhóm quan trọng nhất với chủ đề này
+    r"\bGTGT\b": "giá trị gia tăng",
+    r"\bTNCN\b": "thu nhập cá nhân",
+    r"\bTNDN\b": "thu nhập doanh nghiệp",
+    r"\bVAT\b": "thuế giá trị gia tăng",
+    r"\bMST\b": "mã số thuế",
+    r"\bHĐĐT\b": "hoá đơn điện tử",
+    # Doanh nghiệp
+    r"\bTNHH\b": "trách nhiệm hữu hạn",
+    r"\bDN\b": "doanh nghiệp",
+    r"\bDNNN\b": "doanh nghiệp nhà nước",
+    r"\bHKD\b": "hộ kinh doanh",
+    r"\bĐKKD\b": "đăng ký kinh doanh",
+    r"\bGPKD\b": "giấy phép kinh doanh",
+    # Thương mại điện tử
+    r"\bTMĐT\b": "thương mại điện tử",
+    r"\bBHXH\b": "bảo hiểm xã hội",
+    # Cơ quan
+    r"\bBTC\b": "Bộ Tài chính",
+    r"\bBCT\b": "Bộ Công Thương",
+    r"\bUBND\b": "Ủy ban nhân dân",
+    r"\bCP\b": "Chính phủ",
+}
+
+# Khẩu ngữ → thuật ngữ pháp lý. THÊM biến thể chứ KHÔNG thay từ gốc: "đóng thuế"
+# vẫn khớp được vài chỗ trong kho, thay đi là mất tín hiệu.
+SYNONYM_MAP = {
+    "đóng thuế": "nộp thuế",
+    "quên nộp": "chậm nộp",
+    "nộp muộn": "chậm nộp",
+    "nộp trễ": "chậm nộp",
+    "bị phạt": "xử phạt vi phạm hành chính",
+    "hoá đơn đỏ": "hoá đơn giá trị gia tăng",
+    "hóa đơn đỏ": "hoá đơn giá trị gia tăng",
+    "mở công ty": "thành lập doanh nghiệp",
+    "lập công ty": "thành lập doanh nghiệp",
+}
+
+_NHIEU_KHOANG_TRANG = re.compile(r"\s+")
+
+
+def normalize_query(query: str) -> str:
+    """Bung viết tắt + thêm biến thể pháp lý cho khớp cách viết trong văn bản.
+
+    "Bán trên TikTok Shop bao nhiêu thì nộp thuế TNCN và GTGT?"
+    → "... thuế thu nhập cá nhân và giá trị gia tăng?"
+
+    Chuẩn hoá NFC trước: tiếng Việt có hai cách mã hoá cho cùng một ký tự ("ệ"
+    dựng sẵn và tổ hợp), không chuẩn hoá thì hai chuỗi trông y hệt mà `!=`.
+    """
+    if not query:
+        return ""
+    q = unicodedata.normalize("NFC", query)
+
+    # CHE SỐ HIỆU VĂN BẢN TRƯỚC KHI BUNG VIẾT TẮT.
+    # Không che thì `\bNĐ\b` và `\bCP\b` khớp ngay bên trong "52/2013/NĐ-CP" và
+    # biến nó thành "52/2013/Nghị định-Chính phủ" — số hiệu bị phá, mọi phép tra
+    # theo doc_id sau đó đều trượt. Đã gặp thật khi chạy Task 9.
+    che: list[str] = []
+
+    def _che(m: re.Match) -> str:
+        che.append(m.group(0))
+        return f"\x00{len(che) - 1}\x00"
+
+    q = _DOC_NUM_RE.sub(_che, q)
+
+    for pattern, replacement in ABBREV_MAP.items():
+        q = re.sub(pattern, replacement, q)
+
+    for i, goc in enumerate(che):
+        q = q.replace(f"\x00{i}\x00", goc)
+
+    thap = q.lower()
+    them = [v for k, v in SYNONYM_MAP.items() if k in thap and v.lower() not in thap]
+    if them:
+        q = f"{q} {' '.join(them)}"
+    return _NHIEU_KHOANG_TRANG.sub(" ", q).strip()
+
+
+# Số hiệu văn bản: 3 đoạn (52/2013/NĐ-CP) hoặc 2 đoạn (03/VBHN-VPQH).
+# Loại `*` và `_` khỏi lớp ký tự: LLM viết markdown nên số hiệu hay nằm trong
+# `**52/2013/NĐ-CP**`; không loại thì bắt được "52/2013/NĐ-CP**" và mọi phép tra
+# sau đó đều trượt, nhìn hệt như LLM bịa số hiệu.
+_DOC_NUM_RE = re.compile(r"(\d+/\d{4}/[^\s,;)*_]+|\d+/[A-Za-zĐđ][^\s,;)*_]*)")
+
+
+def extract_doc_id(query: str) -> str:
+    """Trích số hiệu văn bản từ câu hỏi, trả dạng đã chuẩn hoá; "" nếu không có.
+
+    "Điều 35 Nghị định 52/2013/NĐ-CP quy định gì?" → "52_2013_ND-CP"
+    """
+    m = _DOC_NUM_RE.search(query or "")
+    return normalize_doc_number(m.group(1).rstrip(".,;:?!")) if m else ""
+
+
 # ── Sửa lỗi âm tiết bị tách khi crawl ──────────────────────────────────────
 
 # Một âm tiết bị tách làm đôi khi crawl: "khai thu ế", "giá tr ị", "s ố".

@@ -58,6 +58,29 @@ SOURCES = {
         "url": "https://thuvienphapluat.vn/van-ban/Thuong-mai/Nghi-dinh-52-2013-ND-CP-thuong-mai-dien-tu-187901.aspx",
         "structured": True,
     },
+    # Trả lời câu demo #1 "doanh thu bao nhiêu thì phải nộp thuế".
+    # Dùng Luật Thuế GTGT 2024 chứ KHÔNG dùng Thông tư 40/2021: ngưỡng 100 triệu
+    # trong TT 40 đã bị khoản 25 Điều 5 Luật này nâng lên 200 triệu từ 01/01/2026.
+    # File .md do Task 1 bóc tự động từ bản Công báo gốc số hoá (không OCR).
+    "luat_thue_gtgt_2024.md": {
+        "out": "legal/luat-thue-gtgt-48-2024-qh15.md",
+        "doc_title": "Luật Thuế giá trị gia tăng 2024",
+        "doc_number": "48/2024/QH15",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat48.pdf",
+        "structured": True,
+    },
+    # Trả lời câu demo #2 "hồ sơ đăng ký hộ kinh doanh" (Điều 87 trở đi).
+    # ⚠️ Mọi PDF của văn bản này trên chinhphu.vn đều là ảnh quét (đo: 0 ký tự/85
+    # trang) nên KHÔNG bóc tự động được, và thuvienphapluat.vn chặn bot trong
+    # robots.txt. Bản .md phải do người tải tay — giống 4 file gốc.
+    # Chưa có file thì convert_all() in "⚠ thiếu ... — bỏ qua" rồi chạy tiếp.
+    "nghi_dinh_01_2021.md": {
+        "out": "legal/nghi-dinh-01-2021-nd-cp.md",
+        "doc_title": "Nghị định 01/2021/NĐ-CP về đăng ký doanh nghiệp",
+        "doc_number": "01/2021/NĐ-CP",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Nghi-dinh-01-2021-ND-CP-dang-ky-doanh-nghiep-427225.aspx",
+        "structured": True,
+    },
     "tiktok_seller_policy.md": {
         "out": "news/tiktok-seller-terms.md",
         "doc_title": "Điều khoản dịch vụ dành cho Người bán trên TikTok Shop",
@@ -130,8 +153,54 @@ _BAN_DICH_EN = re.compile(
 def _la_rac(line: str) -> bool:
     return bool(_RAC_NGUYEN_DONG.match(line) or _RAC_TIEN_TO.match(line))
 
+
+# Rác giao diện có thể nằm BẤT KỲ ĐÂU giữa bài, không riêng đầu/cuối.
+#
+# Bản cào thuvienphapluat lặp lại khối header + form đăng nhập ở giữa văn bản,
+# nên cắt rìa không đủ. Phát hiện thật khi chạy Task 9: kết quả top-1 cho câu
+# "Điều 35 Nghị định 52/2013/NĐ-CP" lại là
+# "Ông Bà Anh Chị Tên Thành Viên: Mật khẩu: E-mail:...".
+#
+# Toàn bộ cụm dưới đây là chrome của trang, không bao giờ xuất hiện trong văn
+# bản quy phạm pháp luật, nên lọc theo dòng là an toàn.
+_RAC_GIAO_DIEN = re.compile(
+    r"^\s*("
+    r"Mật\s*khẩu\s*:|Tên\s*Thành\s*Viên\s*:|E-?mail\s*:|ĐT\s*di\s*động\s*:"
+    r"|Ông\s*Bà\s*Anh\s*Chị|Bạn\s*chưa\s*là\s*thành\s*viên"
+    r"|Đăng\s*ký\s*mới|ĐĂNG\s*KÝ\s*THÀNH\s*VIÊN|Đăng\s*nhập\b"
+    r"|Vui\s*lòng\s*nhập\s*thêm|Tra\s*cứu\s*nhanh"
+    r"|Số\s*Hiệu,\s*Tiêu\s*đề|Văn\s*bản\s*PL\s*Dự\s*thảo"
+    r"|Thời\s*điểm\s*Áp\s*dụng\s*Tình\s*trạng"
+    r"|Lao\s*Động\s*Tiền\s*Lương\s*X"
+    r")",
+    re.IGNORECASE,
+)
+
 # Dòng bảng markdown do widget form sinh ra — toàn dấu | và khoảng trắng.
 _DONG_BANG = re.compile(r"^\s*\|[\s|]*\|?\s*$|^\s*\|.*\|\s*$")
+
+
+# Rác PHÂN TRANG của bản PDF Công báo (nguồn mới từ Task 1, khác hẳn bản cào HTML):
+# header lặp lại ở mỗi trang và số trang đứng một mình.
+#
+# KHÔNG gộp vào `_la_rac()` — hàm đó dùng để tìm MỐC CẮT, mà header Công báo có
+# ngay từ trang đầu; lấy nó làm mốc sẽ chặt cụt gần hết văn bản. Phải lọc theo
+# từng dòng như `_RAC_GIAO_DIEN`.
+_HEADER_CONG_BAO = re.compile(r"^\s*CÔNG\s*BÁO\s*/\s*Số\b.*$", re.IGNORECASE)
+_SO_TRANG = re.compile(r"^\s*\d{1,3}\s*$")
+
+
+def bo_rac_phan_trang(lines: list[str]) -> list[str]:
+    """Bỏ header Công báo và số trang của văn bản bóc từ PDF.
+
+    Tự nhận biết nguồn: chỉ chạy khi đếm được ≥3 dòng header Công báo. Làm vậy để
+    KHÔNG đụng tới các file cào từ HTML — ở đó một dòng chỉ có số hoàn toàn có thể
+    là nội dung thật, xoá đi là mất dữ liệu. Có header Công báo lặp lại thì chắc
+    chắn là bản PDF công báo, lúc đó dòng chỉ có số luôn là số trang.
+    """
+    if sum(1 for l in lines if _HEADER_CONG_BAO.match(l)) < 3:
+        return lines
+    return [l for l in lines if not (_HEADER_CONG_BAO.match(l) or _SO_TRANG.match(l))]
 
 
 def cat_ria(lines: list[str], structured: bool) -> list[str]:
@@ -170,8 +239,11 @@ def cat_ria(lines: list[str], structured: bool) -> list[str]:
                 break
 
     giu = lines[dau:cuoi]
-    # Bỏ nốt các dòng bảng rải rác (widget form render thành bảng)
-    return [l for l in giu if not _DONG_BANG.match(l)]
+    # Bỏ nốt dòng bảng (widget form render thành bảng) và rác giao diện lẫn giữa
+    return [
+        l for l in giu
+        if not _DONG_BANG.match(l) and not _RAC_GIAO_DIEN.match(l)
+    ]
 
 
 # =============================================================================
@@ -294,12 +366,37 @@ def lam_sach(raw: str, structured: bool, tu_vung: set[str]) -> str:
     lines = text.split("\n")
 
     lines = cat_ria(lines, structured)          # Bước 2
+    # Bước 2b — rác phân trang của bản bóc từ PDF. Phải chạy TRƯỚC bước 3 và 4:
+    # header Công báo chen vào giữa hai mốc Điều sẽ làm bước 3 đếm sai độ dài
+    # khối nội dung, còn bước 4 thì dán nó dính vào câu bên cạnh.
+    lines = bo_rac_phan_trang(lines)
     if structured:
         lines = khu_muc_luc(lines)              # Bước 3
     lines = ghep_dong_vun(lines)                # Bước 4
 
+    # Lọc rác giao diện LẦN HAI, sau khi ghép dòng.
+    # Bước 4 dán các mảnh rác còn sót thành một dòng dài MỚI, mà dòng mới đó
+    # không tồn tại lúc lọc lần đầu nên lọt lưới. Lần này khớp theo cụm đặc
+    # trưng ở BẤT KỲ vị trí nào trong dòng — các cụm dưới đây không bao giờ có
+    # trong văn bản quy phạm pháp luật.
+    lines = [
+        l for l in lines
+        if not _RAC_GIAO_DIEN.match(l)
+        and not any(
+            cum in l
+            for cum in ("THƯ VIỆN PHÁP LUẬT", "Đăng nhập bằng Google",
+                        "Đang tải văn bản", "Thỏa Ước Dịch Vụ")
+        )
+    ]
+
     text = "\n".join(lines)
     text = fix_split_syllables(text, tu_vung)   # Bước 5
+
+    # Bước 6 — gộp khoảng trắng thừa. PDF căn đều hai bên giãn chữ bằng cách chèn
+    # nhiều dấu cách ("Bảo  hiểm  nhân  thọ"), bóc ra thì giữ nguyên. Tokenizer
+    # BM25 tách theo \w+ nên không sai, nhưng chuỗi này đi thẳng vào prompt của
+    # LLM và hiện trên UI nguồn trích dẫn, để nguyên trông như lỗi hiển thị.
+    text = re.sub(r"[ \t]{2,}", " ", text)
     return re.sub(r"\n{3,}", "\n\n", text).strip()
 
 
