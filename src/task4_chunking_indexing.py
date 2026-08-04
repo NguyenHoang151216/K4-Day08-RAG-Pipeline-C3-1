@@ -17,15 +17,54 @@ CHUNK_SIZE = 800
 CHUNK_OVERLAP = 100
 CHUNKING_METHOD = "recursive"
 
-# Có thể đổi sang model nhẹ mà không sửa code:
-# $env:EMBEDDING_MODEL="intfloat/multilingual-e5-small"
+# bge-m3: 1024 chiều, multilingual, mạnh với tiếng Việt. Nặng 2,27 GB.
+# Mạng chậm thì đổi bằng biến môi trường, KHÔNG sửa code:
+#     $env:EMBEDDING_MODEL="intfloat/multilingual-e5-small"; $env:EMBEDDING_DIM="384"
 EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "BAAI/bge-m3")
 EMBEDDING_DIM = int(os.getenv("EMBEDDING_DIM", "1024"))
+
 VECTOR_STORE = "chromadb"
 COLLECTION_NAME = "ecommerce_support_docs"
 
-_ARTICLE_RE = re.compile(r"^\s*Điều\s+(\d+[a-zA-Z]?)\b", re.IGNORECASE)
+# Mốc mục của quy định sàn (TikTok/Shopee không dùng "Điều")
+SECTION_RE = re.compile(r"^\s*(\d{1,2})\.\s+\S|^\s*([A-Z])\.\s+\S")
 
+
+# =============================================================================
+# Singleton — Task 5 import lại, đừng khởi tạo model/collection lần thứ hai
+# =============================================================================
+
+_model = None
+_client = None
+
+
+def get_embedding_model():
+    """SentenceTransformer dùng chung. Cache module-level: model 2,27 GB, nạp hai
+    lần là tốn gấp đôi RAM và gấp đôi thời gian khởi động."""
+    global _model
+    if _model is None:
+        from sentence_transformers import SentenceTransformer
+
+        _model = SentenceTransformer(EMBEDDING_MODEL)
+    return _model
+
+
+def get_collection():
+    """Collection ChromaDB dùng chung cho cả index (Task 4) lẫn truy vấn (Task 5)."""
+    global _client
+    if _client is None:
+        import chromadb
+
+        CHROMA_DIR.mkdir(parents=True, exist_ok=True)
+        _client = chromadb.PersistentClient(path=str(CHROMA_DIR))
+    return _client.get_or_create_collection(
+        name=COLLECTION_NAME, metadata={"hnsw:space": "cosine"}
+    )
+
+
+# =============================================================================
+# Load
+# =============================================================================
 
 def _parse_front_matter(text: str) -> tuple[dict, str]:
     """Bóc front matter đơn giản do Task 3 tạo, không cần thêm PyYAML."""
@@ -163,16 +202,11 @@ def get_collection():
 
 
 def embed_chunks(chunks: list[dict]) -> list[dict]:
-    """Thêm normalized embedding vào từng chunk."""
-    if not chunks:
-        return []
-    embeddings = get_embedding_model().encode(
-        [chunk["content"] for chunk in chunks],
-        show_progress_bar=True,
-        normalize_embeddings=True,
-    )
-    for chunk, embedding in zip(chunks, embeddings):
-        chunk["embedding"] = embedding.tolist()
+    model = get_embedding_model()
+    texts = [c["content"] for c in chunks]
+    embs = model.encode(texts, show_progress_bar=True, batch_size=16)
+    for c, e in zip(chunks, embs):
+        c["embedding"] = e.tolist()
     return chunks
 
 

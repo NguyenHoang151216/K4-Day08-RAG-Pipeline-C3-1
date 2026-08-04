@@ -1,13 +1,12 @@
-"""
-RAG Chatbot — E-commerce Support (Starter Template)
-Streamlit app kết nối RAG Retrieval (Task 9) và Generation (Task 10).
+"""Streamlit UI cho Trợ lý Pháp lý Khởi nghiệp & Thương mại điện tử.
 
-Chạy:
+Chạy từ thư mục gốc:
     streamlit run app.py
 """
 
-import os
+import re
 import sys
+import time
 from pathlib import Path
 
 import streamlit as st
@@ -15,135 +14,189 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# Thêm project root vào sys.path để import các task từ src/
 PROJECT_ROOT = Path(__file__).parent
 sys.path.insert(0, str(PROJECT_ROOT))
 
-# =============================================================================
-# PAGE CONFIG
-# =============================================================================
-
 st.set_page_config(
-    page_title="E-commerce Support RAG Chatbot",
-    page_icon="🛒",
+    page_title="Trợ lý Pháp lý Khởi nghiệp & TMĐT",
+    page_icon="⚖️",
     layout="wide",
     initial_sidebar_state="expanded",
 )
 
-# =============================================================================
-# SIDEBAR — INFO & SETTINGS
-# =============================================================================
 
-with st.sidebar:
-    st.title("🛒 E-commerce Support RAG")
-    st.caption("Trợ lý hỏi đáp về chính sách thương mại điện tử và hỗ trợ khách hàng (đổi trả, thanh toán, bảo mật, người bán)")
+SUGGESTED_QUESTIONS = [
+    "Bán hàng online trên TikTok Shop đạt doanh thu bao nhiêu thì phải nộp thuế TNCN và GTGT?",
+    "Hồ sơ và thủ tục đăng ký Hộ kinh doanh cá thể gồm những giấy tờ gì?",
+    "Nên chọn Hộ kinh doanh hay Công ty TNHH khi bán hàng trên sàn TMĐT?",
+    "Thủ tục thành lập Công ty TNHH một thành viên gồm những bước nào?",
+    "Người bán trên sàn thương mại điện tử có những nghĩa vụ pháp lý nào?",
+]
 
-    st.divider()
+DISCLAIMER = (
+    "Nội dung do hệ thống cung cấp chỉ mang tính tham khảo, "
+    "không thay thế ý kiến tư vấn pháp lý chính thức."
+)
 
-    st.subheader("💡 Câu hỏi gợi ý")
-    suggestions = [
-        "Thời hạn yêu cầu trả hàng/hoàn tiền là bao lâu?",
-        "Shopee hỗ trợ những phương thức thanh toán nào?",
-        "Làm sao để đổi phương thức thanh toán đơn hàng?",
-        "Quy định về đăng bán sản phẩm cho người bán?",
-        "Cách mua hàng trên Shopee của quốc gia khác?",
-    ]
-    for s in suggestions:
-        if st.button(s, use_container_width=True, key=f"sug_{s[:20]}"):
-            st.session_state["pending_query"] = s
 
-    st.divider()
-    st.subheader("⚙️ Thiết lập")
-    top_k = st.slider("Số chunks retrieval (top_k)", 3, 10, 5)
+def build_contextual_query(query: str, messages: list[dict]) -> str:
+    """Bổ sung ngữ cảnh cho câu follow-up ngắn từ tối đa 4 lượt gần nhất."""
+    query = query.strip()
+    if len(query.split()) > 15 or not messages:
+        return query
 
-    st.divider()
-    st.caption("**Kiến trúc hệ thống:**")
-    st.caption("Hybrid Retrieval (Semantic + BM25) → RRF Rerank → PageIndex Fallback → LLM Generation có Citation")
+    recent_user_questions = [
+        item.get("content", "").strip()
+        for item in messages[-8:]
+        if item.get("role") == "user" and item.get("content")
+    ][-4:]
+    if not recent_user_questions:
+        return query
 
-# =============================================================================
-# SESSION STATE
-# =============================================================================
+    history = "\n".join(f"- {question}" for question in recent_user_questions)
+    return (
+        "Ngữ cảnh các câu hỏi trước:\n"
+        f"{history}\n"
+        f"Câu hỏi tiếp nối: {query}"
+    )
+
+
+def _safe_score(value) -> float:
+    try:
+        return max(0.0, min(float(value), 1.0))
+    except (TypeError, ValueError):
+        return 0.0
+
+
+def _preview_content(content: str, query: str, limit: int = 500) -> str:
+    """Tạo preview ngắn và nhấn mạnh từ khóa an toàn cho Markdown."""
+    preview = str(content or "").strip()
+    if len(preview) > limit:
+        preview = preview[:limit].rsplit(" ", 1)[0] + "…"
+
+    keywords = {
+        word.lower()
+        for word in re.findall(r"[\wÀ-ỹ]+", query)
+        if len(word) >= 5
+    }
+    for keyword in sorted(keywords, key=len, reverse=True)[:8]:
+        preview = re.sub(
+            rf"(?i)(?<!\w)({re.escape(keyword)})(?!\w)",
+            r"**\1**",
+            preview,
+        )
+    return preview
+
+
+def render_sources(sources: list[dict], query: str) -> None:
+    """Hiển thị metadata, điểm và trích đoạn của các nguồn RAG."""
+    if not sources:
+        return
+
+    with st.expander(f"📚 Nguồn tham khảo ({len(sources)} trích đoạn)"):
+        for index, source in enumerate(sources, 1):
+            metadata = source.get("metadata") or {}
+            source_name = metadata.get("source", "Không rõ nguồn")
+            doc_title = metadata.get("doc_title") or source_name
+            legal_ref = metadata.get("legal_ref")
+            doc_type = metadata.get("type", "unknown")
+            retrieval_type = source.get("source", "hybrid")
+            score = _safe_score(source.get("score", 0))
+
+            badge = "🟦 HYBRID" if retrieval_type == "hybrid" else "🟧 PAGEINDEX"
+            st.markdown(f"**[{index}] {doc_title}** &nbsp; `{badge}` &nbsp; `{doc_type}`")
+            details = [f"Tệp: `{source_name}`", f"Điểm: `{score:.4f}`"]
+            if legal_ref:
+                details.insert(0, f"**⚖️ {legal_ref}**")
+            st.markdown(" · ".join(details))
+            st.progress(score)
+            st.markdown(_preview_content(source.get("content", ""), query))
+            if index < len(sources):
+                st.divider()
+
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
 if "pending_query" not in st.session_state:
     st.session_state.pending_query = None
 
-# =============================================================================
-# MAIN CHAT AREA
-# =============================================================================
 
-st.title("🛒 E-commerce Support RAG Chatbot")
-st.caption("Hệ thống hỏi đáp chính sách e-commerce và trợ giúp khách hàng")
+with st.sidebar:
+    st.title("⚖️ Trợ lý Pháp lý")
+    st.caption("Dành cho khởi nghiệp, hộ kinh doanh, doanh nghiệp và người bán hàng trên sàn TMĐT.")
 
-# Hiển thị lịch sử chat
-for msg in st.session_state.messages:
-    with st.chat_message(msg["role"]):
-        st.markdown(msg["content"])
-        if msg["role"] == "assistant" and "sources" in msg and msg["sources"]:
-            with st.expander(f"📚 Nguồn tham khảo ({len(msg['sources'])} chunks)"):
-                for i, src in enumerate(msg["sources"], 1):
-                    meta = src.get("metadata", {})
-                    source_name = meta.get("source", "Unknown")
-                    doc_type = meta.get("type", "unknown")
-                    score = src.get("score", 0)
-                    st.markdown(f"**[{i}] {source_name}** `{doc_type}` | score: `{score:.4f}`")
-                    st.text(src.get("content", "")[:300] + "...")
-                    st.divider()
+    st.divider()
+    st.subheader("💡 Câu hỏi gợi ý")
+    for index, suggestion in enumerate(SUGGESTED_QUESTIONS):
+        if st.button(suggestion, use_container_width=True, key=f"suggestion_{index}"):
+            st.session_state.pending_query = suggestion
 
-# =============================================================================
-# QUERY HANDLING
-# =============================================================================
+    st.divider()
+    st.subheader("⚙️ Thiết lập")
+    top_k = st.slider("Số trích đoạn tra cứu", 3, 10, 5)
+    if st.button("🗑️ Xóa lịch sử trò chuyện", use_container_width=True):
+        st.session_state.messages = []
+        st.session_state.pending_query = None
+        st.rerun()
 
-user_input = st.chat_input("Nhập câu hỏi của bạn về chính sách/hỗ trợ e-commerce...")
+    st.divider()
+    st.caption("**Kiến trúc:** Semantic + BM25 → Reranking → PageIndex fallback → Groq GPT-OSS 120B")
+    st.warning(DISCLAIMER)
+
+
+st.title("⚖️ Trợ Lý Pháp Lý Khởi Nghiệp & Thương Mại Điện Tử")
+st.caption("Tra cứu quy định pháp lý có dẫn nguồn cho hoạt động khởi nghiệp và kinh doanh trực tuyến.")
+st.info(DISCLAIMER, icon="ℹ️")
+
+for message in st.session_state.messages:
+    with st.chat_message(message["role"]):
+        st.markdown(message["content"])
+        if message["role"] == "assistant":
+            elapsed = message.get("elapsed_seconds")
+            retrieval_source = message.get("retrieval_source")
+            if elapsed is not None:
+                st.caption(f"⏱️ {elapsed:.2f} giây · Pipeline: {retrieval_source or 'none'}")
+            render_sources(message.get("sources", []), message.get("query", ""))
+
+
+user_input = st.chat_input("Nhập câu hỏi về thuế, hộ kinh doanh, doanh nghiệp hoặc TMĐT…")
 query = user_input or st.session_state.pending_query
 
 if query:
     st.session_state.pending_query = None
-
-    # Hiển thị câu hỏi của user
+    contextual_query = build_contextual_query(query, st.session_state.messages)
     st.session_state.messages.append({"role": "user", "content": query})
+
     with st.chat_message("user"):
         st.markdown(query)
 
-    # Sinh câu trả lời từ RAG Pipeline
     with st.chat_message("assistant"):
-        with st.spinner("Đang tìm kiếm tài liệu và tổng hợp câu trả lời..."):
+        started_at = time.perf_counter()
+        with st.spinner("Đang tra cứu văn bản pháp luật và tổng hợp câu trả lời…"):
             try:
-                # TODO (Học viên): Tích hợp hàm sinh câu trả lời từ Task 10
-                # Ví dụ:
-                # from src.task10_generation import generate_with_citation
-                # response = generate_with_citation(query, top_k=top_k)
-                # answer = response["answer"]
-                # sources = response.get("sources", [])
-
                 from src.task10_generation import generate_with_citation
-                response = generate_with_citation(query, top_k=top_k)
-                answer = response.get("answer", "Chưa thể trả lời.")
-                sources = response.get("sources", [])
 
-            except NotImplementedError:
-                answer = "⚠️ **Task 10 chưa được implement.** Hãy hoàn thành `src/task10_generation.py` để kết nối pipeline vào UI!"
+                response = generate_with_citation(contextual_query, top_k=top_k)
+                answer = response.get("answer") or "Chưa thể tạo câu trả lời."
+                sources = response.get("sources") or []
+                retrieval_source = response.get("retrieval_source", "none")
+            except Exception as exc:
+                answer = f"❌ **Không thể chạy RAG pipeline:** {exc}"
                 sources = []
-            except Exception as e:
-                answer = f"❌ **Lỗi khi chạy RAG Pipeline:** {e}"
-                sources = []
+                retrieval_source = "error"
 
-            st.markdown(answer)
+        elapsed_seconds = time.perf_counter() - started_at
+        st.markdown(answer)
+        st.caption(f"⏱️ {elapsed_seconds:.2f} giây · Pipeline: {retrieval_source}")
+        render_sources(sources, query)
 
-            if sources:
-                with st.expander(f"📚 Nguồn tham khảo ({len(sources)} chunks)"):
-                    for i, src in enumerate(sources, 1):
-                        meta = src.get("metadata", {})
-                        source_name = meta.get("source", "Unknown")
-                        doc_type = meta.get("type", "unknown")
-                        score = src.get("score", 0)
-                        st.markdown(f"**[{i}] {source_name}** `{doc_type}` | score: `{score:.4f}`")
-                        st.text(src.get("content", "")[:300] + "...")
-                        st.divider()
-
-    st.session_state.messages.append({
-        "role": "assistant",
-        "content": answer,
-        "sources": sources,
-    })
+    st.session_state.messages.append(
+        {
+            "role": "assistant",
+            "content": answer,
+            "sources": sources,
+            "retrieval_source": retrieval_source,
+            "elapsed_seconds": elapsed_seconds,
+            "query": query,
+        }
+    )

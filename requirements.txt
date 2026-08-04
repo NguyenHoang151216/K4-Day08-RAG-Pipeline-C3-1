@@ -35,6 +35,10 @@ streamlit>=1.35.0
 ragas==0.3.9
 datasets>=4.0.0
 langchain-openai>=0.2.0
+# BAT BUOC: ragas/llms/base.py import `langchain_community.chat_models.vertexai`,
+# module nay bi xoa tu langchain-community 0.4.0 -> `import ragas` se ModuleNotFoundError.
+# 0.3.31 KHONG keo stack lui: no cho langchain-core<2.0.0 va numpy>=1.26.2 (khong chan tren).
+langchain-community>=0.3.27,<0.4
 
 # Testing (dung de cham diem bai ca nhan)
 pytest>=7.0.0
