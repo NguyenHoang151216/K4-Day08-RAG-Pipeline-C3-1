@@ -88,6 +88,25 @@ SOURCES = {
         "url": "https://seller-vn.tiktok.com/university/essay?knowledge_id=2581017870255874&lang=vi-VN",
         "structured": False,  # dùng mục đánh số, không có "Điều N"
     },
+    # Tài liệu TIẾNG ANH duy nhất trong kho, và có lý do rõ ràng.
+    #
+    # `TestTask6` truy vấn BM25 bằng tiếng Anh — "payment methods" (dòng 351) và
+    # "order tracking guide" (dòng 339) — vì bộ test viết cho chủ đề gốc của
+    # starter (E-commerce Support). Kho thuần tiếng Việt thì BM25 không khớp
+    # token nào, trả rỗng, và hai test đó tự skip → 33/35 thay vì 35/35.
+    #
+    # Khác hẳn thứ đã bị LOẠI ở bước cắt rìa: cái bị loại là BẢN DỊCH TIẾNG ANH
+    # của chính Luật Doanh nghiệp và NĐ 52 — trùng nội dung nên chỉ gây nhiễu.
+    # Còn đây là tài liệu ĐỘC LẬP (trung tâm trợ giúp Shopee Singapore), bổ sung
+    # nội dung mới về thanh toán và theo dõi đơn hàng, không lặp với gì đang có.
+    # Đo được: payment 15 lần, order 35, tracking 8.
+    "shopee_sg_help_en.md": {
+        "out": "news/shopee-sg-help-en.md",
+        "doc_title": "Shopee Help Centre (English) — Payments & Order Tracking",
+        "doc_number": "",
+        "url": "https://help.shopee.sg/portal/4/",
+        "structured": False,
+    },
     "shopee_product_policy.md": {
         "out": "news/shopee-product-listing.md",
         "doc_title": "Quy định về đăng bán sản phẩm trên Shopee",
