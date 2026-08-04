@@ -1,17 +1,92 @@
 [
   {
-    "question": "Người mua có thể yêu cầu trả hàng/hoàn tiền trong thời hạn bao lâu sau khi nhận hàng?",
-    "expected_answer": "Trong vòng 15 ngày kể từ khi giao hàng thành công (24 giờ đối với thực phẩm tươi sống/đông lạnh).",
-    "expected_context": "Trang Returns and Refunds Policy, mục Return/Refund Eligibility"
+    "question": "Hồ sơ đăng ký hộ kinh doanh cá thể gồm những giấy tờ gì?",
+    "expected_answer": "Theo Nghị định 01/2021/NĐ-CP, hồ sơ đăng ký hộ kinh doanh bao gồm: Giấy đề nghị đăng ký hộ kinh doanh, bản sao giấy tờ pháp lý cá nhân của chủ hộ kinh doanh, bản sao hợp đồng thuê nhà hoặc giấy tờ chứng minh quyền sử dụng địa điểm kinh doanh.",
+    "expected_context": "luat-doanh-nghiep-59-2020-qh14.md (Quy định đăng ký hộ kinh doanh theo NĐ 01/2021/NĐ-CP)"
   },
   {
-    "question": "Shopee hỗ trợ những phương thức thanh toán nào?",
-    "expected_answer": "ShopeePay Wallet, thẻ tín dụng/ghi nợ, trả góp qua thẻ, QR Code, chuyển khoản qua app ngân hàng, thẻ NAPAS, Apple Pay, Google Pay, và COD.",
-    "expected_context": "Trang Payment Methods Overview"
+    "question": "Thời hạn giải quyết đăng ký hộ kinh doanh là bao nhiêu ngày?",
+    "expected_answer": "Theo Nghị định 01/2021/NĐ-CP, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, cơ quan đăng ký kinh doanh cấp huyện cấp Giấy chứng nhận đăng ký hộ kinh doanh cho hộ kinh doanh.",
+    "expected_context": "luat-doanh-nghiep-59-2020-qh14.md (Quy định về thời hạn cấp Giấy chứng nhận đăng ký hộ kinh doanh)"
   },
   {
-    "question": "Người bán không được đăng bán những sản phẩm nào?",
-    "expected_answer": "Hàng giả/nhái, sản phẩm bất hợp pháp, vi phạm sở hữu trí tuệ, và các mặt hàng nằm trong danh sách cấm của sàn.",
-    "expected_context": "Trang Product Listing Regulations, mục Prohibited Content"
+    "question": "Ngưỡng doanh thu bao nhiêu thì hộ kinh doanh phải nộp thuế GTGT và thuế TNCN?",
+    "expected_answer": "Theo Thông tư 40/2021/TT-BTC, hộ kinh doanh, cá nhân kinh doanh có doanh thu từ hoạt động sản xuất, kinh doanh trong năm dương lịch từ 100 triệu đồng trở lên phải nộp thuế GTGT và thuế TNCN. Lưu ý: ngưỡng này có thể đã được cập nhật bởi Luật Thuế GTGT 2024.",
+    "expected_context": "luat-doanh-nghiep-59-2020-qh14.md (Thông tư 40/2021/TT-BTC về quản lý thuế đối với hộ kinh doanh)"
+  },
+  {
+    "question": "Tỷ lệ phần trăm thuế GTGT và TNCN đối với hoạt động phân phối, cung cấp hàng hóa là bao nhiêu?",
+    "expected_answer": "Theo Thông tư 40/2021/TT-BTC, tỷ lệ thuế GTGT là 1% và tỷ lệ thuế TNCN là 0.5% đối với hoạt động phân phối, cung cấp hàng hóa.",
+    "expected_context": "luat-doanh-nghiep-59-2020-qh14.md (Thông tư 40/2021/TT-BTC, phụ lục tỷ lệ thuế khoán theo ngành nghề)"
+  },
+  {
+    "question": "Sàn thương mại điện tử có trách nhiệm gì về thuế của người bán trên sàn?",
+    "expected_answer": "Theo Thông tư 40/2021/TT-BTC và Nghị định 52/2013/NĐ-CP, tổ chức là chủ sở hữu sàn giao dịch thương mại điện tử có trách nhiệm cung cấp thông tin của cá nhân kinh doanh trên sàn cho cơ quan thuế và phối hợp trong quản lý thuế.",
+    "expected_context": "nghi-dinh-52-2013-nd-cp.md (Trách nhiệm của thương nhân, tổ chức cung cấp dịch vụ sàn giao dịch TMĐT)"
+  },
+  {
+    "question": "Vốn điều lệ tối thiểu để thành lập công ty TNHH là bao nhiêu?",
+    "expected_answer": "Theo Luật Doanh nghiệp 2020 (Luật 59/2020/QH14), pháp luật không quy định mức vốn điều lệ tối thiểu chung để thành lập công ty TNHH (trừ một số ngành nghề kinh doanh có điều kiện yêu cầu vốn pháp định). Vốn điều lệ là tổng giá trị tài sản do các thành viên cam kết góp khi thành lập.",
+    "expected_context": "luat-doanh-nghiep-59-2020-qh14.md (Điều 47, Điều 74 Luật Doanh nghiệp 2020 quy định về vốn điều lệ công ty TNHH)"
+  },
+  {
+    "question": "Công ty TNHH một thành viên khác gì so với công ty TNHH hai thành viên trở lên?",
+    "expected_answer": "Theo Luật Doanh nghiệp 2020, công ty TNHH một thành viên do một cá nhân hoặc một tổ chức làm chủ sở hữu, chủ sở hữu chịu trách nhiệm về các khoản nợ trong phạm vi vốn điều lệ (Điều 74). Công ty TNHH hai thành viên trở lên có từ 02 đến 50 thành viên, có Hội đồng thành viên làm cơ quan quyết định cao nhất (Điều 46, 55).",
+    "expected_context": "luat-doanh-nghiep-59-2020-qh14.md (Điều 46, 55, 74 Luật Doanh nghiệp 2020 quy định về công ty TNHH 1TV và 2TV trở lên)"
+  },
+  {
+    "question": "Người đại diện theo pháp luật của doanh nghiệp có những quyền và nghĩa vụ gì?",
+    "expected_answer": "Theo Luật Doanh nghiệp 2020 (Điều 12, 13), người đại diện theo pháp luật của doanh nghiệp là cá nhân đại diện cho doanh nghiệp thực hiện các quyền và nghĩa vụ phát sinh từ giao dịch của doanh nghiệp, đại diện cho doanh nghiệp trước cơ quan nhà nước, tòa án, trọng tài. Doanh nghiệp phải bảo đảm luôn có ít nhất một người đại diện theo pháp luật cư trú tại Việt Nam.",
+    "expected_context": "luat-doanh-nghiep-59-2020-qh14.md (Điều 12, 13 Luật Doanh nghiệp 2020 quy định về người đại diện theo pháp luật)"
+  },
+  {
+    "question": "Nghĩa vụ của người bán hàng trên sàn thương mại điện tử theo quy định pháp luật là gì?",
+    "expected_answer": "Theo Nghị định 52/2013/NĐ-CP (Điều 37), người bán trên sàn TMĐT có nghĩa vụ cung cấp thông tin chính xác, đầy đủ về hàng hóa, dịch vụ; tuân thủ quy định về giao kết hợp đồng, bảo vệ quyền lợi người tiêu dùng; và thực hiện đầy đủ nghĩa vụ thuế theo quy định của pháp luật.",
+    "expected_context": "nghi-dinh-52-2013-nd-cp.md (Điều 37 Nghị định 52/2013/NĐ-CP quy định nghĩa vụ của người bán trên sàn giao dịch TMĐT)"
+  },
+  {
+    "question": "Website thương mại điện tử bán hàng phải đăng ký hoặc thông báo gì với cơ quan nhà nước?",
+    "expected_answer": "Theo Nghị định 52/2013/NĐ-CP (Điều 27, 52), thương nhân, tổ chức, cá nhân thiết lập website thương mại điện tử bán hàng phải thông báo với Bộ Công Thương. Thương nhân, tổ chức thiết lập sàn giao dịch TMĐT phải đăng ký với Bộ Công Thương.",
+    "expected_context": "nghi-dinh-52-2013-nd-cp.md (Điều 27, 52 Nghị định 52/2013/NĐ-CP quy định thông báo và đăng ký website TMĐT)"
+  },
+  {
+    "question": "Hàng hoá nào bị cấm bán trên TikTok Shop theo quy định của sàn?",
+    "expected_answer": "Theo Điều khoản dịch vụ người bán TikTok Shop, các mặt hàng bị cấm đăng bán bao gồm: hàng giả, hàng nhái, vi phạm sở hữu trí tuệ, thuốc lá và thuốc lá điện tử, vũ khí, chất cấm, động vật hoang dã, và các loại hàng hóa bị cấm theo quy định pháp luật Việt Nam.",
+    "expected_context": "tiktok-seller-terms.md (Quy định các mặt hàng bị cấm và hạn chế kinh doanh trên TikTok Shop)"
+  },
+  {
+    "question": "Bán hàng online trên TikTok Shop đạt doanh thu bao nhiêu thì phải nộp thuế TNCN và GTGT?",
+    "expected_answer": "Theo Thông tư 40/2021/TT-BTC và quy định TikTok Shop, cá nhân kinh doanh trên sàn TMĐT có doanh thu từ 100 triệu đồng/năm trở lên phải nộp thuế GTGT (1%) và TNCN (0.5%). TikTok Shop có trách nhiệm phối hợp cung cấp thông tin người bán cho cơ quan thuế.",
+    "expected_context": "tiktok-seller-terms.md + nghi-dinh-52-2013-nd-cp.md (Trách nhiệm thuế và quản lý người bán trên sàn TMĐT TikTok Shop)"
+  },
+  {
+    "question": "Nên chọn đăng ký hộ kinh doanh hay thành lập công ty TNHH khi bán hàng online?",
+    "expected_answer": "Hộ kinh doanh có thủ tục đơn giản, quy mô nhỏ, chủ hộ chịu trách nhiệm vô hạn. Công ty TNHH (theo Luật Doanh nghiệp 2020) có tư cách pháp nhân, chủ sở hữu chịu trách nhiệm hữu hạn trong phạm vi vốn góp, dễ xuất hóa đơn VAT và hợp tác lớn hơn.",
+    "expected_context": "luat-doanh-nghiep-59-2020-qh14.md + tiktok-seller-terms.md (So sánh mô hình hộ kinh doanh và công ty TNHH theo Luật Doanh nghiệp 2020)"
+  },
+  {
+    "question": "Nghĩa vụ của thương nhân, tổ chức cung cấp dịch vụ sàn giao dịch thương mại điện tử là gì?",
+    "expected_answer": "Theo Nghị định 52/2013/NĐ-CP (Điều 36), thương nhân, tổ chức cung cấp dịch vụ sàn giao dịch TMĐT phải đăng ký thiết lập sàn, công bố chế tài xử lý vi phạm, yêu cầu người bán cung cấp thông tin đăng ký kinh doanh, kiểm tra giám sát và ngăn chặn các hành vi kinh doanh vi phạm pháp luật.",
+    "expected_context": "nghi-dinh-52-2013-nd-cp.md (Điều 36 Nghị định 52/2013/NĐ-CP quy định trách nhiệm của chủ sàn TMĐT)"
+  },
+  {
+    "question": "Thủ tục thành lập công ty cổ phần theo Luật Doanh nghiệp 2020 gồm những bước nào?",
+    "expected_answer": "Theo Luật Doanh nghiệp 2020 (Điều 111, 120), thủ tục thành lập công ty cổ phần gồm: chuẩn bị hồ sơ đăng ký doanh nghiệp (Giấy đề nghị, Điều lệ, danh sách cổ đông sáng lập), nộp hồ sơ tại Cơ quan đăng ký kinh doanh cấp tỉnh, nhận Giấy chứng nhận ĐKDN trong 03 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.",
+    "expected_context": "luat-doanh-nghiep-59-2020-qh14.md (Chương V Luật Doanh nghiệp 2020 quy định về Công ty cổ phần)"
+  },
+  {
+    "question": "Cách nấu phở bò Hà Nội truyền thống như thế nào?",
+    "expected_answer": "Tôi không thể xác minh thông tin này từ nguồn tài liệu hiện có. Hệ thống chỉ hỗ trợ tra cứu các quy định pháp lý về khởi nghiệp và thương mại điện tử.",
+    "expected_context": ""
+  },
+  {
+    "question": "Thủ tục ly hôn thuận tình tại Việt Nam gồm những bước gì?",
+    "expected_answer": "Tôi không thể xác minh thông tin này từ nguồn tài liệu hiện có. Hệ thống chỉ hỗ trợ tra cứu các quy định pháp lý về khởi nghiệp và thương mại điện tử.",
+    "expected_context": ""
+  },
+  {
+    "question": "Công thức pha trà sữa trân châu đường đen là gì?",
+    "expected_answer": "Tôi không thể xác minh thông tin này từ nguồn tài liệu hiện có. Hệ thống chỉ hỗ trợ tra cứu các quy định pháp lý về khởi nghiệp và thương mại điện tử.",
+    "expected_context": ""
   }
 ]
