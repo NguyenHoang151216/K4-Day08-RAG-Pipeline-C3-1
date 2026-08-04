@@ -1,0 +1,2119 @@
+ĐIỀU KHOẢN DỊCH VỤ DÀNH CHO NGƯỜI BÁN TRÊN TIKTOK SHOP
+ĐIỀU KHOẢN DỊCH VỤ DÀNH CHO NGƯỜI BÁN TRÊN TIKTOK SHOP
+09/02/2026
+Áp dụng cho:Việt Nam
+ĐIỀU KHOẢN DỊCH VỤ DÀNH CHO NGƯỜI BÁN TRÊN TIKTOK SHOP
+Cập nhật gần nhất: ngày 9 tháng 2 năm 2026
+1.
+Giới Thiệu
+Các Điều Khoản Dịch Vụ này (bao gồm các Phụ Lục, Phụ Chú và Phụ Chương) (gọi chung cùng nhau là “
+Điều Khoản
+”) điều chỉnh việc sử dụng TikTok Shop để quảng bá và bán (“
+Chào Bán
+”) hàng hóa (“
+Sản Phẩm
+”) bởi các thương nhân (“
+Người Bán/Bạn
+”) cho người dùng của ứng dụng TikTok (“
+Nền Tảng
+”) (“
+Người Mua/Người Dùng
+”), cũng như việc Bạn sử dụng Thị Trường Dịch Vụ và đăng ký Dịch Vụ Của Đối Tác được cung cấp bởi Đối Tác, và sử dụng Dịch Vụ Kho Tích Hợp được cung cấp bởi Kho Tích Hợp (theo cách các thuật ngữ như vậy được định nghĩa trong Điều Khoản này).
+Chủ thể cung cấp Nền Tảng cho Bạn là chủ thể cung cấp TikTok Shop cho Bạn. Bạn có thể tìm hiểu chi tiết về chủ thể tương ứng cung cấp Nền Tảng tại
+Điều Khoản Dịch Vụ Của TikTok
+. Điều này phụ thuộc vào nơi thường trú của Bạn. Trong các Điều Khoản này, (các) chủ thể mà Bạn giao kết hợp đồng (“
+TikTok/Chúng Tôi
+”) tùy thuộc vào nơi thường trú của Bạn. Khi các Điều Khoản này đề cập đến một “Bên Liên Kết Của TikTok”, thì thuật ngữ này có nghĩa là bất kỳ chủ thể nào trực tiếp hoặc gián tiếp kiểm soát, được kiểm soát bởi, hoặc chịu sự kiểm soát chung với Chúng Tôi.
+2.
+Chấp Thuận Các Điều Khoản Này
+Bằng việc nhấp chọn nút “Đồng Ý” hoặc truy cập hoặc sử dụng TikTok Shop, Bạn xác nhận rằng Bạn có thể ký kết một hợp đồng mang tính ràng buộc với TikTok, rằng Bạn chấp thuận các Điều Khoản này và rằng Bạn đồng ý tuân thủ các Điều Khoản này.
+Việc bạn truy cập và sử dụng dịch vụ của Chúng Tôi cũng phải tuân thủ theo Điều Khoản Dịch Vụ Của TikTok,
+Chính Sách Quyền Riêng Tư
+và
+Chính Sách Quyền Riêng Tư Của TikTok Shop
+của Chúng Tôi, và các Chính Sách Về TikTok Shop áp dụng của Chúng Tôi (như được quy định tại Điều Khoản 13, Quy Tắc Sử Dụng TikTok Shop), mà các điều khoản của các chính sách nói trên được kết hợp vào các Điều Khoản này bằng cách dẫn chiếu. Trong trường hợp có bất kỳ mâu thuẫn nào giữa các quy định của các Điều Khoản này và các Chính Sách Về TikTok Shop, thì các Chính Sách Về TikTok Shop sẽ được ưu tiên áp dụng, trừ khi điều khoản có liên quan của các Điều Khoản này ghi nhận rõ ràng rằng điều khoản có liên quan đó được ưu tiên áp dụng, và, trong phạm vi có bất kỳ mâu thuẫn nào giữa Điều Khoản Dịch Vụ Của TikTok và Điều Khoản này, thì Điều Khoản Dịch Vụ Của TikTok sẽ được ưu tiên áp dụng.
+Nếu Bạn đang truy cập hoặc sử dụng TikTok Shop thay mặt cho một doanh nghiệp hoặc một thực thể, thì (a) thuật ngữ “Bạn” và “của Bạn” bao gồm cả Bạn và doanh nghiệp hoặc thực thể đó, (b) Bạn tuyên bố, đảm bảo và cam kết rằng Bạn là người đại diện được ủy quyền của doanh nghiệp hoặc thực thể đó có thẩm quyền ràng buộc thực thể đó với các Điều Khoản này, và rằng Bạn đồng ý với các Điều Khoản này thay mặt cho thực thể đó, và (c) doanh nghiệp hoặc thực thể của Bạn phải chịu trách nhiệm về mặt pháp lý và tài chính đối với việc bạn truy cập hoặc sử dụng TikTok Shop cũng như đối với việc truy cập hoặc sử dụng tài khoản của Bạn bởi những chủ thể khác có liên kết với thực thể của Bạn, bao gồm bất kỳ người lao động, đại lý hoặc nhà thầu nào.
+Nếu Bạn không đồng ý với các Điều Khoản này, Bạn không được truy cập hoặc sử dụng TikTok
+Shop.
+3.
+Điều Khoản Bổ Sung Theo Khu Vực Pháp Lý
+Nếu Bạn truy cập hoặc sử dụng TikTok Shop từ một khu vực pháp lý mà có các điều khoản bổ sung dành riêng cho khu vực pháp lý đó, bằng các Điều Khoản này, Bạn cũng đồng ý với các điều khoản bổ sung áp dụng đối với Bạn tại phần
+Điều Khoản Bổ Sung Theo Khu Vực Pháp Lý
+.
+Trong trường hợp có sự mâu thuẫn giữa các quy định của phần
+Điều Khoản Bổ Sung Theo Khu Vực Pháp Lý
+mà liên quan đến khu vực pháp lý của Bạn và phần còn lại của các Điều Khoản này, thì phần
+Điều Khoản Bổ Sung Theo Khu Vực Pháp Lý
+của khu vực pháp lý tương ứng sẽ được ưu tiên áp dụng và kiểm soát.
+4.
+Thay Đổi Đối Với Các Điều Khoản Này
+Đối với Người Bán cư trú tại Đông Nam Á (Singapore, Indonesia, Việt Nam, Thái Lan, Malaysia, và Philippines)
+Chúng Tôi có thể thay đổi các Điều Khoản này theo từng thời điểm. Chúng tôi sẽ dùng nỗ lực hợp lý về mặt thương mại để thông báo chung đến Bạn bất kỳ thay đổi trọng yếu nào đối với Điều Khoản này, chẳng hạn gửi thông báo bằng văn bản đến Bạn thông qua Trung Tâm Dành Cho Người Bán. Tuy nhiên, Bạn có trách nhiệm xem lại Điều Khoản này thường xuyên để kiểm tra các thay đổi đó. Chúng Tôi cũng sẽ cập nhật phần “Cập nhật gần nhất” ở đầu của Điều Khoản để phản ánh ngày có hiệu lực của Điều Khoản.
+Bất kỳ thay đổi nào cũng không có hiệu lực hồi tố. Nếu Bạn không đồng ý với (các) thay đổi được thông báo cho Bạn, Bạn có quyền chấm dứt mối quan hệ hợp đồng với Chúng Tôi vào bất kỳ thời điểm nào, tuân thủ theo Điều Khoản 24.
+Việc Bạn tiếp tục sử dụng TikTok Shop sau ngày hiệu lực của bất kỳ thay đổi nào đối với các Điều Khoản này sẽ cấu thành sự chấp thuận của Bạn đối với thay đổi đó.
+Nếu bạn không đồng ý với Điều Khoản mới, bạn phải ngừng truy cập hoặc sử dụng TikTok Shop.
+5.
+Về TikTok Shop
+TikTok Shop Là Gì?
+TikTok Shop là một nền tảng thương mại điện tử xã hội mà chủ yếu cho phép Người Bán Chào Bán Sản Phẩm đến Người Dùng của Nền Tảng. Người Dùng mua Sản Phẩm từ Người Bán được gọi là Người Mua trong các Điều Khoản này.
+TikTok Shop cho phép Người Bán:
+•
+truy cập vào trung tâm dành cho người bán (“
+Trung Tâm Dành Cho Người Bán
+”) và sử dụng các dịch vụ/tính năng mà Chúng Tôi cung cấp;
+•
+tải lên và quản lý thông tin Sản Phẩm và niêm yết để hiển thị đến Người Dùng;
+•
+tiếp nhận đơn đặt hàng và hoàn tất việc bán hàng cho Người Mua;
+•
+theo dõi và quản lý đơn đặt hàng và việc giao nhận;
+•
+cung cấp dịch vụ chăm sóc khách hàng cho Người Mua;
+•
+thiết lập kế hoạch quảng bá, ví dụ như thông qua tính năng liên kết; và
+•
+sử dụng các chức năng và tính năng khác (ví dụ như Trưng Bày) mà TikTok Shop cung cấp cho Người Bán.
+Thông tin chi tiết về các tính năng của TikTok Shop có thể được tìm thấy tại
+Seller University
+(
+Singapore
+,
+Indonesia
+,
+Malaysia
+,
+Phillipines
+,
+Thái Lan
+,
+Vương Quốc Anh
+,
+Việt Nam
+).
+LƯU Ý QUAN TRỌNG
+:
+Hợp đồng bán Sản Phẩm (“
+Giao Dịch Mua Bán
+”) luôn được ký kết giữa Người Bán và Người Mua. Bạn có trách nhiệm tuân thủ tất cả pháp luật áp dụng cho việc Chào Bán và Giao Dịch Mua Bán đó, theo quy định tại địa điểm của cả Người Bán và của Bạn (gọi chung là “
+Luật Áp Dụng
+”). Bạn cũng phải tuân thủ hợp đồng giữa bạn và Người Mua đối với việc bán Sản Phẩm (“
+Điều Khoản Bán Hàng
+”) – xem tại đây. Việc Bạn không tuân thủ Luật Áp Dụng hoặc
+Điều Khoản Bán Hàng
+sẽ cấu thành vi phạm cơ bản đối với các Điều Khoản này.
+Ai Có Thể Sử Dụng TikTok Shop?
+Những Người Bán được phê duyệt trước bởi TikTok có thể sử dụng TikTok Shop. Nếu Bạn được phê duyệt, Bạn cũng có thể ủy quyền cho một bên thứ ba để quản lý và tham gia vào TikTok Shop thay mặt cho Bạn.
+LƯU Ý QUAN TRỌNG
+:
+Nếu Bạn ủy quyền cho một bên thứ ba thực hiện công việc nêu trên cho Bạn, Bạn vẫn sẽ phải chịu trách nhiệm đối với tất cả các hoạt động trên TikTok Shop.
+Bạn Có Thể Sử Dụng TikTok Shop Để Bán Sản Phẩm Ở Đâu?
+Những Người Bán được phê duyệt có thể sử dụng TikTok Shop để Chào Bán Sản Phẩm đến Người Dùng tại bất kỳ khu vực pháp lý nào mà TikTok Shop được cung cấp bởi TikTok tùy từng thời điểm.
+TikTok Có Tự Bán Sản Phẩm Trên TikTok Shop Không?
+Không.
+6.
+Cách Sử Dụng TikTok Shop
+Cách đăng ký để trở thành Người Bán trên TikTok Shop
+Trước khi đăng ký để trở thành Người Bán trên TikTok Shop, Bạn sẽ cần phải có một tài khoản trên Nền Tảng (“
+Tài Khoản
+”). Bạn sẽ được yêu cầu cung cấp một số thông tin nhất định (“
+Thông Tin Tiếp Nhận
+”) cho TikTok trong quá trình đăng ký. Chúng tôi sẽ sử dụng Thông Tin Tiếp Nhận của Bạn để đánh giá xem Bạn có được phép sử dụng TikTok Shop hay không. Nếu Bạn được phép, Bạn sẽ có thể truy cập chức năng Người Bán thông qua TikTok Shop. Các hướng dẫn đăng ký để trở thành Người Bán và các Thông Tin Tiếp Nhận Bạn cần cung cấp có tại
+Hướng Dẫn Đăng Ký Dành Cho Người Bán Trên TikTok Shop
+(
+Singapore
+,
+Indonesia
+,
+Malaysia
+, Philippines,
+Thái Lan
+,
+Vương Quốc Anh
+,
+Việt
+Nam
+). Việc Bạn không cung cấp, và không luôn duy trì Thông Tin Tiếp Nhận hoàn thiện và chính xác được xem là vi phạm cơ bản đối với các Điều Khoản này.
+Như một phần của quá trình đăng ký, nếu Bạn là Người Bán tại Trung Quốc (bao gồm cả Hồng Kông), Bạn cũng được yêu cầu cung cấp một khoản đặt cọc cho Chúng Tôi. Chúng Tôi (hoặc một trong những bên liên kết của Chúng Tôi) sẽ giữ khoản đặt cọc trong thời gian Bạn tham gia với vai trò Người Bán trên TikTok Shop. Khi được yêu cầu một cách hợp lí, Chúng Tôi có thể sử dụng khoản đặt cọc để bảo vệ TikTok, Người Mua và Người Dùng trong trường hợp Bạn không tuân thủ Điều Khoản này, pháp luật áp dụng, quy định hoặc hướng dẫn, và/hoặc bất kì chính sách, quy tắc hoặc yêu cầu áp dụng nào khác, bao gồm nhưng không giới hạn ở việc để bồi thường cho TikTok khi TikTok đã thực hiện thanh toán cho Người Mua do hành động hoặc Sản Phẩm của Bạn. Số tiền của khoản đặt cọc phải trả có thể phụ thuộc vào loại hình của những sản phẩm mà Bạn dự định chào bán trên TikTok Shop. Nếu khoản đặt cọc của Bạn bị khấu trừ, Bạn sẽ được yêu cầu phải nộp thêm một khoản tiền khác để bù vào khoản khấu trừ đó và đảm bảo rằng số tiền đặt cọc được giữ bởi Chúng Tôi là luôn đầy đủ. Số dư còn lại của khoản đặt cọc của Bạn sẽ được trả lại cho Bạn khi Bạn không còn là Người Bán trên TikTok Shop. Bạn phải chịu trách nhiệm hoàn toàn đối với bất kỳ phí tổn, phí dịch vụ và chi phí nào khác (bao gồm nhưng không giới hạn ở các hao hụt do chuyển đổi tiền tệ) phát sinh trong quá trình chuyển khoản đặt cọc của Bạn cho Chúng Tôi và khi Chúng Tôi trả lại số dư còn lại của khoản đặt cọc của Bạn cho Bạn. Để biết đầy đủ chi tiết chi tiết về quy tắc đặt cọc, vui lòng xem
+Chính Sách Đặt Cọc Của Cửa Hàng Xuyên Biên Giới Trên TikTok Shop
+.
+LƯU Ý QUAN TRỌNG
+:
+Sau khi Bạn được phép sử dụng Tài Khoản của Bạn trên TikTok Shop, Tài Khoản của Bạn sẽ tự động chuyển từ Tài Khoản thường sang Tài Khoản doanh nghiệp.
+Nếu có bất kỳ sự không đồng nhất nào giữa các Điều Khoản này và
+Điều Khoản Dịch Vụ
+Của Nền Tảng, các Điều Khoản này sẽ được ưu tiên áp dụng trong phạm vi của bất kỳ sự không đồng nhất nào, và trong phạm vi mà sự mâu thuẫn như vậy có liên quan đến TikTok Shop.
+Cách Niêm Yết Sản Phẩm
+Khi Bạn đã đăng ký thành công để trở thành Người Bán trên TikTok Shop, Bạn sẽ có thể tải lên thông tin chi tiết về (các) Sản Phẩm của Bạn và niêm yết chúng để hiển thị đến Người Dùng. Các hướng dẫn về cách thực hiện việc này và các thủ tục kiểm tra Chúng Tôi thực hiện trước khi hiển thị (“
+Tiêu Chí Sản Phẩm Đủ Điều Kiện
+”) có tại
+Seller University
+(
+Singapore
+,
+Indonesia
+,
+Malaysia
+,
+Philippines
+,
+Thái Lan
+,
+Vương Quốc Anh
+,
+Việt Nam
+) và
+Hướng Dẫn Niêm Yết Sản Phẩm Trên TikTok Shop Cho Người Bán
+(
+Singapore
+,
+Indonesia
+,
+Malaysia
+,
+Philippines
+,
+Thái Lan,
+Vương
+Quốc Anh,
+Việt
+Nam
+). Việc Bạn không cung cấp thông tin chi tiết hoàn thiện và chính xác về Sản Phẩm của Bạn cho Người Mua trước và sau Giao Dịch Mua Bán sẽ được xem là vi phạm cơ bản các Điều Khoản này.
+Việc niêm yết Sản Phẩm của Bạn phải hiển thị tất cả các điều khoản và điều kiện cần thiết theo luật định (theo Pháp Luật Áp Dụng) cho Người Mua trước khi giao kết bất kỳ Giao Dịch Mua Bán nào. Việc bạn không cung cấp cho Người Mua các điều khoản và điều kiện như vậy trước khi giao kết bất kỳ Giao Dịch Mua Bán nào sẽ được xem là vi phạm cơ bản các Điều Khoản này.
+Cách Bán Sản Phẩm
+Bạn có thể bán Sản Phẩm của Bạn theo các cách thức được cung cấp cho Bạn (ví dụ như, thêm đường dẫn neo của Sản Phẩm vào nội dung được chia sẻ bởi Bạn hoặc thay mặt Bạn, hoặc bán Sản Phẩm của Bạn thông qua truyền phát trực tiếp). Một số chức năng được sử dụng cho việc bán Sản Phẩm có thể bị giới hạn đối với một số Người Bán, theo sự quyết định của riêng TikTok.
+Cách Xử Lý Một Giao Dịch Mua Bán
+Khi có một Giao Dịch Mua Bán, một đơn đặt hàng (“
+Đơn Đặt Hàng
+”) sẽ được tạo trong Tài Khoản của Bạn. Bạn có trách nhiệm xử lý và vận chuyển theo Đơn Đặt Hàng đó. Các hướng dẫn về thực hiện việc này có tại
+Điều Khoản Bổ Sung Theo Khu Vực Pháp Lý
+,
+Seller University
+(
+Singapore
+,
+Indonesia
+,
+Malaysia
+,
+Philippines
+,
+Thái Lan
+,
+Vương Quốc Anh
+,
+Việt Nam
+)
+và
+Hướng Dẫn Vận Chuyển Đơn Đặt Hàng Của Khách Hàng Trên TikTok Shop Cho Người Bán
+(
+Singapore
+,
+Indonesia
+,
+Malaysia
+,
+Philippines
+,
+Thái Lan
+,
+Vương Quốc Anh
+,
+Việt Nam
+)
+và
+Hướng Dẫn Vận Chuyển Quốc Tế Trên TikTok Shop Cho Người Bán
+(
+Singapore
+,
+Indonesia
+,
+Malaysia
+,
+Philippines
+,
+Thái Lan
+,
+Vương Quốc Anh
+,
+Việt Nam
+)
+(khi áp dụng). Việc Bạn không sắp xếp vận chuyển Sản Phẩm cho Người Mua sau Giao Dịch Mua Bán theo phần
+Điều Khoản Bổ Sung Theo Khu Vực Pháp Lý
+, hoặc nếu Sản Phẩm Bạn gửi cho Người Mua không phù hợp theo tất cả khía cạnh cơ bản với mô tả Sản Phẩm được cung cấp cho Người Mua trước Giao Dịch Mua Bán
+sẽ được xem là vi phạm cơ bản các Điều Khoản này.
+Trao Đổi Thông Tin Với Người Mua
+Chúng Tôi cung cấp cho bạn các tính năng để trao đổi thông tin với Người Mua để tạo điều kiện cho việc thực hiện một số Đơn Đặt Hàng nhất định và phản hồi các yêu cầu từ Người Mua. Bạn cũng có thể xem xét và phản hồi các bình luận từ Người Mua đối với bất kỳ Đơn Đặt Hàng cụ thể nào.
+Bạn thừa nhận và đồng ý rằng các tin nhắn của Bạn phải tuân thủ với
+Tiêu Chuẩn Cộng Đồng
+.
+Hoàn Trả, Thay Thế Và Hủy Đơn Đặt Hàng
+Người Bán chịu trách nhiệm tuân thủ với bất kỳ quyền hoàn trả, thay thế hoặc hủy đơn đặt hàng nào mà Người Mua có thể có theo Luật Áp Dụng và các nghĩa vụ khác về Sản Phẩm như được quy định trong
+Hướng Dẫn Hủy Bỏ Đơn Đặt Hàng Của Khách Hàng, Hoàn Trả Và Hoàn Tiền Trên TikTok Shop
+(
+Singapore
+,
+Indonesia
+,
+Malaysia
+,
+Philippines
+,
+Thái Lan
+,
+Vương Quốc Anh
+,
+Việt Nam
+) và
+Hướng Dẫn Hoàn Trả Quốc Tế Trên TikTok Shop
+(
+Singapore
+,
+Malaysia
+,
+Philippines
+,
+Thái Lan
+,
+Vương Quốc Anh
+,
+Việt Nam
+) (khi áp dụng). Hướng dẫn về cách thức hoàn tiền cho Giao Dịch Mua Bán hoặc hủy bỏ một Đơn Đặt Hàng có tại
+Hướng Dẫn Hủy Bỏ Đơn Đặt Hàng Của Khách Hàng, Hoàn Trả Và Hoàn Tiền Trên TikTok Shop
+(
+Singapore
+,
+Indonesia
+,
+Malaysia
+,
+Philippines
+,
+Thái Lan
+,
+Vương Quốc Anh
+,
+Việt Nam
+) và
+Hướng Dẫn Hoàn Trả Quốc Tế Trên TikTok Shop
+(
+Singapore
+,
+Malaysia
+,
+Philippines
+,
+Thái Lan
+,
+Vương Quốc Anh
+,
+Việt Nam
+) (khi áp dụng). Việc Bạn không hoàn tiền cho Người Mua hoặc không cung cấp cho Người Mua quyền hủy bỏ Đơn Đặt Hàng hoặc thay thế Sản Phẩm khi Người Mua có quyền hợp pháp để làm như vậy theo Luật Áp Dụng sẽ được xem là vi phạm cơ bản các Điều Khoản này.
+LƯU Ý QUAN TRỌNG
+:
+Chúng tôi đặc biệt lưu ý rằng tại một số khu vực pháp lý, Người Mua có quyền hủy bỏ Giao Dịch Mua Bán mà không cần lý do (“
+Quyền Hủy Bỏ
+”). Việc Bạn không tôn trọng Quyền Hủy Bỏ của Người Mua khi họ có quyền như vậy theo Luật Áp Dụng sẽ được xem là vi phạm cơ bản các Điều Khoản này.
+Thu Hồi Sản Phẩm
+Bạn có trách nhiệm tuân thủ theo bất kỳ thông báo thu hồi hoặc an toàn nào được yêu cầu phải đưa ra đối với bất kỳ Sản Phẩm nào được Chào Bán bởi Bạn theo Luật Áp Dụng. Bạn đồng ý gỡ bỏ ngay lập tức khỏi TikTok Shop bất kỳ Sản Phẩm nào nếu Sản Phẩm đó phải tuân theo thông báo thu hồi hoặc an toàn. Việc Bạn không gỡ bỏ bất kỳ Sản Phẩm nào như vậy sẽ được xem là vi phạm cơ bản các Điều Khoản này.
+Xếp Hạng Sản Phẩm
+Các thông số chủ yếu mà Chúng Tôi sử dụng khi xác định liệu là và cách mà Sản Phẩm của Bạn được chào bán đến Người Dùng là:
+•
+Hoạt động của Người Dùng trên TikTok Shop: ví dụ như việc nhấp chọn vào danh sách Sản Phẩm hoặc tương tác với Nội Dung Của Người Sáng Tạo;
+•
+Thông tin Người Dùng: thông tin mà Người Dùng tiết lộ trong tài khoản của họ. Ví dụ như, tuổi, giới tính, địa điểm của họ, hoặc sở thích mà họ đã tiết lộ cho Chúng Tôi thông qua cài đặt Người Dùng;
+•
+Chất lượng niêm yết Sản Phẩm: Chúng Tôi đo lường chất lượng niêm yết Sản Phẩm bằng cách đánh giá các đặc tính tương ứng của niêm yết Sản Phẩm, ví dụ như liệu chất lượng hình ảnh của Sản Phẩm có thấp hay không; và
+•
+Chất lượng Nội Dung Của Người Sáng Tạo: Chúng tôi đo lường chất lượng Nội Dung Của Người Sáng Tạo bằng cách đánh giá các đặc tính tương ứng của Nội Dung Của Người Sáng Tạo, ví dụ như liệu chất lượng video có thấp hay không, và lượt tương tác của Người Dùng với Nội Dung Của Người Sáng Tạo, ví dụ như số lượt xem.
+Dịch Vụ Thanh Toán Vận Hành Như Thế Nào?
+Để biết thêm thông tin về cách vận hành của dịch vụ thanh toán tại khu vực pháp lý của Bạn, vui lòng xem phần
+Điều Khoản Bổ Sung Theo Khu Vực Pháp Lý
+.
+Dịch vụ Logistic hoạt động như thế nào?
+Vui lòng xem
+Điều Khoản Dành Riêng Theo Khu Vực Pháp Lý
+để biết thêm thông tin về cách dịch vụ logistic hoạt động đối với Sản Phẩm của Bạn tại khu vực pháp lý của Bạn.
+Bạn Sẽ Được Truy Cập Đến Dữ Liệu Nào Và Bạn Có Quyền Gì Để Sử Dụng Dữ Liệu Đó?
+Luật Bảo Vệ Dữ Liệu Áp Dụng
+Trong Điều Khoản này, “Luật Bảo Vệ Dữ Liệu Áp Dụng” có nghĩa là: (i) trong phạm vi áp dụng GDPR Của UK (như được định nghĩa dưới đây), pháp luật của Vương Quốc Anh hoặc pháp luật của một phần của Vương Quốc Anh liên quan đến bảo vệ dữ liệu cá nhân (như được định nghĩa trong Chính Sách Quyền Riêng Tư của Chúng Tôi); và (ii) trong phạm vi áp dụng GDPR Liên Minh Châu Âu (European Union – EU) (như được định nghĩa dưới đây), là pháp luật của Liên Minh Châu Âu hoặc pháp luật của bất kì quốc gia thành viên nào của Liên Minh Châu Âu mà Chúng Tôi là phải tuân thủ, liên quan đến bảo vệ dữ liệu cá nhân.
+Dữ Liệu TikTok Thu Thập Từ Bạn
+Dữ liệu Chúng Tôi thu thập về Bạn và hoạt động của Bạn trên TikTok Shop được mô tả trong
+Chính Sách Quyền Riêng Tư
+.
+Dữ Liệu TikTok Cung Cấp Cho Bạn
+Dữ liệu này sẽ bao gồm dữ liệu thuộc phạm vi định nghĩa “dữ liệu cá nhân” (như được định nghĩa trong
+Chính Sách Quyền Riêng Tư
+của Chúng Tôi), và bao gồm bất kỳ dữ liệu nào mà Bạn nhận được hoặc được cung cấp cho Bạn thông qua chức năng nhắn tin của Nền Tảng (“
+Dữ Liệu Từ TikTok Shop
+”), chẳng hạn như dữ liệu được cung cấp cho bạn khi bạn trao đổi trực tiếp với Người Dùng thông qua chức năng nhắn tin của Nền Tảng.
+Bạn chỉ có thể sử dụng Dữ Liệu Từ TikTok Shop theo cách tuân thủ nghiêm ngặt với (i) các Điều Khoản này và các Chính Sách Về TikTok Shop; (ii) bất kỳ thông báo quyền riêng tư nào mà bạn cung cấp cho Người Mua trước khi Giao Dịch Mua Bán được xác lập; và (iii) Luật Áp Dụng. Bạn chỉ có thể sử dụng Dữ Liệu Từ TikTok Shop cho mục đích xử lý và thực hiện Đơn Đặt Hàng từ Người Mua và khi cần thiết để xử lý việc hoàn tiền, hủy Đơn Đặt Hàng, yêu cầu hoặc khiếu nại từ Người Mua liên quan đến một Đơn Đặt Hàng (“
+Mục Đích Được Cho Phép
+”). Bạn không được sử dụng Dữ Liệu Từ TikTok Shop cho bất kỳ (các) mục đích nào khác, ví dụ như Bạn không được: (i) bán hoặc mua bán Dữ Liệu Từ TikTok Shop; (ii) sử dụng Dữ Liệu Từ TikTok Shop cho các mục đích ngoài Mục Đích Được Cho Phép, trừ khi Người Dùng đã cung cấp sự cho phép trước của họ theo yêu cầu của Luật Áp Dụng; hoặc (iii) sử dụng Dữ Liệu Từ TikTok Shop để gửi bất kỳ tin nhắn hoặc nội dung trao đổi tiếp thị hoặc quảng bá nào đến Người Dùng thông qua email hoặc bất kỳ cách thức trao đổi thông tin trực tiếp nào khác với Người Dùng, trừ khi (a) Bạn đã có được từ Người Dùng sự đồng ý trước một cách rõ ràng và trên cơ sở được thông báo đầy đủ theo Luật Áp Dụng; hoặc (b) Bạn đang sử dụng các chức năng hoặc tính năng đặc biệt mà Chúng Tôi cung cấp trong Trung Tâm Dành Cho Người Bán. Theo Điều Khoản 6, Bạn không được sử dụng chức năng nhắn tin của Nền Tảng cho bất kỳ mục đích tiếp thị hoặc quảng bá nào.
+Bạn phải thực hiện các biện pháp bảo mật đủ để đảm bảo an toàn Dữ Liệu Từ TikTok Shop mà Bạn nắm giữ, và Bạn phải xóa các Dữ Liệu Từ TikTok Shop ngay khi có thể khi đã hoàn thành giao dịch của Bạn với Người Mua.
+Dữ Liệu TikTok Xử Lý Thay Mặt Bạn
+Không làm ảnh hưởng tới vai trò chung liên quan đến việc xử lý dữ liệu cá nhân và vai trò của chúng tôi với tư cách là bên kiểm soát dữ liệu cá nhân, trong trường hợp mà chúng tôi xử lý bất kỳ dữ liệu cá nhân nào thay mặt Bạn để tạo điều kiện thuận lợi cho việc thực hiện một Đơn Đặt Hàng từ Người Mua và Dịch Vụ Của Đối Tác khác hoặc Dịch Vụ Kho Tích Hợp (“
+Dữ Liệu Được Xử Lý
+”) chúng tôi sẽ:
+(i)
+chỉ xử lý Dữ Liệu Được Xử Lý theo yêu cầu bằng văn bản của Bạn, mà yêu cầu này chỉ để xử lý Dữ Liệu Được Xử Lý nhằm mục đích tạo điều kiện thuận lợi cho việc thực hiện Đơn Đặt Hàng từ Người Mua và Dịch Vụ Của Đối Tác khác, trừ khi Chúng Tôi được yêu cầu bởi Luật Áp Dụng phải xử lý Dữ Liệu Được Xử Lý theo cách khác. Khi Chúng Tôi dựa vào Luật Áp Dụng làm cơ sở để xử lý Dữ Liệu Được Xử Lý đó, Chúng Tôi sẽ thông báo cho Bạn về điều này trước khi thực hiện quá trình xử lý theo yêu cầu của Luật Áp Dụng trừ khi Luật Áp Dụng đó cấm việc Chúng Tôi thông báo cho Bạn. Chúng Tôi sẽ thông báo Bạn nếu, theo ý kiến của Chúng Tôi, yêu cầu của Bạn vi phạm Luật Bảo Vệ Dữ Liệu Áp Dụng;
+(ii)
+thực hiện các biện pháp kỹ thuật và tổ chức phù hợp để bảo vệ chống lại việc xử lý trái phép hoặc bất hợp pháp đối với Dữ Liệu Được Xử Lý và chống lại việc mất mát hoặc hư hỏng, hoặc thiệt hại đối với Dữ Liệu Được Xử Lý đó, mà có tính đến tình trạng phát triển công nghệ và phí tổn để thực hiện bất kỳ biện pháp nào;
+(iii)
+đảm bảo rằng bất kì nhân sự nào mà Chúng Tôi thuê và ủy quyền để xử lý Dữ Liệu Được Xử Lý đều đã ký cam kết bảo mật hoặc tuân thủ theo nghĩa vụ bảo mật theo luật định hoặc thông luật áp dụng;
+(iv)
+hỗ trợ Bạn trong chừng mực cần thiết một cách hợp lý (có tính đến bản chất của quá trình xử lý và thông tin mà Chúng Tôi có sẵn), và với chi phí và yêu cầu bằng văn bản của Bạn, trong việc phản hồi bất kì yêu cầu nào từ một chủ thể dữ liệu và trong việc đảm bảo Bạn tuân thủ các nghĩa vụ của Bạn theo Luật Bảo Vệ Dữ Liệu Áp Dụng liên quan đến bảo mật, thông báo vi phạm, đánh giá tác động và tham vấn với các cơ quan giám sát hoặc cơ quan quản lý;
+(v)
+thông báo ngay cho Bạn khi biết về một vi phạm dữ liệu cá nhân có liên quan đến Dữ Liệu Được Xử Lý đó;
+(vi)
+theo hướng dẫn bằng văn bản của Bạn, xóa hoặc trả lại Dữ Liệu Được Xử Lý đó và các bản sao của chúng cho Bạn khi các Điều Khoản này chấm dứt, trừ khi Chúng Tôi được yêu cầu bởi Luật Áp Dụng phải tiếp tục xử lý Dữ Liệu Được Xử Lý đó; và
+(vii) giữ các hồ sơ để chứng minh sự tuân thủ của Chúng Tôi đối với những điều khoản này liên quan tới xử lý Dữ Liệu Được Xử Lý thay mặt Bạn, và cho phép Bạn hoặc kiểm soát viên được chỉ định của Bạn thực hiện kiểm tra một cách hợp lý, chỉ cho mục đích này, khi có thông báo trước hợp lý bằng văn bản.
+Bằng Điều Khoản này, Bạn cung cấp cho Chúng Tôi sự cho phép chung và trước của Bạn để Chúng Tôi:
+(i)
+chỉ định các bên xử lý để xử lý Dữ Liệu Được Xử Lý, với điều kiện là Chúng Tôi sẽ: (A) đảm bảo các điều khoản mà Chúng Tôi dựa vào để chỉ định các bên xử lý đó là tuân thủ Luật Bảo Vệ Dữ Liệu Áp Dụng, và phù hợp với các nghĩa vụ được quy định cho Chúng Tôi liên quan đến việc xử lý Dữ Liệu Được Xử Lý thay mặt Bạn; và (B) vẫn chịu trách nhiệm đối với các hành vi hoặc thiếu sót của bất kì bên xử lý nào như thể đó là các hành vi và thiếu sót của Chúng Tôi.
+(ii)
+chuyển giao Dữ Liệu Được Xử Lý đó ra khỏi Vương Quốc Anh hoặc EEA như được yêu cầu để tạo điều kiện thuận lợi cho việc thực hiện Đơn Đặt Hàng từ Người Mua và Dịch Vụ Của Đối Tác khác, với điều kiện là Chúng Tôi sẽ đảm bảo rằng tất cả các hoạt động chuyển giao dữ liệu đó được thực hiện theo Luật Bảo Vệ Dữ Liệu Áp Dụng. Cho mục đích này, các quy định dưới đây (
+Chuyển Giao Quốc Tế Đối Với Dữ Liệu Trên TikTok Shop Và Dữ Liệu Được Xử Lý
+) sẽ được áp dụng.
+Chuyển Giao Quốc Tế Đối Với Dữ Liệu Trên TikTok Shop Và Dữ Liệu Được Xử Lý
+Trong trường hợp có sự Chuyển Giao Ngoài EEA hoặc Chuyển Giao Ngoài UK (cả hai thuật ngữ được định nghĩa dưới đây), Phụ Lục 2 của các Điều Khoản này sẽ áp dụng đối với việc chuyển giao như vậy.
+“
+Chuyển Giao Ngoài EEA
+” là hoạt động xử lý dữ liệu mà theo đó dữ liệu cá nhân được xử lý theo Quy Định 2016/679 của Liên Minh Châu Âu (“
+GDPR
+”) được chuyển giao từ Chúng Tôi (trong Khu Vực Kinh Tế Châu Âu (EEA)) đến Bạn (hoặc đơn vị của Bạn) bên ngoài EEA, và việc chuyển giao như vậy không được điều chỉnh bởi một quyết định về việc đủ điều kiện được đưa ra bởi Ủy Ban Châu Âu theo các quy định có liên quan của GDPR.
+“
+Chuyển Giao Ngoài UK
+” là hoạt động xử lý dữ liệu mà theo đó dữ liệu cá nhân được xử lý theo GDPR Của UK (như được định nghĩa dưới đây) và Đạo Luật Bảo Vệ Dữ Liệu năm 2018 được chuyển giao từ Chúng Tôi trong Vương Quốc Anh (UK) đến Bạn (hoặc đơn vị của Bạn) bên ngoài UK, và việc chuyển giao như vậy không được điều chỉnh bởi một quyết định về việc đủ điều kiện được đưa ra bởi Quốc Vụ Khanh theo các quy định có liên quan của GDPR Của UK.
+“
+GDPR Của UK
+” nghĩa là GDPR mà tạo thành một phần của pháp luật nước Anh và xứ Wales, Scotland và Bắc Ai-len theo phần 3 của Đạo Luật (Rút Khỏi) Liên Minh Châu Âu năm 2018.
+7.
+Nội Dung Của TikTok Và Tài Liệu Của Người Bán
+Nội Dung Của TikTok
+Bạn thừa nhận rằng TikTok Shop và bất kỳ và tất cả các yếu tố của TikTok Shop được xem là “Nội Dung Của TikTok” theo
+Điều Khoản Dịch Vụ
+của Nền Tảng.
+Sự Cấp Phép của Bạn Cho TikTok
+Bằng cách sử dụng TikTok Shop, Bạn cấp cho TikTok và Các Bên Liên Kết Của TikTok sự cho phép vĩnh viễn, trên toàn thế giới, không thể hủy ngang, không phải trả phí bản quyền, hoàn toàn có thể chuyển giao, có thể cấp phép thứ cấp để lưu trữ, tái tạo, hiển thị, truyền phát (bao gồm truyền phát trực tiếp), phân phối, điều chỉnh, chạy, sao chép, biểu diễn công khai, cung cấp, công bố, dịch và tạo tác phẩm phái sinh của bất kỳ nội dung (bao gồm tên, lô-gô và nhãn hiệu), dữ liệu và/hoặc thông tin nào mà Bạn cung cấp cho Chúng Tôi về Bạn và Sản Phẩm của Bạn (“
+Tài Liệu Của Người Bán
+”) và để cho phép những người dùng khác của Nền Tảng hoặc các bên thứ ba xem, truy cập, tải về, tái tạo, tạo tác phẩm phái sinh, công bố và/hoặc truyền đưa Tài Liệu Của Người Bán, dưới bất kỳ dạng hoặc phương thức nào trên TikTok Shop và Nền Tảng, để sử dụng những đối tượng nêu trên nhằm tiếp thị và quảng bá TikTok Shop cả trong và ngoài Nền Tảng, và để cải thiện TikTok Shop, Nền Tảng và các sản phẩm và dịch vụ khác của Chúng Tôi.
+Sự cấp phép này bởi Bạn cho TikTok không ảnh hưởng đến các quyền sở hữu trí tuệ hoặc các quyền khác của Bạn trong và đối với Sản Phẩm của Bạn hoặc Tài Liệu Của Người Bán theo bất kỳ cách nào
+Bạn thừa nhận và đồng ý rằng Tài Liệu Của Người Bán của Bạn phải tuân thủ với
+Hướng Dẫn Nội Dung Trên TikTok Shop
+(
+Singapore
+,
+Indonesia
+,
+Malaysia
+,
+Philippines
+,
+Thái Lan
+,
+Vương Quốc Anh
+,
+Việt Nam
+).
+Các quy định trên đây không ảnh hưởng bất kỳ quyền được xóa bỏ dữ liệu nào mà Bạn có thể có theo Luật Áp Dụng.
+8.
+Tính Năng Liên Kết
+Tính Năng Liên Kết Là Gì?
+Tính Năng Liên Kết là tính năng trên TikTok Shop mà cho phép Người Bán thiết lập kế hoạch quảng bá công khai hoặc theo đối tượng và kết nối với những người sáng tạo của TikTok (“(Những) Người Sáng Tạo”) cho việc quảng bá các Sản Phẩm của Người Bán trên Nền Tảng (gọi chung là “Dịch Vụ Của Người Sáng Tạo”).
+Bạn hiểu rằng
+Tính Năng Liên Kết chỉ được cung cấp để cho phép Bạn liên kết với những Người Sáng Tạo và khởi tạo các kế hoạch quảng bá công khai hoặc theo đối tượng cho Sản Phẩm của Bạn thông qua chức năng mà chúng tôi cung cấp cho Bạn. Ví dụ như, việc chọn Sản Phẩm và thiết lập mức hoa hồng cho Dịch Vụ Của Người Sáng tạo có liên quan được cung cấp bởi Người Sáng Tạo.
+Việc Bạn sử dụng Tính Năng Liên Kết cho bất kỳ mục đích nào khác đều bị cấm, và có thể dẫn đến việc chấm dứt quyền truy cập của Bạn đến Tính Năng Liên Kết, TikTok Shop và/hoặc Nền Tảng.
+Liên Kết Với Những Người Sáng Tạo
+Việc bạn liên kết với Những Người Sáng Tạo thông qua Tính Năng Liên Kết sẽ tùy thuộc vào (các) mô hình dành cho khu vực pháp lý áp dụng của Bạn như được quy định tại phần
+Điều Khoản Bổ Sung Theo Khu Vực Pháp Lý
+.
+Bạn phải đảm bảo rằng tất cả Nội Dung Của Người Sáng Tạo mà Bạn ủy thác: (i) được gắn nhãn là một quảng cáo hoặc với dấu hiệu tiết lộ thương mại phù hợp; (ii) sử dụng chức năng gắn nhãn quảng cáo do Chúng Tôi cung cấp; và (iii) tuân thủ với tất cả Luật Áp Dụng, quy định, quy tắc ứng xử áp dụng và các chính sách về nhận biết quảng cáo có liên quan.
+Việc Liên Kết là giữa Bạn và Người Sáng Tạo
+Trong bất kỳ và tất cả mô hình (khi áp dụng), Bạn thừa nhận và đồng ý rằng Người Sáng Tạo là nhà thầu độc lập cung cấp Dịch Vụ Của Người Sáng Tạo cho Bạn theo một thỏa thuận giữa Bạn và Người Sáng Tạo, mà TikTok không là một bên trong thỏa thuận đó.
+Việc yêu cầu thực hiện Dịch Vụ Của Người Sáng Tạo bởi bạn từ Người Sáng Tạo, và việc cung cấp Dịch Vụ Của Người Sáng Tạo bởi Người Sáng Tạo cho Bạn là trực tiếp giữa Bạn và Người Sáng Tạo.
+Trong tất cả các trường hợp, TikTok sẽ không:
+•
+là một bên trong bất kỳ hợp đồng nào giữa Bạn và Người Sáng Tạo có liên quan đến Dịch Vụ Của Người Sáng Tạo;
+•
+xác định giá của Dịch Vụ Của Người Sáng Tạo;
+•
+tương tác; hoặc tham gia vào, việc cung cấp Dịch Vụ Của Người Sáng Tạo;
+•
+chịu trách nhiệm đối với việc yêu cầu thực hiện hoặc cung cấp Dịch Vụ Của Người Sáng Tạo giữa Bạn và Người Sáng Tạo và bất kỳ hợp đồng nào giữa Bạn và Người Sáng Tạo; hoặc
+•
+chịu trách nhiệm đối với bất kỳ trách nhiệm pháp lý hoặc việc thực thi nào theo bất kỳ hợp đồng nào giữa Bạn và Người Sáng Tạo.
+•
+chịu trách nhiệm đối với bất kỳ tranh chấp nào bạn có thể có với Người Sáng Tạo mà nằm ngoài việc thực thi Điều Khoản Của Người Sáng Tạo;
+Bạn thừa nhận và đồng ý rằng:
+•
+TikTok không có bất kỳ trách nhiệm pháp lý nào đối với bất kỳ khiếu nại nào liên quan đến bất kỳ hợp đồng nào giữa Bạn và Người Sáng Tạo, bao gồm nhưng không giới hạn ở các khiếu nại liên quan đến Sản Phẩm của Bạn, đến bất kỳ lời chào mời nào và/hoặc các tin nhắn, thông tin hoặc nội dung quảng bá khác mà Bạn yêu cầu Người Sáng Tạo bao gồm trong Nội Dung Của Người Sáng Tạo (như được định nghĩa dưới đây), hoặc Dịch Vụ Của Người Sáng Tạo được thực hiện bởi Người Sáng Tạo.
+Người Sáng Tạo cũng tự thực hiện lĩnh vực chuyên môn hoặc việc kinh doanh của họ trên tài khoản của họ, và nếu Bạn liên kết với Người Sáng Tạo, Bạn thừa nhận rằng Bạn làm như vậy với tư cách một khách hàng của Người Sáng Tạo chứ không phải của TikTok. Bạn hiểu rằng Người Sáng Tạo không phải là người lao động, công nhân, đại lý hoặc nhà thầu của TikTok.
+TikTok không chịu trách nhiệm đối với các hành động, sự thiếu sót, sai sót, tuyên bố, bảo đảm, sự cẩu thả, hoặc vi phạm của bất kỳ Người Sáng Tạo nào hoặc bất kỳ thiệt hại về tài sản nào, hoặc bất kỳ thiệt hại hoặc chi phí khác phát sinh do các lý do nêu trên, và TikTok không chịu bất kỳ trách nhiệm nào về Dịch Vụ Của Người Sáng Tạo được thực hiện bởi Người Sáng Tạo nói chung hoặc cho Bạn nói riêng.
+Cấp Phép Liên Quan Đến Nội Dung Của Người Sáng Tạo
+Để sử dụng Tính Năng Liên Kết, các điều khoản sau đây trong tiểu mục này (Cấp Phép Liên Quan Đến Nội Dung Của Người Sáng Tạo) được xem là được bao gồm trong hợp đồng hoặc thỏa thuận của Bạn với Người Sáng Tạo, mà TikTok không phải là một bên tham gia và không có trách nhiệm đối với các hợp đồng hoặc thỏa thuận này, liên quan đến việc cấp quyền trong và đối với: (a) Tài Liệu Của Người Bán cho việc Người Sáng Tạo cung cấp Dịch Vụ Của Người Sáng Tạo cho Bạn; và (b) Nội Dung Của Người Sáng Tạo cho việc khai thác của Bạn đối với Nội Dung Của Người Sáng Tạo:
+•
+Cấp Phép Đối Với Tài Liệu Của Người Bán
+. Bạn cấp phép không độc quyền, trên toàn thế giới, không phải trả phí bản quyền, có thể cấp phép thứ cấp, không thể hủy ngang trong và đối với Tài Liệu Của Người Bán của Bạn cho Người Sáng Tạo (i) cho mục đích để Người Sáng Tạo cung cấp Dịch Vụ Của Người Sáng Tạo cho Bạn, để tái tạo, hiển thị, truyền phát (bao gồm truyền phát trực tiếp), phân phối, điều chỉnh, chạy, sao chép, biểu diễn công khai, cung cấp, công bố, dịch và tạo tác phẩm phái sinh dưới bất kỳ dạng hoặc phương thức nào, thực hiện, sử dụng, chuyển giao, đưa vào, và thực thi bất kỳ và tất cả các quyền như vậy trong và đối với Tài Liệu Của Người Bán của Bạn trong suốt thời hạn mà Người Sáng Tạo cung cấp Dịch Vụ Của Người Sáng Tạo cho Bạn; và (ii) sau khi hết thời hạn nói trên, để tiếp tục phân phối, công bố, sao chép, tái tạo, biểu diễn công khai hoặc cung cấp theo cách khác Nội Dung Của Người Sáng Tạo được tạo ra trong suốt thời hạn đó.
+•
+Thừa Nhận về Tài Liệu Của Người Bán
+. Bạn thừa nhận rằng bất kỳ Nội Dung Của Người Sáng Tạo nào được cung cấp trên Nền Tảng có thể được phân phối trên toàn thế giới một cách vĩnh viễn mà không phải thanh toán hoặc trả phí cho Bạn trong suốt hoặc sau thời hạn mà Người Sáng Tạo cung cấp Dịch Vụ Của Người Sáng Tạo cho Bạn. TikTok hoặc bất kỳ Bên Liên Kết Của TikTok nào không cần phải tháo xuống hay gỡ bỏ Nội Dung Của Người Sáng Tạo khỏi Nền Tảng.
+•
+Cấp Phép Đối Với Nội Dung Của Người Sáng Tạo
+. Người Sáng Tạo cấp sự cho phép giới hạn, không độc quyền, không thể cấp phép thứ cấp, không thể chuyển giao, không phải trả phí bản quyền cho Bạn chỉ để phân phối hoặc cung cấp theo cách khác Nội Dung Của Người Sáng Tạo trên Nền Tảng trên cơ sở “nguyên trạng” mà không có bất kỳ quyền nào để sửa đổi, biên tập hoặc thay đổi.
+•
+Thừa Nhận Nội Dung Của Người Sáng Tạo
+. Bạn thừa nhận rằng, giữa Bạn và Người Sáng Tạo, ngoại trừ quyền, quyền sở hữu và lợi ích của Người Bán trong và đối với Tài Liệu Của Người Bán và quyền, quyền sở hữu và lợi ích của TikTok trong và đối với Nội Dung Của TikTok, Người Sáng Tạo sở hữu tất cả hình ảnh, video, phương tiện truyền thông, nội dung và bất kỳ yếu tố nào có trong các đối tượng nêu trên (“
+Nội Dung Của Người Sáng Tạo
+”) được tạo ra bởi Người Sáng Tạo khi cung cấp Dịch Vụ Của Người Sáng Tạo cho Bạn.
+9.
+Thị Trường Dịch Vụ và Dịch Vụ Của Đối Tác
+•
+Thị Trường Dịch Vụ Và Dịch Vụ Của Đối Tác là gì?
+•
+Thị Trường Dịch Vụ
+: có nghĩa là nền tảng mà là một phần của Trung Tâm Dành Cho Người Bán, nơi Bạn có thể lướt xem các Dịch Vụ Công Khai được cung cấp bởi Đối Tác,.
+•
+“Đối Tác”
+trong Điều Khoản này đề cập đến nhà cung cấp dịch vụ bên thứ ba, bao gồm mạng lưới đa kênh, nhà cung cấp dịch vụ độc lập, đối tác liên kết hoặc người chiêu mộ người tài năng đã đăng ký trên Trung Tâm Đối Tác Trên TikTok Shop (“
+TTĐTTTTS
+”) và chào bán Dịch Vụ Của Đối Tác cho những Người Bán.
+•
+Dịch Vụ Công Cộng
+: có nghĩa là dịch vụ được cung cấp bởi Đối Tác cho Bạn trên TTĐTTTTS, mà được tiết lộ trên Thị Trường Dịch Vụ và được ủy quyền bởi Bạn.
+•
+Dịch Vụ Tùy Chỉnh
+: có nghĩa là dịch vụ được cung cấp bởi Đối Tác cho Bạn, mà không được tiết lộ trên Thị Trường Dịch Vụ, và được ủy quyền bởi Bạn.
+•
+(
+Các) Dịch Vụ Của Đối Tác
+: có nghĩa là Dịch Vụ Công Khai và Dịch Vụ Tùy Chỉnh mà được giao kết trực tiếp bởi Bạn với Đối Tác tương ứng. Để tránh nghi ngờ, Dịch Vụ Của Đối Tác không tạo thành một phần của việc cung cấp TikTok Shop và được cung cấp bởi Đối Tác và được giao kết trực tiếp bởi Bạn với Đối Tác và không thông qua TTĐTTTTS.
+Thị Trường Dịch Vụ Vận Hành Như Trang Bán Hàng
+LƯU Ý QUAN TRỌNG
+:
+TikTok không tự bán Dịch Vụ Của Đối Tác. TikTok cho phép Đối Tác được quảng bá Dịch Vụ Của Đối Tác trên Thị Trường Dịch Vụ. TikTok có thể tạo điều kiện thuận lợi cho việc Đối Tác quảng bá và bán Dịch Vụ Của Đối Tác trên Thị Trường Dịch Vụ cho bạn. Hợp đồng dịch vụ đối với Dịch Vụ Của Đối Tác luôn chỉ là giữa Bạn và Đối Tác. TikTok không (a) là người mua hoặc người bán đối với Dịch Vụ Của Đối Tác; (b) chịu trách nhiệm đối với việc thực hiện hợp đồng dịch vụ hoặc bất kì hợp đồng nào giữa Bạn và Đối Tác; hoặc (c) là một đại lý của Bạn hoặc của Đối Tác liên quan đến bất kì việc cung cấp hoặc mua Dịch Vụ Của Đối Tác nào. Đối Tác cung cấp Dịch Vụ Của Đối Tác sẽ được hiển thị trên trang mô tả dịch vụ (“
+Trang Mô Tả
+”) và quyền truy đòi của Bạn, ví dụ như liên quan đến việc hoàn tiền và hủy bỏ, sẽ là giữa Bạn và Đối Tác. TikTok, như một nhà cung cấp trang bán hàng, có thể nỗ lực hợp lý về khía cạnh thương mại để yêu cầu Đối Tác cung cấp thông tin chính xác và được cập nhập, nhưng TikTok không đảm bảo hoặc chứng nhận chất lượng của bất kỳ Dịch Vụ Của Đối Tác, thông tin hoặc dịch vụ nào được cung cấp bởi Đối Tác.
+Cách Sử Dụng Trang Bán Hàng Và Ủy Quyền Cho Dịch Vụ Của Đối Tác?
+Bạn có thể sử dụng Tài Khoản của bạn để ủy quyền cho một Dịch Vụ Của Đối Tác được cung cấp bởi Đối Tác. Chúng Tôi sẽ sử dụng Thông Tin Đăng Ký của bạn để đánh giá xem bạn có thể ủy quyền và giao kết Dịch Vụ Của Đối Tác hay không. Trong trường hợp Đối Tác tương ứng cung cấp Dịch Vụ Của Đối Tác cho bạn là nhà cung cấp phần mềm độc lập, thì Bạn đồng ý đảm bảo rằng họ phải ký kết
+Điều Khoản Dịch Vụ Về Trung Tâm Đối Tác Trên TikTok Shop
+với TikTok.
+Ủy Quyền Dịch Vụ Của Đối Tác
+Khi Bạn đăng ký một Dịch Vụ Của Đối Tác:
+•
+Nếu Dịch Vụ Của Đối Tác yêu cầu việc chia sẻ Dữ Liệu (như được định nghĩa dưới đây) cho Đối Tác: Thì dữ liệu được chia sẻ với Đối Tác để Đối Tác thực hiện Dịch Vụ Của Đối Tác này sẽ được tiết lộ trên Trang Mô Tả (“
+Dữ Liệu
+”). Bằng Điều Khoản này, Bạn tuyên bố rằng, khi bạn nhấp chuột vào nút “Ủy Quyền” trên Trang Mô Tả:
+•
+thì bạn đã ký kết một hợp đồng dịch vụ với Đối Tác đối với Dịch Vụ Của Đối Tác;
+•
+bạn cho phép việc Dữ Liệu của bạn được chia sẻ với hoặc được cung cấp cho Đối Tác ngay lập tức thông qua các liên kết giao diện lập trình ứng dụng (Application Progamming Interface – API) hoặc thông qua TTĐTTTTS cho tới khi hết thời hạn đăng ký Dịch Vụ Của Đối Tác đó, hoặc cho đến khi hủy bỏ Dịch Vụ Của Đối Tác đó.
+•
+Nếu Dịch Vụ Của Đối Tác không yêu cầu việc chia sẻ Dữ Liệu cho Đối Tác: thì Đối Tác sẽ liên hệ với bạn về việc thực hiện Dịch Vụ Của Đối Tác tương ứng.
+Bạn thừa nhận và đồng ý rằng:
+•
+Bạn phải nhanh chóng hủy đăng ký Dịch Vụ Của Đối Tác trên Trung Tâm Dành Cho Người Bán nếu bạn không muốn Dữ Liệu của bạn được chia sẻ với Đối Tác hoặc Dịch Vụ Của Đối Tác được cung cấp bởi Đối Tác, hoặc nếu bạn không còn hợp đồng dịch vụ đang thực hiện đối với Dịch Vụ Của Đối Tác.
+•
+Việc giao dịch và mua bán Dịch Vụ Của Đối Tác được thực hiện giữa Bạn và Đối Tác, và Bạn và Đối Tác phải tuân thủ nghiêm ngặt các hợp đồng dịch vụ hoặc các thỏa thuận khác được ký kết giữa Bạn và Đối Tác. TikTok (và/hoặc bất kỳ Bên Liên Kết Của TikTok nào) không phải là một bên trong hợp đồng đó, không có trách nhiệm đối với việc cung cấp bất kỳ Dịch Vụ Của Đối Tác nào cho Bạn, và không chịu trách nhiệm pháp lý cho các hành vi, thiếu sót, lỗi, tuyên bố, bảo đảm, sơ suất hoặc vi phạm bởi Bạn hoặc bởi Đối Tác. Chúng Tôi sẽ không chịu trách nhiệm đối với bất kỳ việc thực hiện bất kỳ hợp đồng dịch vụ nào giữa bạn và Đối Tác. TikTok có thể phối hợp với Bạn và Đối Tác để giải quyết bất kì tranh chấp nào, tuy nhiên, với điều kiện là, Bạn hiểu rằng các nỗ lực của TikTok trong việc phối hợp có thể không có hiệu quả thực tế hoặc đáng kể, và rằng Bạn không có quyền yêu cầu việc bảo đảm bồi thường hoặc bồi thường thiệt hại từ TikTok.
+•
+Bạn phải lựa chọn và quyết định Dịch Vụ Của Đối Tác và Đối Tác nào mà Bạn muốn liên kết một cách cẩn thận và chỉ đặt và ủy quyền cho Dịch Vụ Của Đối Tác sau khi Bạn đã tự đọc và hiểu đầy đủ về khả năng sử dụng, nội dung, hướng dẫn sử dụng, phí dịch vụ, các quy tắc hoàn tiền, thời hạn đăng ký và các rủi ro của Dịch Vụ Của Đối Tác.
+•
+Khi cho phép việc chia sẻ Dữ Liệu, bạn phải xem xét rủi ro là Dịch Vụ Của Đối Tác có thể bị gián đoạn, tạm ngừng hoặc chấm dứt bởi Đối Tác trong tương lai.
+•
+Bạn thừa nhận rằng trong trường hợp Đối Tác vi phạm bất kỳ điều khoản nào ký kết với Chúng Tôi, bao gồm nhưng không giới hạn ở
+Điều Khoản Dịch Vụ Của TikTok
+và các điều khoản và chính sách khác, thì TikTok có quyền yêu cầu Đối Tác ngừng cung cấp Dịch Vụ Của Đối Tác tại bất kỳ thời điểm nào. Việc bạn không thể tiếp tục sử dụng Dịch Vụ Của Đối Tác vì lý do trên được quy trách nhiệm cho lỗi hoặc sơ suất của Đối Tác và bạn không có quyền truy đòi Chúng Tôi, và bất kỳ trách nhiệm pháp lý hoặc thiệt hại nào sẽ do Đối Tác tự chịu trách nhiệm một cách độc lập.
+•
+TikTok không kiểm soát Dịch Vụ Của Đối Tác hoặc nội dung liên quan đến Dịch Vụ Của Đối Tác được cung cấp bởi Đối Tác, và sẽ không chịu trách nhiệm pháp lý đối với sự an toàn, độ tin cậy và tính khả dụng của Dịch Vụ Của Đối Tác hoặc nội dung như vậy, và TikTok cũng không chịu trách nhiệm kiểm duyệt Dịch Vụ Của Đối Tác hoặc chứng nhận bất kỳ nội dung, mô tả, quảng cáo nào hoặc các vấn đề khác liên quan đến Dịch Vụ Của Đối Tác. Bạn cũng thừa nhận và đồng ý rằng TikTok không chịu trách nhiệm pháp lý đối với bất kỳ thiệt hại trực tiếp hoặc mang tính hậu quả nào do việc Bạn sử dụng hoặc dựa vào nội dung, mô tả, quảng cáo hoặc các vấn đề khác liên quan tới Dịch Vụ Của Đối Tác.
+Ủy Quyền Dịch Vụ Kho Tích Hợp
+·
+Kho Tích Hợp:
+có nghĩa là một chủ thể cung cấp Dịch Vụ Kho Tích Hợp cho Bạn;
+·
+Dịch Vụ Kho Tích Hợp
+: có nghĩa là các dịch vụ vận chuyển, logistic và/hoặc lưu kho bãi được cung cấp bởi bên thứ ba;
+Khi bạn đăng ký Dịch Vụ Kho Tích Hợp:
+•
+Dữ Liệu được chia sẻ với Kho Tích Hợp để Kho Tích Hợp thực hiện Dịch Vụ Kho Tích Hợp sẽ được tiết lộ trên Trang Mô Tả.
+•
+Bằng Điều Khoản này, Bạn tuyên bố rằng, khi bạn nhấp chuột vào nút “Ủy Quyền” trên Trang Mô Tả:
+•
+Bạn đã ký kết một hợp đồng dịch vụ với Kho Tích Hợp; và
+•
+Bạn cho phép Chúng Tôi chia sẻ Dữ Liệu của bạn với Kho Tích Hợp và Bạn cho phép Kho Tích Hợp chia sẻ Dữ Liệu của bạn với Chúng Tôi ngay lập tức thông qua kết nối API hoặc các giải pháp sản phẩm khác cho tới khi hết thời hạn đăng ký đối với Dịch Vụ Nhà Kho Tích Hợp hoặc hủy bỏ Dịch Vụ Kho Tích Hợp đó.
+Bạn thừa nhận và đồng ý rằng:
+•
+Bạn phải hủy ngay lập tức hủy việc cho phép của bạn nếu bạn không muốn Dữ Liệu của bạn được chia sẻ với Kho Tích Hợp hoặc với với Dịch Vụ Kho Tích Hợp được cung cấp cho Bạn.
+•
+Hoạt động trao đổi và mua bán Dịch Vụ Kho Tích Hợp được thực hiện giữa Bạn và Kho Tích Hợp, và Bạn và Nhà Kho Tích Hợp phải tuân thủ nghiêm ngặt các hợp đồng dịch vụ hoặc các thỏa thuận khác được ký kết giữa Bạn và Kho Tích Hợp. TikTok (và/hoặc bất kỳ Bên Liên Kết Của TikTok nào) không phải là một bên trong hợp đồng đó, không có trách nhiệm đối với việc cung cấp bất kỳ Dịch Vụ Kho Tích Hợp nào cho Bạn, và không chịu trách nhiệm pháp lý đối với các hành vi, thiếu sót, lỗi, tuyên bố, bảo đảm, sơ suất hoặc vi phạm bởi Bạn hoặc bởi Kho Tích Hợp. Chúng Tôi sẽ không chịu trách nhiệm đối với bất kỳ việc thực hiện bất kỳ hợp đồng dịch vụ nào giữa bạn và Kho Tích Hợp. TikTok có thể phối hợp với Bạn và Kho Tích Hợp để giải quyết bất kì tranh chấp nào, tuy nhiên, với điều kiện là, Bạn hiểu rằng các nỗ lực của TikTok trong việc phối hợp có thể không có hiệu quả thực tế hoặc đáng kể, và rằng Bạn không có quyền yêu cầu đảm bảo bồi thường hoặc bồi thường thiệt hại từ TikTok.
+•
+Bạn phải lựa chọn và quyết định Dịch Vụ Kho Tích Hợp và Kho Tích Hợp nào mà Bạn muốn liên kết một cách cẩn thận, và chỉ đặt và ủy quyền cho Dịch Vụ Kho Tích Hợp khi Bạn đã tự đọc và hiểu đầy đủ về khả năng sử dụng, nội dung, hướng dẫn sử dụng, phí dịch vụ, các quy tắc hoàn tiền, thời hạn đăng ký và các rủi ro của Dịch Vụ Kho Tích Hợp.
+•
+Khi cho phép việc chia sẻ Dữ Liệu, bạn phải xem xét rủi ro là Dịch Vụ Kho Tích Hợp có thể bị gián đoạn, tạm dừng hoặc chấm dứt bởi Kho Tích Hợp trong tương lai. Bất kì việc chấm dứt nào đối với hợp đồng dịch vụ ký kết với Kho Tích Hợp phải tuân thủ theo “kế hoạch kết thúc”.
+•
+Bạn thừa nhận rằng trong trường hợp Kho Tích Hợp vi phạm bất kỳ điều khoản nào ký kết với Chúng Tôi, bao gồm nhưng không giới hạn ở Điều Khoản Dịch Vụ Về Kho Tích Hợp Của TikTok và các điều khoản hoặc chính sách khác, thì TikTok có quyền ngừng cung cấp Dịch Vụ Kho Tích Hợp Trên TikTok Shop cho Kho Tích Hợp tại bất kỳ thời điểm nào. Việc bạn không thể tiếp tục sử dụng Dịch Vụ Kho Tích Hợp vì lý do trên là do lỗi hoặc sơ suất của Kho Tích Hợp và bạn không có quyền truy đòi Chúng Tôi, và bất kỳ trách nhiệm pháp lý hoặc thiệt hại nào sẽ do Kho Tích Hợp tự chịu trách nhiệm một cách độc lập.
+•
+TikTok không kiểm soát Dịch Vụ Kho Tích Hợp hoặc nội dung liên quan đến Dịch Vụ Kho Tích Hợp được cung cấp bởi Kho Tích Hợp, và sẽ không chịu trách nhiệm đối với sự an toàn, độ tin cậy và tính khả dụng của Dịch Vụ Kho Tích Hợp đó. Bạn cũng thừa nhận và đồng ý rằng TikTok không có trách nhiệm đối với bất kỳ thiệt hại trực tiếp hoặc mang tính hậu quả nào do việc Bạn sử dụng hoặc dựa vào nội dung hoặc các tài liệu khác liên quan tới Dịch Vụ Kho Tích Hợp.
+•
+Nếu, vì bất kỳ nguyên nhân nào quy về cho Kho Tích Hợp, mà Dịch Vụ Kho Tích Hợp phải chấm dứt sớm, hoặc
+Kho Tích Hợp không cung cấp được cho Bạn bất kỳ Dịch Vụ Nhà Kho Tích Hợp nào như đã thỏa thuận, thì Kho Tích Hợp phải độc lập chịu trách nhiệm pháp lý tương ứng với Bạn.
+Thanh Toán Liên Quan Đến dịch Vụ Của Đối Tác Và dịch Vụ Kho Tích Hợp
+Tất cả các khoản thanh toán liên quan đến Dịch Vụ Của Đối Tác và Dịch Vụ Kho Tích Hợp phải được xử lý trực tiếp giữa Đối Tác và Bạn mà không cần TikTok nắm thông tin hoặc tham gia vào. Trong trường hợp có bất kì tranh chấp hoặc mâu thuẫn nào liên quan đến việc thanh toán, ví dụ như việc hoàn tiền, khiếu nại, v.v., thì Bạn phải thương lượng trực tiếp với Đối Tác hoặc Kho Tích Hợp. Không bên nào có quyền yêu cầu hoàn tiền từ TikTok.
+10.
+Việc Sử Dụng API Của Bạn
+Trong phạm vi chúng tôi cung cấp bất kỳ API và Dữ Liệu API nào cho Bạn (như được định nghĩa tại Phụ Lục 3), thì các điều khoản của Phụ Lục 3 được áp dụng. Để tránh nghi ngờ, API và Dữ Liệu API là một phần của TikTok Shop.
+11.
+Phí Dịch Vụ
+Đối với người bán mà bán hàng cho người mua tại Vương Quốc Anh
+Khoản phí (“
+Phí Dịch Vụ
+”) mà TikTok thu từ việc Bạn sử dụng TikTok Shop sẽ được dựa trên một tỷ lệ phần trăm nhất định trên mỗi Đơn Đặt Hàng, trên cơ sở số tiền phải trả bởi Người Mua cho Đơn Đặt Hàng (“
+Tỷ Lệ Hoa Hồng
+”). TikTok có thể thay đổi Tỷ Lệ Hoa Hồng tùy từng thời điểm theo quyết định của riêng và tuyệt đối bởi TikTok và thông báo cho Bạn về các thay đổi như vậy bằng văn bản (“
+Thông Báo
+”) theo Điều Khoản 4 và bất kỳ
+Điều Khoản Bổ Sung Theo Khu Vực Pháp Lý
+áp dụng nào. Nếu TikTok giảm Tỷ Lệ Hoa Hồng, việc giảm như vậy là tự động chấm dứt trong khoảng thời gian xác định như được nêu trong Thông Báo của TikTok, hoặc trong bất kỳ trường hợp nào là trong vòng 1 năm kể từ ngày của Thông Báo trừ khi được quy định khác đi trong Thông Báo. Trừ khi được quy định khác đi trong các Điều Khoản này (bao gồm Điều Khoản 15) và trong
+Điều Khoản Bổ Sung Theo Khu Vực Pháp Lý
+,
+Phí Dịch Vụ đã bao gồm các khoản thuế áp dụng, bao gồm nhưng không giới hạn ở Thuế Giá Trị Gia Tăng (“
+VAT
+”), Thuế Hàng Hóa Và Dịch Vụ (“
+GST
+”), Thuế Dịch Vụ, Thuế Tiêu Dùng ở Nhật, hoặc các khoản tương đương (“
+Thuế
+”).
+Đối với Đơn Đặt Hàng được bán cho Người Mua tại Vương Quốc Anh, Tỷ Lệ Hoa Hồng là 5%.
+Nếu Bạn sử dụng bất kỳ chức năng hoặc tính năng đặc biệt nào trên TikTok Shop, hoặc tham gia vào bất kỳ chương trình bổ sung nào, bạn có thể phải trả thêm phí dịch vụ.
+Đối với người bán mà bán hàng cho người mua tại Indonesia
+Khoản phí (“
+Phí Dịch Vụ
+”) mà TikTok thu từ việc Bạn sử dụng TikTok Shop sẽ được dựa trên một tỷ lệ phần trăm nhất định trên mỗi Đơn Đặt Hàng, trên cơ sở số tiền phải trả bởi Người Mua cho Đơn Đặt Hàng. Tỷ lệ phần trăm trên mỗi Đơn Đặt Hàng có thể bao gồm Phí Dịch Vụ Thanh Toán (hoặc Giao Dịch) và/hoặc Phí Dịch Vụ Hoa Hồng. TikTok có thể thay đổi Phí Dịch Vụ tùy từng thời điểm, theo quyết định của riêng TikTok, bằng cách đưa ra văn bản thông báo (bao gồm thông qua Trung Tâm Dành Cho Người Bán hoặc email) cho Người Bán. Phí Dịch Vụ Thanh Toán (nếu có) hoặc Phí Dịch Vụ Hoa Hồng sẽ được chỉ ra trong Trung Tâm Dành Cho Người Bán và/hoặc
+Seller University
+(
+Indonesia
+).
+Nếu TikTok giảm Phí Dịch Vụ, việc giảm như vậy là tự động chấm dứt trong khoảng thời gian xác định như được nêu trong Thông Báo của TikTok, hoặc trong bất kỳ trường hợp nào là trong vòng 1 năm kể từ ngày của Thông Báo trừ khi được quy định khác đi trong Thông Báo.
+Trừ khi được quy định khác đi trong các Điều Khoản này (bao gồm Điều Khoản 15) và trong
+Điều Khoản Bổ Sung Theo Khu Vực Pháp Lý
+, Phí Dịch Vụ đã bao gồm các khoản thuế áp dụng, bao gồm nhưng không giới hạn ở Thuế Giá Trị Gia Tăng (“
+VAT
+”), Thuế Hàng Hóa Và Dịch Vụ (“
+GST
+”), Thuế Dịch Vụ, Thuế Tiêu Dùng ở Nhật, hoặc các khoản tương đương (“
+Thuế
+”).
+Nếu Bạn sử dụng bất kỳ chức năng hoặc tính năng đặc biệt nào trên TikTok Shop, hoặc tham gia vào bất kỳ chương trình bổ sung nào, bạn có thể phải trả thêm phí dịch vụ.
+Đối với người bán bán hàng cho người mua tại Singapore, Thái Lan, Malaysia và Philippines
+Phí dịch vụ Nền Tảng (“
+Phí Dịch Vụ
+”) mà TikTok thu từ việc Bạn sử dụng TikTok Shop, và việc cung cấp TikTok Shop cho Bạn, sẽ bao gồm Phí Dịch Vụ Hoa Hồng và Phí Dịch Vụ Giao Dịch. Phí Dịch Vụ sẽ được dựa trên một tỷ lệ phần trăm nhất định trên mỗi Đơn Đặt Hàng, trên cơ sở số tiền phải trả bởi Người Mua cho Đơn Đặt Hàng.
+TikTok có thể thay đổi Phí Dịch Vụ tùy từng thời điểm theo quyết định của riêng TikTok bằng cách đưa ra văn bản thông báo (bao gồm thông qua Trung Tâm Dành Cho Người Bán hoặc email) đến cho Người Bán. Phí Dịch Vụ Giao Dịch và Phí Dịch Vụ Hoa Hồng sẽ được chỉ ra trong Trung Tâm Dành Cho Người Bán.
+Nếu TikTok giảm Phí Dịch Vụ, việc giảm như vậy sẽ tự động chấm dứt trong khoảng thời gian xác định như được nêu trong Thông Báo của TikTok, hoặc trong bất kỳ trường hợp nào là trong vòng 1 năm kể từ ngày của Thông Báo trừ khi được quy định khác đi trong Thông Báo.
+Trừ khi được quy định khác đi trong các Điều Khoản này (bao gồm Điều Khoản 15) và trong
+Điều Khoản Bổ Sung Theo Khu Vực Pháp Lý
+, Phí Dịch Vụ đã bao gồm các khoản thuế áp dụng, bao gồm nhưng không giới hạn ở Thuế Giá Trị Gia Tăng (“
+VAT
+”), Thuế Hàng Hóa Và Dịch Vụ (“
+GST
+”), Thuế Dịch Vụ, Thuế Tiêu Dùng ở Nhật, hoặc các khoản tương đương (“
+Thuế
+”).
+Nếu Bạn sử dụng bất kỳ chức năng hoặc tính năng đặc biệt nào trên TikTok Shop, hoặc tham gia vào bất kỳ chương trình bổ sung nào, bạn có thể phải trả thêm phí dịch vụ.
+Đối với người bán bán hàng cho người mua tại Việt Nam
+Phí dịch vụ Nền Tảng (“
+Phí Dịch Vụ
+”) mà TikTok thu từ việc Bạn sử dụng TikTok Shop, và việc cung cấp TikTok Shop cho Bạn, sẽ bao gồm nhưng không giới hạn, Phí Dịch Vụ Hoa Hồng,
+Phí Dịch Vụ Giao Dịch và các loại phí khác được thông báo cho bạn theo từng thời điểm. Phí Dịch Vụ sẽ được dựa trên một tỷ lệ phần trăm nhất định trên mỗi Đơn Đặt Hàng, trên cơ sở số tiền phải trả bởi Người Mua cho Đơn Đặt Hàng hoặc được tính dựa trên một mức phí cố định hoặc dựa trên cơ chế khác được thông báo cho bạn theo từng thời điểm.
+TikTok có thể thay đổi Phí Dịch Vụ
+tùy từng thời điểm theo quyết định của riêng TikTok bằng cách đưa ra văn bản thông báo (bao gồm thông qua Trung Tâm Dành Cho Người Bán hoặc email) đến cho Người Bán. Phí Dịch Vụ Giao Dịch, Phí Dịch Vụ Hoa Hồng và các loại phí khác sẽ được chỉ ra trong Trung Tâm Dành Cho Người Bán.
+Nếu TikTok giảm Phí Dịch Vụ, việc giảm như vậy sẽ tự động chấm dứt trong khoảng thời gian xác định như được nêu trong Thông Báo của TikTok, hoặc trong bất kỳ trường hợp nào là trong vòng 1 năm kể từ ngày của Thông Báo trừ khi được quy định khác đi trong Thông Báo.
+Trừ khi được quy định khác đi trong các Điều Khoản này (bao gồm Điều Khoản 15) và trong
+Điều Khoản Bổ Sung Theo Khu Vực Pháp Lý
+, Phí Dịch Vụ đã bao gồm các khoản thuế áp dụng, bao gồm nhưng không giới hạn ở Thuế Giá Trị Gia Tăng (“
+VAT
+”), Thuế Hàng Hóa Và Dịch Vụ (“
+GST
+”), Thuế Dịch Vụ, Thuế Tiêu Dùng ở Nhật, hoặc các khoản tương đương (“
+Thuế
+”).
+Nếu Bạn sử dụng bất kỳ chức năng hoặc tính năng đặc biệt nào trên TikTok Shop, hoặc tham gia vào bất kỳ chương trình bổ sung nào, bạn có thể phải trả thêm phí dịch vụ.
+12.
+Bạn Có Thể Ủy Quyền Cho Người Dùng Khác Quản Lý Tài Khoản Của Bạn Bằng Cách Nào?
+Bạn có thể ủy quyền cho một hoặc nhiều người dùng trên Nền Tảng (mỗi chủ thể gọi là một “Người Dùng Được Ủy Quyền”) để quản lý Tài Khoản của Bạn cho mục đích truy cập hoặc sử dụng toàn bộ hoặc một phần TikTok Shop. Việc liên kết với Người Dùng Được Ủy Quyền như vậy chỉ là giữa Bạn và Người Dùng Được Ủy Quyền của Bạn, mà Chúng Tôi không là một bên và không có bất kỳ trách nhiệm pháp lý nào trong mối quan hệ đó.
+Bạn phải đảm bảo rằng bất kỳ và tất cả (các) Người Dùng Được Ủy Quyền của Bạn không phải là trẻ vị thành niên (mà việc định nghĩa tùy thuộc vào Luật Áp Dụng) và có năng lực pháp luật để ký kết thỏa thuận mang tính ràng buộc và để hành động thay mặt Bạn.
+Người Dùng Được Ủy Quyền của Bạn truy cập và sử dụng TikTok Shop thay mặt Bạn. Bất kỳ hành động hoặc sự thiết sót nào bởi bất kỳ Người Dùng Được Ủy Quyền của Bạn trên Tài Khoản của Bạn sẽ được xem là hành động hoặc sự thiếu sót của Bạn, và bất kỳ vi phạm nào bởi Người Dùng Được Ủy Quyền của Bạn sẽ được xem là vi phạm bởi Bạn. Bạn phải hoàn toàn chịu trách nhiệm và chịu trách nhiệm pháp lý đối với việc truy cập hoặc sử dụng TikTok Shop bởi (các) Người Dùng Được Ủy Quyền của Bạn.
+(Các) Người Dùng Được Ủy Quyền bị ràng buộc bởi các điều khoản theo các Điều Khoản này và Bạn phải đảm bảo sự tuân thủ như vậy. Bạn phải thông báo cho Chúng Tôi ngay lập tức nếu bạn biết về bất kỳ vi phạm hay xâm phạm nào đối với các Điều Khoản này bởi bất kỳ (các) Người Dùng Được Ủy Quyền của Bạn nào.
+Bạn có thể ủy quyền, điều chỉnh phạm vi ủy quyền, chấm dứt việc ủy quyền hoặc quản lý theo cách khác sự ủy quyền đã cấp cho (các) Người Dùng Được Ủy Quyền của Bạn. Chúng tôi bảo lưu quyền tạm ngừng hoặc chấm dứt quyền truy cập của (các) Người Dùng Được Ủy Quyền của Bạn đến Tài Khoản của Bạn và/hoặc TikTok Shop mà có hoặc không có thông báo và không phải chịu bất kỳ trách nhiệm pháp lý nào, nếu chúng tôi biết được về bất kỳ vi phạm hoặc xâm phạm nào đối với với các Điều Khoản này hoặc các hướng dẫn hoặc chính sách áp dụng bởi (các) Người Dùng Được Ủy Quyền của Bạn.
+Bất kỳ sự tạm ngừng hoặc chấm dứt nào đối với Tài Khoản của Bạn sẽ dẫn đấn việc tạm ngừng hoặc chấm dứt quyền truy cập đến Tài Khoản của Bạn bởi bất kỳ và tất cả (các) Người Dùng Được Ủy Quyền của Bạn.
+13.
+Chế độ ủy quyền
+“Chế độ ủy quyền” là tính năng cho phép Người Quản lý tài khoản của bạn (AM) truy cập Trung Tâm Dành Cho Người Bán của bạn. Chế độ này cho phép AM xem tất cả các trang khả dụng trong Trung Tâm Dành Cho Người Bán liên quan đến tài khoản của bạn, nhưng không cấp quyền cho AM thực hiện bất kỳ hành động nào hoặc thực hiện bất kỳ thay đổi nào đối với tài khoản của bạn. Trong trường hợp bạn được chỉ định một AM, điều khoản này sẽ áp dụng cho bạn theo các quy chế vận hành và thông báo được áp dụng của nền tảng, mà theo đó nền tảng có quyền giải thích cuối cùng.
+Bạn tạm thời cấp cho AM quyền xem tài khoản của bạn (bao gồm cả tài khoản chính và tài khoản con) trong suốt thời gian chế độ ủy quyền được kích hoạt, miễn là chúng tôi tuân thủ các Luật Bảo Vệ Dữ Liệu Áp Dụng. Người bán có thể hủy hoặc rút lại Chế độ ủy quyền bất cứ lúc nào bằng cách làm theo quy trình được cung cấp trong Trung tâm Người bán hoặc bằng cách gửi email cho chúng tôi tại
+e-commerce@tiktok.com
+.
+Mục đích của Chế độ ủy quyền là cho phép AM cung cấp hỗ trợ vận hành, hỗ trợ tài khoản và dịch vụ khắc phục sự cố liên quan đến Trung Tâm Dành Cho Người Bán. Truy cập dữ liệu cá nhân trong chế độ này bị hạn chế, tương xứng và bị giới hạn trong những gì cần thiết cho các mục đích này và sẽ được xử lý theo Luật Bảo Vệ Dữ Liệu Áp Dụng.
+14.
+Quy Tắc Sử Dụng TikTok Shop
+Để Sử Dụng TikTok Shop, Bạn phải đồng ý chịu ràng buộc bởi các Điều Khoản này,
+Điều Khoản Sử Dụng và Bán Hàng của TikTok Shop
+cũng như các chính sách hoặc hướng dẫn sau đây mà sẽ điều chỉnh việc Bạn sử dụng TikTok Shop (“
+Chính Sách Về TikTok Shop
+”). Việc vi phạm một Chính Sách Về TikTok Shop được xem là vi phạm cơ bản các Điều Khoản này.
+Chính Sách Về TikTok Shop, Tính Đủ Điều Kiện Của Sản Phẩm Và Sản Phẩm Hạn Chế Và Bị Cấm
+Bạn phải luôn luôn tuân thủ các Chính Sách và Hướng Dẫn được cung cấp tại
+Seller University
+(
+Singapore
+,
+Indonesia
+,
+Malaysia
+,
+Philippines
+,
+Thái Lan
+,
+Vương Quốc Anh
+,
+Việt Nam
+).
+Bất kỳ Sản Phẩm nào Bạn Chào Bán trên TikTok Shop phải hợp pháp và an toàn và thỏa mãn các tiêu chí Sản Phẩm đủ điều kiện của Chúng Tôi, mà có tại
+Seller University
+(
+Singapore
+,
+Indonesia
+,
+Malaysia
+,
+Philippines
+,
+Thái Lan
+,
+Vương Quốc Anh
+,
+Việt Nam
+).
+Bạn không được Chào Bán bất kỳ Sản Phẩm nào nếu Sản Phẩm đó xuất hiện trong
+Danh Sách Sản Phẩm Bị Cấm
+và
+Danh Sách Sản Phẩm Bị Hạn Chế của Chúng Tôi
+, mà danh sách này có tại
+Seller University
+(
+Singapore
+,
+Indonesia
+,
+Malaysia
+,
+Philippines
+,
+Thái Lan
+,
+Vương Quốc Anh
+,
+Việt Nam
+).
+Việc Sử Dụng Được Chấp Nhận
+Bạn chỉ có thể sử dụng TikTok Shop cho các mục đích chào bán Sản Phẩm mà Bạn có quyền sở hữu và quyền để bán cho Người Dùng, hoặc cho mục đích đăng ký Dịch Vụ được cung cấp bởi Đối Tác.
+Bạn không được sử dụng TikTok Shop hoặc Nền Tảng cho bất kỳ mục đích nào sau đây hoặc để thực hiện bất kỳ hành động nào sau đây:
+Tuân thủ Luật Áp Dụng và các quyền của bên thứ ba và trải nghiệm Người Dùng
+•
+bất kỳ hành động hoặc sự thiếu sót nào mà vi phạm Luật Áp Dụng;
+•
+bất kỳ hành động nào mà xâm phạm quyền của bất kỳ bên thứ ba nào theo Luật Áp Dụng;
+•
+bất kỳ hành động nào mang tính lạm dụng, quấy rối, đe dọa, bôi nhọ và/hoặc gây khó chịu;
+•
+gây ảnh hưởng đến uy tín của Người Bán khác (ví dụ như bằng cách gửi, sắp xếp và/hoặc khuyến khích đưa ra đánh giá hoặc khiếu nại không đúng sự thật);
+•
+chào mời để bán hoặc thực sự bán cho bất kỳ người nào không có khả năng giao kết một hợp đồng mang tính ràng buộc theo Luật Áp Dụng;
+•
+che giấu sự thật rằng Bạn là thương nhân hành động vì mục đích thương mại;
+•
+che giấu hoặc không cung cấp cho Chúng Tôi hoặc Người Dùng, khi được yêu cầu, thông tin định danh, địa điểm và/hoặc thông tin liên hệ đầy đủ của Bạn;
+•
+mô tả Sản Phẩm là miễn phí hoặc không tính phí (hoặc tương tự) nếu Người Mua phải thanh toán thêm mất kỳ khoản tiền nào ngoài chi phí giao Sản Phẩm đến cho họ, mà chi phí này phải được tiết lộ trước đó;
+•
+gửi tin rác hoặc thông tin tiếp thị không theo yêu cầu;
+•
+đăng tải nội dung sai, không chính xác, gây nhầm lẫn, lừa đảo, phỉ báng, hoặc bôi nhọ danh dự;
+•
+tuyên bố mình là bên ký kết bất kỳ bộ quy tắc ứng xử hoặc chế độ theo quy định nào khi Bạn không phải là như vậy, hoặc tuyên bố rằng một bộ quy tắc ứng xử nào có sự chứng thực từ một cơ quan công quyền hoặc cơ quan nào khác khi không phải là như vậy;
+•
+hiển thị nhãn uy tín, nhãn chất lượng hoặc các dấu hiệu tương đương mà không có được sự cho phép cần thiết;
+•
+gỡ bỏ hoặc che giấu bất kỳ nhãn hiệu hoặc dấu hiệu chỉ dẫn nguồn gốc nào;
+•
+tuyên bố rằng Bạn hoặc Sản Phẩm của Bạn đã có sự chứng thực khi Bạn/Sản Phẩm của Bạn chưa có chứng thực;
+•
+tuyên bố sai lệch rằng một Sản Phẩm sẽ chỉ được bán trong một khoảng thời gian rất giới hạn, hoặc rằng Sản Phẩm sẽ chỉ được bán với các điều khoản cụ thể trong một khoảng thời gian rất giới hạn, nhằm khơi dậy quyết định tức thời và không cho Người Mua có đủ cơ hội hoặc thời gian để lựa chọn kĩ lưỡng;
+•
+không cung cấp dịch vụ sau Giao Dịch Mua Bán cho Bên Mua theo ngôn ngữ mà Bạn cam kết để trao đổi trước Giao Dịch Mua Bán;
+•
+tuyên bố hoặc theo cách khác thể hiện rằng một Sản Phẩm tuân thủ Luật Áp Dụng khi Sản Phẩm đó không tuân thủ;
+•
+thể hiện quyền hợp pháp mà Người Mua có được theo Luật Áp Dụng, ví dụ như quyền được hoàn tiền, như là một đặc trưng trong lời chào bán của Bạn;
+•
+chào mời để bán bất kỳ Sản Phẩm nào mà Bạn không thể hoàn thành Đơn Đặt Hàng;
+•
+cố ý gửi kiện hàng rỗng hoặc không đầy đủ cho Người Mua (gian lận trong việc hoàn thành nghĩa vụ);
+•
+tuyên bố sai lệch rằng một Sản Phẩm có thể chữa bệnh tật, rối loạn chức năng hoặc dị tật, hoặc đưa ra bất kỳ tuyên bố nào mà không được chứng minh bởi chứng cứ khách quan một cách hợp lý do Bạn nắm giữ hoặc kiểm soát;
+•
+cho phép hoặc khuyến khích bất kỳ bên thứ ba nào quảng bá hoặc chứng thực cho Bạn hoặc Sản Phẩm của Bạn mà không tiết lộ rằng có mối quan hệ thương mại hoặc mối quan hệ khác giữa Bạn và bên thứ ba như vậy;
+•
+thực hiện giao dịch ngoài Nền Tảng;
+•
+tự thực hiện việc mua Sản Phẩm của chính Bạn;
+•
+thu thập, sử dụng và/hoặc lừa đảo giả mạo (phising) thông tin của Người Dùng mà không có sự đồng ý trên cơ sở được thông báo của họ, hoặc các cơ sở hợp pháp khác theo Luật Áp Dụng;
+•
+niêm yết Sản Phẩm với giá cao bất hợp lý một cách cố ý;
+•
+bất kỳ nội dung hoặc hoạt động nào tạo ra lượt truy cập để lừa dối Người Dùng/Người Mua và tạo ra hoặc đe dọa Người Dùng/Người Mua phải đặt hàng, ưa thích (thích/khen ngợi), hoặc bình luận;
+•
+gửi bất kỳ tin nhắn không phù hợp nào cho Người Dùng/Người Mua;
+•
+mua Sản Phẩm được bán trên Nền Tảng cho mục đích bán lại vì lợi nhuận;
+•
+lạm dụng mã giảm giá, phiếu giảm giá hoặc các chiết khấu khuyến mãi khác (bao gồm, nhưng không giới hạn ở việc bán các mã giảm giá, phiếu giảm giá hoặc các chiết khấu khuyến mãi khác như vậy cho các bên thứ ba và/hoặc sử dụng phiếu/mã giảm giá trên nền tảng không phù hợp với mục đích sử dụng thông thường).
+An ninh và tính toàn vẹn của hệ thống
+•
+mua bán (hoặc giao dịch theo cách khác với bên thứ ba, với ý định hủy bỏ người thụ hưởng thật sự đối với Tài Khoản của Bạn, hoặc theo các cách thức không trung thực khác, mà có liên quan đến) Tài Khoản của Bạn;
+•
+bán hoặc chuyển nhượng (hoặc rao bán hoặc tạo điều kiện thuận lợi cho việc chuyển nhượng) Tài Khoản của Bạn cho bất kỳ bên thứ ba nào;
+•
+mở hoặc sử dụng nhiều tài khoản hơn mức hợp lý (hoặc mức được cho phép);
+•
+phát tán vi-rút hoặc bất kỳ công nghệ nào mà nhằm hoặc có khả năng một cách hợp lý sẽ gây hại cho lợi ích của TikTok, Bên Liên Kết Của TikTok, hoặc Người Dùng;
+•
+sử dụng bất kỳ robot, nhện, công cụ thu thập dữ liệu, công cụ đào hoặc trích xuất dữ liệu nào, hoặc bất kỳ phương tiện truy cập tự động hóa nào đối với Nền Tảng hoặc TikTok Shop, trừ khi Bạn có được sự cho phép rõ ràng bằng văn bản của Chúng Tôi để làm như vậy;
+•
+thực hiện bất kỳ hành động nào nằm hoặc có khả năng một cách hợp lý sẽ can thiệp vào sự vận hành bình thường của TikTok Shop hoặc Nền Tảng;
+•
+phá vỡ bất kỳ phương thức bảo vệ kỹ thuật hoặc an ninh nào mà Chúng Tôi áp dụng cho TikTok Shop hoặc Nền Tảng, hoặc bất kỳ hệ thống nào khác của Chúng Tôi hoặc của Bên Liên Kết Của TikTok;
+•
+đưa ra đánh giá hoặc yêu cầu người khác đưa ra đánh giá về Sản Phẩm của đối thủ cạnh tranh khi chức năng nhận xét được cung cấp; hoặc
+•
+bất kỳ nỗ lực nào để dẫn Người Dùng/Người Mua đến các trang đích không được phép (bao gồm nhưng không giới hạn ở các trang đích không tồn tại, các trang đích yêu cầu Người Dùng/Người Mua nhập thông tin cá nhân để tiếp tục và không thể bỏ qua, và các trang đích mà tự động tải xuống các tập tin vào máy tính của Người Dùng/Người Mua).
+15.
+Sản Phẩm Vi Phạm
+TikTok rất xem trọng quyền sở hữu trí tuệ của các chủ thể khác. Bạn không được Chào Bán bất kỳ Sản Phẩm nào thông qua TikTok Shop nếu đó là hàng giả hoặc theo các các xâm phạm bất kỳ quyền của bên thứ ba nào theo Luật Áp Dụng (“
+Sản Phẩm Vi Phạm
+”). Việc chào mời để bán Sản Phẩm Vi Phạm được xem là vi phạm cơ bản các Điều Khoản này.
+Chúng tôi có quy trình dành cho việc báo cáo Sản Phẩm Vi Phạm bị cáo buộc. Bạn có thể tìm thấy thông tin về cách mà quy trình báo cáo của Chúng Tôi vận hành tại
+Chính Sách Về Sở Hữu Trí Tuệ Trên TikTok Shop
+(
+Singapore
+,
+Indonesia
+,
+Malaysia
+,
+Philippines
+,
+Thái Lan
+,
+Vương Quốc Anh
+,
+Việt Nam
+).
+Tương tự, Bạn không được sử dụng TikTok Shop để xâm phạm quyền sở hữu trí tuệ của TikTok hoặc của bất kỳ Bên Liên Kết Của TikTok nào.
+16.
+Chính Sách Hải Quan Và Thuế
+Phí Dịch Vụ
+Trừ khi được quy định khác đi trong
+Điều Khoản Bổ Sung Theo Khu Vực Pháp Lý
+, các khoản Phí Dịch Vụ tính bởi TikTok cho Bạn phải bao gồm tất cả các khoản Thuế áp dụng. Khoản thanh toán của Bạn đối với các khoản Phí Dịch Vụ cho TikTok phải không còn và đã trả hết các khoản khấu trừ hoặc các khoản thuế nhà thầu. Nếu bất kỳ khoản khấu trừ hoặc thuế nhà thầu nào được yêu cầu bởi Luật Áp Dụng, Bạn sẽ thông báo cho Chúng Tôi và sẽ thanh toán cho Chúng Tôi bất kỳ khoản bổ sung nào cần thiết để đảm bảo rằng Chúng Tôi nhận được Phí Dịch Vụ như đã thỏa thuận theo Điều Khoản này. Bạn cũng sẽ cung cấp cho Chúng Tôi các tài liệu được yêu cầu một cách hợp lý để chứng minh các khoản tiền giữ lại và rằng các khoản tiền đó đã được trả cho cơ quan thuế có thẩm quyền.
+Nếu TikTok được yêu cầu theo pháp luật của bất kỳ khu vực pháp lý nào thực hiện việc khấu trừ hoặc giữ lại bất kỳ khoản thuế nào liên quan đến bất kỳ khoản tiền nào được trả cho Bạn TikTok sẽ thực hiện việc khấu trừ hoặc giữ lại như được yêu cầu, và TikTok sẽ cung cấp cho Bạn giấy chứng nhận hoặc tài liệu tương tự để chứng minh rằng các khoản thuế đó đã được giữ lại và nộp.
+Thuế phát sinh từ việc bán hàng của Bạn
+Nếu Bạn bán hàng đến Vương Quốc Anh
+TikTok chịu trách nhiệm thu và nộp bất kỳ và tất cả các khoản Thuế áp dụng đối với bất kỳ Giao Dịch Mua Bán nào, trừ khi Bạn được thành lập tại Vương Quốc Anh và bán Sản Phẩm có vị trí tại Vương Quốc Anh tại thời điểm bán, hoặc TikTok thông báo cho Bạn rằng Bạn chịu trách nhiệm nộp VAT, mà trong trường hợp đó Bạn sẽ chịu VAT đánh trên Giao Dịch Mua Bán. Giá được tính trên TikTok Shop phải bao gồm tất cả các khoản Thuế áp dụng để TikTok có thể xác định cách xử lý Thuế chính xác đối với Sản Phẩm.
+Khi có yêu cầu từ TikTok, Bạn phải cung cấp thông tin về bản chất, giá trị và vị trí của Sản Phẩm được bán trên TikTok Shop, để TikTok có thể xác định chính sách Thuế chính xác đối với Sản Phẩm.
+Nếu TikTok được yêu cầu theo Luật Áp Dụng phải thu bất kỳ khoản thuế hoặc lệ phí nào từ Bạn, Bạn đồng ý nộp các khoản phí như vậy cho Chúng Tôi, hoặc đồng ý để TikTok giữ lại các khoản phí như vậy từ tổng tiền thanh toán cho Bạn liên quan đến Giao Dịch Mua Bán trên TikTok Shop.
+Bất kỳ khoản Thuế áp dụng nào, hoặc các khoản tương đương, sẽ được TikTok tính trên tổng Phí Dịch Vụ và khoản Bạn phải trả.
+Nếu bất kỳ khoản thuế khấu trừ hoặc giữ lại nào được yêu cầu bởi Luật Áp Dụng, Bạn sẽ thông báo cho Chúng Tôi và sẽ thanh toán cho Chúng Tôi bất kỳ khoản tiền bổ sung nào cần thiết để đảm bảo rằng Chúng Tôi nhận được Phí Dịch Vụ được thỏa thuận theo các Điều Khoản này. Bạn cũng sẽ cung cấp cho Chúng Tôi bất kỳ tài liệu nào cần thiết một cách hợp lý để chứng minh các khoản tiền bị giữ lại và rằng các khoản tiền đó đã được nộp cho cơ quan thuế có liên quan.
+Chúng Tôi sẽ không hành động (và Bạn sẽ không chỉ định Chúng Tôi) là người kê khai, nhập hoặc xuất hồ sơ, hoặc bất kỳ vai trò tương đương nào, đối với các Sản Phẩm được nhập khẩu hoặc xuất khẩu đến hoặc từ bất kỳ khu vực pháp lý nào. Tùy thuộc vào pháp luật và yêu cầu của khu vực pháp lý của Người Mua và khu vực pháp lý mà Sản Phẩm được vận chuyển từ đó, Bạn phải (khi thích hợp): (i) hành động với tư cách Bạn chính là nhà nhập khẩu và/hoặc nhà xuất khẩu; (ii) chỉ định Người Mua để hành động với tư cách là nhà nhập khẩu Sản Phẩm (và ủy quyền cho bên vận chuyển để hành động thay mặt cho Người Mua); hoặc (iii) chỉ định một bên thứ ba được ủy quyền sẵn sàng và phù hợp để hành động với các vai trò như vậy.
+Nếu Bạn bán hàng đến Đông Nam Á (Indonesia, Việt Nam, Thái Lan và Malaysia)
+Bạn phải chịu trách nhiệm đối với việc thu và trả bất kỳ và tất cả các khoản thuế áp dụng cho Giao Dịch Mua Bán của Bạn, bao gồm VAT, các khoản thuế hải quan và nhập khẩu, hoặc các khoản thuế tương tự, loại trừ trường hợp mà Chúng Tôi thực hiện việc tính, thu, và nộp thuế thay cho Bạn, theo các Luật Áp Dụng, dựa trên các thông tin định dạng cá nhân được cung cấp bởi Bạn..
+Chúng Tôi không hành động với tư cách (và Bạn không chỉ định Chúng Tôi) là người khai báo, người nhập khẩu hoặc xuất khẩu của hồ sơ, hoặc bất kỳ vai trò tương đương nào, liên quan đến Sản Phẩm được nhập khẩu hoặc xuất khẩu đến hoặc từ bất kỳ khu vực pháp lý nào. Tùy thuộc vào pháp luật và yêu cầu của khu vực pháp lý của Người Mua và của khu vực pháp lý mà Hàng Hóa được vận chuyển từ đó, Bạn phải (khi thích hợp): (i) hành động với tư cách Bạn chính là nhà nhập khẩu và/hoặc nhà xuất khẩu; (ii) chỉ định Người Mua hành động như là nhà nhập khẩu Sản Phẩm (và ủy quyền cho bên vận chuyển hành động thay mặt cho Người Mua); hoặc (iii) chỉ định bên thứ ba được ủy quyền thích hợp và có mong muốn thực hiện hành động với tư cách nhà nhập khẩu và/hoặc xuất khẩu như vậy
+17.
+Tuyên Bố Và Bảo Đảm
+Bằng cách chấp thuận các Điều Khoản này, Bạn tuyên bố, đảm bảo và cam kết với TikTok rằng:
+•
+Bạn sẽ luôn hành động phù hợp với
+Điều Khoản Sử Dụng và Bán Hàng của TikTok Shop
+•
+tất cả thông tin do Bạn cung cấp cho Chúng Tôi phải chính xác, đầy đủ và mới nhất;
+•
+Bạn sẽ giữ bí mật thông tin truy cập Tài Khoản của Bạn và thừa nhận rằng Bạn có trách nhiệm đối với việc truy cập vào Tài Khoản của Bạn mà được Bạn cho phép, hoặc do việc Bạn không giữ bí mật và bảo mật thông tin truy cập Tài Khoản của Bạn;
+•
+bất kỳ Sản Phẩm nào mà Bạn Chào Bán sẽ phù hợp với mục đích, tương ứng với mô tả mà Bạn cung cấp cho Người Dùng và không có khiếm khuyết;
+•
+Tài Liệu Của Người Bán do Bạn cung cấp tuân thủ Luật Áp Dụng và các hướng dẫn áp dụng; và
+•
+Bạn sẽ tuân thủ tất cả các Chính Sách Về TikTok Shop và tất cả Luật Áp Dụng.
+•
+khi thực hiện nghĩa vụ của Bạn theo các Điều Khoản này, Bạn sẽ tuân thủ tất cả các Luật Áp Dụng liên quan đến chống nô lệ và buôn người, bao gồm Đạo Luật Nô Lệ Hiện Đại năm 2015 ("
+Luật Nô Lệ Hiện Đại
+" (“Modern Slavery Laws”)). Bạn tuyên bố và đảm bảo, rằng cả Bạn và bất kỳ người lao động, người quản lý, đại lý, đại diện và/hoặc cố vấn chuyên môn nào của Bạn ("
+Nhân Sự
+") đều không: (a) phạm tội theo bất kỳ Luật Nô Lệ Hiện Đại nào; hoặc (b) được thông báo rằng chủ thể đó phải chịu một cuộc điều tra liên quan đến hành vi phạm tội hoặc sự truy tố bị cáo buộc theo bất kỳ Luật Nô Lệ Hiện Đại nào; hoặc (c) biết về bất kỳ trường hợp nào trong chuỗi cung ứng của chủ thể đó có thể dẫn đến một cuộc điều tra liên quan đến hành vi phạm tội hoặc sự truy tố bị cáo buộc theo Luật Nô lệ Hiện Đại. Bạn phải thông báo cho Chúng Tôi ngay lập tức bằng văn bản nếu Bạn biết được hoặc có lý do để tin rằng Bạn và/hoặc bất kỳ Nhân Sự nào của Bạn đã vi phạm hoặc có khả năng vi phạm bất kỳ nghĩa vụ nào của Bạn theo điều khoản này. Bất kỳ thông báo nào đều phải nêu đầy đủ thông tin về các tình huống liên quan đến vi phạm hoặc vi phạm tiềm ẩn đối với các nghĩa vụ của Bạn.
+TikTok tuyên bố và đảm bảo với Bạn, và Bạn tuyên bố với TikTok rằng mỗi bên:
+•
+là doanh nghiệp, được đăng ký hợp pháp và có uy tín theo pháp luật của khu vực pháp lý nơi bên đó được thành lập;
+•
+có thẩm quyền và quyền ký kết các Điều Khoản này và thực hiện các nghĩa vụ tương ứng của bên đó theo các Điều Khoản này.
+Bạn tuyên bố và thừa nhận rằng khi thực hiện các Điều Khoản này, Bạn không dựa vào, và đã không dựa vào bất kỳ tuyên bố hoặc phát ngôn nào được đưa ra bởi TikTok hoặc các đại lý, người đại diện, hoặc luật sư của TikTok liên quan đến đối tượng, cơ sở, hoặc hiệu lực của các Điều Khoản này ngoài các tuyên bố và phát ngôn được nêu một cách rõ ràng trong các Điều Khoản này.
+18.
+Điều Gì Xảy Ra Nếu Bạn Vi Phạm Các Điều Khoản Này hoặc Các Chính Sách Về TikTok Shop?
+Nếu Chúng Tôi biết hoặc nghi ngờ một cách hợp lý rằng Bạn đang vi phạm cơ bản các Điều Khoản này hoặc bất kỳ Chính Sách Về TikTok Shop nào, Chúng Tôi có thể thực hiện (các) biện pháp khắc phục, bao gồm không giới hạn:
+•
+gửi tin nhắn cảnh báo chính thức;
+•
+hủy niêm yết một Sản Phẩm;
+•
+tạm ngừng các đặc quyền niêm yết Sản Phẩm của Bạn;
+•
+đình chỉ tạm thời hoặc vĩnh viễn đình các lợi ích dành cho người bán của Bạn, việc tham gia các chương trình liên kết của Bạn, hoặc quyền truy cập của Bạn vào TikTok Shop;
+•
+xóa Tài Khoản của Bạn và cấm vĩnh viễn quyền truy cập của Bạn vào thị trường TikTok Shop;
+•
+tiến hành các hành động pháp lý chống lại Bạn;
+•
+báo cáo Bạn với các cơ quan quản lý có liên quan để truy tố trách nhiệm hình sự.
+Ngoài các quyền được liệt kê trên đây của Chúng Tôi, nếu Chúng Tôi nghi ngờ rằng Bạn đã:
+•
+lạm dụng mã giảm giá, phiếu giảm giá hoặc các chiết khấu khuyến mãi khác (bao gồm, nhưng không giới hạn ở việc bán các mã giảm giá, phiếu giảm giá hoặc các chiết khấu khuyến mãi khác như vậy cho các bên thứ ba và/hoặc khuyến khích bên thứ ba sử dụng các đối tượng trên theo cách không phù hợp với mục đích sử dụng thông thường);
+•
+cố ý gửi kiện hàng rỗng hoặc không đầy đủ cho Người Mua (gian lận trong hoàn thành nghĩa vụ);
+•
+tham gia vào bất kỳ giao dịch ngoài nền tảng nào; hoặc
+•
+vi phạm các Điều Khoản này hoặc bất kỳ Chính Sách Về TikTok Shop nào, và do vi phạm như vậy, mà Chúng Tôi, Người Dùng hoặc bên thứ ba phải gánh chịu tổn thất hoặc thiệt hại,
+thì khi đó, các khoản tiền được thanh toán cho Bạn có thể bị giữ lại, và nếu Chúng Tôi xác định (một cách hợp lý) rằng việc Bạn vi phạm các Điều Khoản này hoặc bất kỳ
+Chính Sách Về TikTok Shop nào đã gây ra tổn thất hoặc thiệt hại cho Chúng Tôi, (các) Người Dùng hoặc bên thứ ba khác, thì Bạn có thể bị yêu cầu bồi thường thiệt hại cho Chúng Tôi, và/hoặc (các) Người Dùng bị ảnh hưởng hoặc bên thứ ba có liên quan khác, bằng cách cấn trừ từ các khoản tiền được thanh toán cho Bạn.
+19.
+Bảo Mật
+Trong quá trình Bạn sử dụng TikTok Shop, Bạn có thể nhận hoặc có quyền truy cập đến thông tin liên quan đến TikTok, hoạt động kinh doanh và sản phẩm của TikTok, TikTok Shop và cách mà TikTok Shop vận hành mà không có sẵn trong tri thức chung (“
+Thông Tin Bí Mật
+”).
+Các Điều Khoản này được coi là Thông Tin Bí Mật của Chúng Tôi.
+Bạn đồng ý rằng trong Thời Hạn và 2 năm kể từ sau Thời Hạn, Bạn sẽ không sử dụng Thông Tin Bí Mật cho bất kỳ mục đích nào khác trừ khi cần thiết để Bạn thực hiện nghĩa vụ của Bạn theo các Điều Khoản này. Bạn sẽ không tiết lộ Thông Tin Bí Mật cho bất kỳ bên thứ ba nào khác ngoài:
+•
+cho người lao động, nhà thầu phụ và cố vấn mà cần có quyền truy cập vào Thông Tin Bí Mật để cho phép Bạn thực hiện các nghĩa vụ của Bạn theo các Điều Khoản này; hoặc
+•
+như có thể được yêu cầu bởi Luật Áp Dụng hoặc bất kỳ cơ quan chính phủ hoặc cơ quan quản lý nào.
+Bạn chỉ được lưu giữ Thông Tin Bí Mật miễn là việc giữ lại là cần thiết. Bạn phải xóa Thông Tin Bí Mật khi kết thúc Thời Hạn hoặc ngay khi không còn cần thiết để tuân thủ các nghĩa vụ của Bạn theo các Điều Khoản này hoặc Luật Áp Dụng.
+20.
+Khước Từ
+TikTok Shop (bao gồm, để tránh nghi ngờ, API và Dữ Liệu API) được cung cấp trên cở sở “nguyên trạng”, và TikTok khước từ bất kỳ và tất cả các tuyên bố, điều kiện và bảo đảm, rõ ràng hay ngụ ý, bao gồm nhưng không giới hạn, về khả năng thương mại, chất lượng thỏa điều kiện, phù hợp cho một mục đích cụ thể hoặc không xâm phạm, trừ khi được quy định rõ ràng một cách khác đi trong các Điều Khoản này.
+TikTok không đưa ra bất kỳ bảo đảm nào rằng TikTok Shop hoặc Nền Tảng sẽ luôn có sẵn hoặc không có lỗi.
+Bạn thừa nhận một cách rõ ràng rằng TikTok không có mối quan hệ đặc biệt hoặc nghĩa vụ ủy thác nào đối với Bạn. Bạn thừa nhận rằng TikTok không đưa ra bất kỳ bảo đảm nào liên quan đến kết quả sử dụng TikTok Shop của Bạn; cách bạn hiểu hoặc sử dụng TikTok Shop; hoặc những hành động mà Bạn có thể thực hiện do đã tiếp xúc với Nền Tảng, Người Mua trên TikTok Shop hoặc Người Sáng Tạo trên Tính Năng Liên Kết.
+Trong mọi trường hợp, TikTok hoặc Bên Liên Kết Của TikTok sẽ không chịu trách nhiệm trước Bạn đối với bất kỳ Tài Liệu Của Người Bán và/hoặc Nội Dung Của Người Sáng Tạo nào bị gỡ xuống khỏi Nền Tảng, và TikTok không đảm bảo về số lượt xem hoặc sự thành công của bất kỳ Nội Dung Của Người Sáng Tạo nào.
+TikTok và Bên Liên Kết Của TikTok không có nghĩa vụ có được bất kỳ quyền nào trong Nội Dung Của Người Sáng Tạo, gắn nhãn Nội Dung Của Người Sáng Tạo, đảm bảo Nội Dung Của Người Sáng Tạo tuân thủ Luật Áp Dụng hoặc kiểm tra Nội Dung Của Người Sáng Tạo trước khi Nội Dung Của Người Sáng Tạo được tải lên. Lưu ý rằng Bạn phải đảm bảo rằng tất cả Nội Dung Của Người Sáng Tạo sử dụng chức năng gắn nhãn quảng cáo do Chúng Tôi cung cấp, tuy nhiên, chức năng này không phải là sự thay thế cho bất kỳ tiết lộ quảng cáo nào khác mà có thể được yêu cầu bởi Luật Áp Dụng, quy định và quy tắc ứng xử áp dụng, hoặc các chính sách có liên quan.
+21.
+Miễn Trừ
+Bạn miễn trừ TikTok và Bên Liên Kết Của TikTok khỏi tất cả trách nhiệm pháp lý đối với việc Bạn có đạt được hoặc không đạt được bất kỳ mối quan hệ nào với Người Sáng Tạo và/hoặc Người Mua thông qua TikTok Shop.
+Trong trường hợp Bạn có tranh chấp với Người Sáng Tạo hoặc Người Mua hoặc bất kỳ bên thứ ba nào, Bạn đồng ý miễn trừ TikTok (bao gồm Bên Liên Kết Của TikTok và từng người quản lý, giám đốc, người lao động, đại lý, người kế nhiệm, đại diện, cổ đông và nhà cung cấp tương ứng của họ và của Chúng Tôi) khỏi các khiếu nại, yêu cầu và thiệt hại thuộc bất kỳ thể loại và bản chất nào, đã được biết đến và chưa được biết đến, nghi ngờ và không nghi ngờ, được tiết lộ và không được tiết lộ, có thể thấy trước được hoặc không lường trước được, phát sinh từ hoặc liên quan theo bất kỳ cách nào đến các tranh chấp như vậy với Người Sáng Tạo, Người Mua hoặc bất kỳ bên thứ ba nào.
+22.
+Giới Hạn Trách Nhiệm Pháp Lý
+Không có quy định nào trong các Điều Khoản này giới hạn bất kỳ trách nhiệm pháp lý nào không thể được giới hạn, bị hạn chế hoặc loại trừ theo pháp luật.
+TikTok và Bên Liên Kết Của TikTok sẽ không chịu trách nhiệm đối với bất kỳ trách nhiệm pháp lý nào sau đây mà có thể phát sinh liên quan đến việc Bạn sử dụng TikTok Shop (bao gồm, để tránh nghi ngờ, API và Dữ Liệu API) hoặc Nền Tảng, cho dù theo hợp đồng, bồi thường thiệt hại ngoài hợp đồng (bao gồm cả do sơ suất), tuyên bố sai lệch, bồi thường hoặc theo cách khác:
+•
+thiệt hại và lợi nhuận hoặc lợi nhuận dự kiến, doanh thu, cơ hội kinh doanh, vị trí thương mại, hoặc khoản tiết kiệm dự kiến;
+•
+mất dữ liệu;
+•
+thiệt hại gián tiếp, ngẫu nhiên, đặc biệt, mang tính hậu quả hoặc trừng phạt; hoặc
+•
+bất kỳ vấn đề nào ngoài tầm kiểm soát hợp lý của TikTok.
+TikTok và Bên Liên Kết Của TikTok không chịu trách nhiệm về các hành động, lỗi, thiếu sót, tuyên bố, bảo đảm, vi phạm hoặc sơ suất của Bạn, hoặc đối với bất kỳ thương tích cá nhân, tử vong, thiệt hại về tài sản, hoặc thiệt hại hoặc chi phí khác dẫn đến các vấn đề nêu trên, trong phạm vi tối đa được cho phép bởi pháp luật áp dụng.
+TikTok và Bên Liên Kết Của TikTok không chịu trách nhiệm theo bất kỳ cách nào về việc thực hiện hoặc không thực hiện của Bạn đối với việc liên kết với bất kỳ Người Sáng Tạo nào mà Bạn liên kết hoặc làm việc cùng hoặc muốn liên kết hoặc làm việc thông qua Tính Năng Liên Kết.
+Tùy thuộc vào đoạn trên đây, tổng trách nhiệm pháp lý cộng dồn tối đa của TikTok và của Bên Liên Kết Của TikTok theo hoặc liên quan đến các Điều Khoản này không vượt quá tổng số phí Bạn được trả theo Điều Khoản 11 trong sáu tháng tính đến trước khi có nguyên nhân dẫn đến hành động.
+23.
+Bảo Đảm Bồi Thường
+Bạn đồng ý đảm bảo bồi thường, bảo vệ và giữ cho TikTok và Bên Liên Kết Của TikTok và bất kỳ người lao động, giám đốc hoặc đại lý nào của các chủ thể trên khỏi và chống lại bất kỳ khiếu nại nào phát sinh từ hoặc liên quan đến:
+•
+Sản Phẩm Bạn Chào Bán trên TikTok Shop, bao gồm liên quan đến các điều khoản bán hàng, quyền theo luật định của người tiêu dùng, trách nhiệm đối với sản phẩm hoặc bất kỳ khiếu nại nào khác mà có thể phát sinh theo Luật Áp Dụng,
+•
+xâm phạm thực tế hoặc bị cáo buộc đối với quyền sở hữu trí tuệ của bên thứ ba liên quan đến Sản Phẩm Bạn Chào Bán trên TikTok Shop, Tài Liệu Của Người Bán mà Bạn cung cấp, hoặc việc Bạn sử dụng hoặc hoạt động của Bạn trên TikTok Shop;
+•
+bất kỳ khoản thuế bán hàng, sử dụng, giá trị gia tăng, tiêu thụ đặc biệt, kinh doanh hoặc các loại thuế hoặc phí khác, lệ phí, yêu cầu hoặc bất kỳ khoản phí hải quan hoặc thuế hàng hóa nào được đánh vào bất kỳ Giao Dịch Mua Bán nào mà Bạn thực hiện trên TikTok Shop hoặc việc Bạn yêu cầu Dịch Vụ Của Người Sáng Tạo từ Người Sáng Tạo hoặc trên các khoản Phí
+mà TikTok thu từ Bạn, mà Bạn là Bên có trách nhiệm trong việc kê khai và nộp thuế;
+•
+Vi phạm của Bạn đối với các Điều Khoản này;
+•
+Việc Bạn đạt được hoặc không đặt được bất kỳ mối quan hệ nào với Người Sáng Tạo và/hoặc Người Mua thông qua TikTok Shop;
+•
+Việc Bạn không chấm dứt ngay lập tức sự ủy quyền của bạn đối với Dịch Vụ Của Đối Tác trên [Trung Tâm Dành Cho Người Bán];
+•
+Vi phạm thực tế hoặc việc bị nghi ngờ là có vi phạm của Bạn đối với điều khoản của bất kỳ hợp đồng dịch vụ nào mà bạn ký kết với Đối Tác liên quan đến Dịch Vụ Của Đối Tác hoặc với Kho Tích Hợp Dịch Vụ Kho Tích Hợp; và
+•
+Việc Bạn không tuân theo
+Điều Khoản Sử Dụng Và Bán Hàng của TikTok Shop
+.
+TikTok đồng ý đảm bảo bồi thường cho Bạn khỏi và chống lại bất kỳ khiếu nại nào rằng việc Bạn sử dụng TikTok Shop theo các Điều Khoản này xâm phạm quyền sở hữu trí tuệ của bên thứ ba.
+Các khoản bảo đảm bồi thường này bao gồm bất kỳ trách nhiệm pháp lý hoặc chi phí nào phát sinh từ các khiếu nại, tổn thất, thiệt hại, giải quyết tranh chấp, phán quyết, tiền phạt, chi phí tố tụng và chi phí pháp lý.
+24.
+Thời Hạn
+Các Điều Khoản này có hiệu lực kể từ ngày Bạn chấp thuận các Điều Khoản này. Các Điều Khoản này sẽ tiếp tục duy trì hiệu lực cho đến khi bị chấm dứt bởi Bạn hoặc TikTok theo Các Điều Khoản này.
+25.
+Giới Hạn, Đình Chỉ Và Chấm Dứt
+Quyền Giới Hạn Hoặc Đình Chỉ Tài Khoản Của Bạn Bởi TikTok
+TikTok có thể ngay lập tức (i) gỡ bỏ danh sách Sản Phẩm, (ii) đình chỉ hoặc giới hạn quyền truy cập của Bạn vào Tài Khoản của Bạn, (iii) hủy bỏ bất kỳ giao dịch nào liên quan đến Tài Khoản của Bạn, và/hoặc (iv) hủy bỏ hoặc rút bất kỳ chính sách khuyến mãi và/hoặc trợ giá nào mà TikTok cung cấp cho Bạn, nếu:
+•
+Bạn vi phạm cơ bản các Điều Khoản này, bao gồm
+Điều Khoản Sử Dụng và Mua Bán của TikTok Shop
+và các Chính Sách Về TikTok Shop;
+•
+Chúng Tôi có lý do để tin rằng Tài Khoản của Bạn đã được sử dụng cho bất kỳ hoạt động gian lận hoặc bất hợp pháp nào;
+•
+Việc Bạn sử dụng TikTok Shop hoặc Nền Tảng có nguy cơ gây hại cho Người Dùng, các người bán khác hoặc TikTok và lợi ích hợp pháp của TikTok; hoặc
+•
+Bạn đã nhận được một số lượng bất hợp lý các khiếu nại của Người Dùng.
+Bất kỳ việc đình chỉ hoặc giới hạn nào sẽ được duy trì cho đến khi TikTok đã nhận được xác nhận từ Bạn rằng Bạn đã khắc phục vi phạm và/hoặc cung cấp bằng chứng cho thấy hoạt động hoặc tác hại được mô tả là không hoặc không còn đe dọa.
+Quyền Chấm Dứt Của TikTok
+Theo Thông Báo
+TikTok có thể chấm dứt Tài Khoản của Bạn mà không cần lý do bằng cách thông báo trước cho Bạn ít nhất 30 ngày.
+Do Vi Phạm Cơ Bản
+TikTok có thể chấm dứt Tài Khoản của Bạn ngay lập tức bằng cách đưa ra thông báo, nếu Bạn không khắc phục được vi phạm cơ bản đối với các Điều Khoản này trong vòng 30 ngày, trừ khi TikTok có thể chứng minh Bạn đã tái phạm các Điều Khoản này, mà trong trường hợp đó thông báo chấm dứt sẽ có hiệu lực ngay lập tức.
+Quyền Của Bạn Nếu TikTok Giới Hạn, Đình Chỉ Hoặc Chấm Dứt Tài Khoản Của Bạn
+Nếu Chúng Tôi giới hạn hoặc đình chỉ việc quảng bá hoặc bán Sản Phẩm cụ thể của Bạn hoặc chấm dứt Tài Khoản của Bạn, Chúng Tôi sẽ đưa ra tuyên bố về lý do tại thời điểm đưa ra thông báo. Việc tuyên bố về lý do sẽ không được thực hiện khi Chúng Tôi:
+•
+phải tuân thủ nghĩa vụ pháp lý hoặc theo quy định mà không được tiết lộ các sự kiện hoặc hoàn cảnh cụ thể hoặc dẫn chiếu đến căn cứ hoặc các căn cứ áp dụng; hoặc
+•
+khi thông báo chấm dứt được đưa ra và Chúng Tôi có thể chứng minh rằng Bạn đã tái phạm các Điều Khoản này.
+Nếu Chúng Tôi đã đưa ra tuyên bố về lý do cho Bạn, Bạn sẽ có cơ hội làm rõ các sự kiện và hoàn cảnh trong khuôn khổ quy trình xử lý khiếu nại nội bộ của Chúng Tôi như được quy định dưới đây.
+Nếu Chúng Tôi giới hạn, đình chỉ hoặc chấm dứt Tài Khoản của Bạn, Bạn sẽ có quyền áp dụng các cơ chế giải quyết tranh chấp như được quy định tại Điều Khoản 27 (Giải Quyết Tranh Chấp) dưới đây.
+Quyền Chấm Dứt Của Bạn
+Bạn có thể chấm dứt việc Bạn sử dụng TikTok Shop bằng cách thông báo cho Chúng Tôi tại
+e-commerce@tiktok.com
+.
+Bạn có thể đóng Tài Khoản của Bạn với điều kiện thỏa mãn các yêu cầu sau:
+•
+Bạn không có sản phẩm nào được niêm yết trên TikTok Shop. Điều này bao gồm cả danh sách Sản Phẩm thông qua video hoặc truyền phát trực tiếp;
+•
+Bạn không có đơn đặt hàng của khách hàng nào đang xử lý hoặc chưa hoàn tất;
+•
+Đã hơn 90 ngày kể từ khi đơn đặt hàng cuối cùng của Bạn được hoàn thành; và
+•
+Số dư tài khoản trên TikTok Shop của Bạn bằng không, và không có giao dịch, khoản thanh toán hoặc hoàn tiền của khách hàng nào chưa xử lý.
+Nếu Bạn đang thực thi quyền của Bạn để chấm dứt mối quan hệ hợp đồng của Bạn với Chúng Tôi do những thay đổi đối với các Điều Khoản này như được mô tả tại Phần 4 (Thay Đổi Đối Với Các Điều Khoản Này), và Bạn không đáp ứng các yêu cầu để đóng cửa hàng nêu trên, kể từ khi nhận được thông báo từ Bạn, Chúng Tôi sẽ ngay lập tức đình chỉ cửa hàng của Bạn và hủy kích hoạt các Sản Phẩm của Bạn, tuy nhiên, cửa hàng của Bạn sẽ không bị đóng cửa cho đến khi các yêu cầu trên được thỏa mãn.
+26.
+Hệ Quả Của Việc Chấm Dứt Và Quyền Chấm Dứt
+Khi chấm dứt Tài Khoản của Bạn, tất cả các quyền và nghĩa vụ liên quan theo các Điều Khoản này ngay lập tức chấm dứt, ngoại trừ việc Bạn sẽ vẫn chịu trách nhiệm thực hiện tất cả các nghĩa vụ của Bạn đối với Người Mua và/hoặc Người Sáng Tạo liên quan đến các giao dịch được ký kết trước ngày việc chấm dứt có hiệu lực và đối với bất kỳ trách nhiệm pháp lý nào đã phát sinh trước đó hoặc là hệ quả của việc chấm dứt.
+Các điều khoản sau đây của các Điều Khoản này sẽ vẫn có hiệu lực sau khi chấm dứt: điều khoản 7 (
+Nội Dung Của TikTok Và Tài Liệu Của Người Bán
+); tiểu mục
+Sự Cấp Phép Liên Quan Đến Nội Dung Của Người Sáng Tạo
+thuộc điều khoản 8 (
+Tính Năng Liên Kết
+); điều khoản 15 (
+Chính Sách Hải Quan Và Thuế
+); điều khoản 17 (
+Bảo Mật
+); điều khoản 21 (
+Giới Hạn Trách Nhiệm Pháp Lý
+); điều khoản 22 (
+Bảo Đảm Bồi Thường
+); điều khoản 25 (
+Hệ Quả Của Việc Chấm Dứt Và Quyền Chấm Dứt
+); điều khoản 26 (
+Các Điều Khoản Khác
+); điều khoản 27 (
+Giải Quyết Tranh Chấp
+) và điều khoản 28 (
+Luật Điều Chỉnh Và Quyền Tài Phán
+).
+27.
+Các Điều Khoản Khác
+Thay Đổi Đối Với TikTok Shop
+Thông thường, Chúng Tôi sẽ đưa ra thông báo trước ít nhất 15 ngày về bất kỳ thay đổi cơ bản nào đối với TikTok Shop hoặc Nền Tảng mà có thể tác động cơ bản đến việc Bạn sử dụng TikTok Shop.
+Tuy nhiên, TikTok bảo lưu một cách rõ ràng các quyền để:
+•
+thực hiện các thay đổi đối với TikTok Shop và Nền Tảng mà không cần thông báo trước cho Bạn (trừ khi việc thông báo là bắt buộc theo Luật Áp Dụng); và
+•
+rút TikTok Shop và Nền Tảng khỏi thị trường (toàn bộ hoặc một phần) mà không thông báo trước cho Bạn.
+Nếu Bạn không đồng ý với (các) thay đổi được thông báo cho Bạn hoặc được thực hiện theo cách khác, Bạn có quyền chấm dứt mối quan hệ hợp đồng giữa Bạn với TikTok bằng cách đóng Tài Khoản của Bạn và ngừng sử dụng TikTok Shop, theo Điều Khoản 24 (Giới Hạn, Đình Chỉ và Chấm Dứt) trên đây.
+Phản Hồi
+Nếu Bạn cung cấp cho TikTok bất kỳ báo cáo bằng lời nói và bằng văn bản nào, hoặc bất kỳ tài liệu, thông tin, ý tưởng, phân tích, khái niệm, tài liệu, thông tin liên lạc, hoặc bí quyết nào (gọi chung là “
+Phản Hồi
+”) liên quan đến TikTok Shop hoặc bất kỳ điều gì liên quan đến TikTok Shop, Phản Hồi như vậy sẽ là tài sản của riêng TikTok. Bạn, bằng các Điều Khoản này, chuyển giao cho TikTok tất cả các quyền, quyền sở hữu và lợi ích trong và đối với tất cả các Phản Hồi, hoặc, nếu việc chuyển giao như vậy là không hợp lệ, bằng các Điều Khoản này cấp cho TikTok, theo các không thể hủy ngang, một sự cho phép trên toàn thế giới, độc quyền (ngay cả đối với Bạn), không thể hủy ngang, trong phạm vi tối đa được cho phép bởi Luật Áp Dụng, không phải trả phí bản quyền và đã thanh toán đầy đủ đối với Phản Hồi như vậy.
+Phản Hồi sẽ được xem là Thông Tin Bí Mật của TikTok và TikTok có thể sử dụng hoặc khai thác Phản Hồi mà không cần thực hiện bất kỳ việc thanh toán hoặc trả phí nào cho Bạn hoặc bất kỳ bên thứ ba nào.
+Biện Pháp Trừng Phạt
+Bạn đồng ý tuân thủ tất cả các luật và quy định về thương mại, kinh tế và tài chính áp dụng (gọi chung là “
+Biện Pháp Trừng Phạt”
+), và đồng ý không khiến cho Chúng Tôi vi phạm bất kỳ Biện Pháp Trừng Phạt nào. Bạn tuyên bố, đảm bảo và cam kết rằng trong thời hạn của các Điều Khoản này Bạn không: (1) vận hành, được tổ chức, hoặc cư trú tại một quốc gia hoặc vùng lãnh thổ là mục tiêu của các Biện Pháp Trừng Phạt toàn diện; (2) bị chỉ định trong danh sách liên quan đến các Biện Pháp Trừng Phạt được duy trì bởi Cộng Hòa Dân Chủ Nhân Dân Trung Hoa, Hoa Kỳ, Liên Minh Châu Âu, Vương Quốc Anh, Liên Hợp Quốc, Singapore (bao gồm Danh Sách Cá Nhân Và Chủ Thể Bị Chỉ Định của Cơ Quan Tiền Tệ Singapore) hoặc các cơ quan chính phủ áp dụng khác, bao gồm Danh Sách Công Dân Bị Chỉ Định Trừng Phạt Đặc Biệt và Người Bị Chặn của
+Văn Phòng Kiểm Soát Tài Sản Nước Ngoài
+(OFAC); (3) được sở hữu hoặc kiểm soát bởi, hoặc hành động cho hoặc thay mặt cho, một hoặc nhiều chủ thể được mô tả trong các mục (1) hoặc (2) trên đây; hoặc (4) bị chỉ định trong Danh Sách Cảnh Báo Cho Nhà Đầu Tư của Cơ Quan Tiền Tệ Singapore. Bạn phải đảm bảo làm cho các công ty con, giám đốc, người quản lý, người lao động và bên liên kết của Bạn tuân thủ điều khoản này. Nếu Chúng Tôi xác định một cách hợp lý rằng bạn vi phạm điều khoản này, hoặc rằng chúng tôi không thể thực hiện các nghĩa vụ của Chúng Tôi theo các Điều Khoản này do các lệnh cấm liên quan đến Biện Pháp Trừng Phạt, Chúng Tôi có thể chấm dứt các Điều Khoản này với hiệu lực ngay lập tức.
+Mối Quan Hệ Giữa Các Bên
+Bạn thừa nhận và đồng ý một cách rõ ràng rằng Bạn, với tư cách là một Người Bán, là một tổ chức độc lập (khi áp dụng). Không có quy định nào trong các Điều Khoản này tạo ra bất kỳ mối quan hệ đối tác, liên doanh, đại lý, người lao động–người sử dụng lao động, nhượng quyền thương mại, nhà thầu phụ hoặc đại diện bán hàng nào giữa Bạn và TikTok hoặc bất kỳ Bên Liên Kết Của TikTok nào.
+Bạn không được ký kết bất kỳ thỏa thuận nào thay mặt cho TikTok.
+TikTok không đưa ra bất kỳ tuyên bố hoặc bảo đảm nào với Bạn, Người Mua, Người Sáng Tạo, hoặc về các Điều Khoản này, cũng như TikTok không được xem là chứng nhận cho Bạn, bất kỳ Người Mua hoặc Người Sáng Tạo nào, ngay cả khi TikTok cung cấp dịch vụ cho Bạn.
+Thỏa Thuận Toàn Bộ
+Các Điều Khoản này cùng với các Chính Sách Về TikTok Shop cấu thành thỏa thuận toàn bộ giữa Bạn và TikTok và thay thế tất cả các thỏa thuận, hứa hẹn, cam kết, bảo đảm, tuyên bố và ghi nhận trước đó giữa Bạn và TikTok, cho dù bằng văn bản hay bằng lời nói, liên quan đến đối tượng của các Điều Khoản này.
+Bạn đồng ý rằng Bạn đã không dựa vào và không có bất kỳ biện pháp khắc phục nào đối với bất kỳ phát ngôn, tuyên bố, cam kết hoặc bảo đảm nào (cho dù được thực hiện một cách vô tình hay vô ý) mà không được quy định trong các Điều Khoản này. Bạn đồng ý rằng Bạn không có yêu cầu đối với bất kỳ tuyên bố sai lệch do vô tình hay vô ý nào dựa trên bất kỳ tuyên bố nào trong các Điều Khoản này.
+Không Khước Từ
+Việc Chúng Tôi không hoặc chậm trễ trong việc thực hiện bất kỳ quyền hoặc biện pháp khắc phục nào được quy định theo các Điều Khoản này hoặc theo Luật Áp Dụng không cấu thành sự khước từ đối với quyền hoặc biện pháp khắc phục đó, hoặc bất kỳ quyền hoặc biện pháp khắc phục nào khác, cũng như không ngăn chặn hoặc hạn chế bất kỳ việc thực thi nào khác đối với quyền hoặc biện pháp khắc phục đó, hoặc bất kỳ quyền hoặc biện pháp khắc phục nào khác. Không có bất kỳ việc thực thi riêng lẻ hoặc một phần bất kỳ quyền hoặc biện pháp khắc phục nào được quy định theo các Điều Khoản này hoặc theo Luật Áp Dụng sẽ ngăn chặn hoặc hạn chế việc thực hiện thêm quyền hoặc biện pháp khắc phục đó, hoặc bất kỳ quyền hoặc biện pháp khắc phục nào khác bởi Chúng Tôi.
+Tính Riêng Biệt
+Trong trường hợp bất kỳ quy định nào của các Điều Khoản này được xác định là bất hợp pháp hoặc không thể thực thi, thì quy định đó sẽ bị giới hạn hoặc loại bỏ ở mức tối thiểu cần thiết để các Điều Khoản này vẫn duy trì đầy đủ hiệu lực và tính thực thi theo cách khác.
+Biện Pháp Khắc Phục
+Bất kỳ vi phạm nào đối với các Điều Khoản này có thể gây ra các thiệt hại không thể khắc phục cho TikTok mà việc bồi thường thiệt hại không phải là một biện pháp khắc phục thỏa đáng, và do đó, TikTok có quyền yêu cầu áp dụng biện pháp khẩn cấp tạm thời đối với các vi phạm như vậy bên cạnh bất kỳ biện pháp khắc phục nào khác.
+Quyền Của Bên Thứ Ba
+Trừ khi được quy định khác đi một cách rõ ràng, các Điều Khoản này không làm phát sinh bất kỳ quyền nào cho bất kỳ bên thứ ba nào để thực thi bất kỳ điều khoản nào trong các Điều Khoản này. Các quyền của Chúng Tôi để hủy bỏ hoặc thay đổi các Điều Khoản này là không tùy thuộc vào sự cho phép của bất kỳ chủ thể nào khác.
+Chuyển Nhượng
+TikTok được phép chuyển nhượng hoặc chuyển giao cả quyền và nghĩa vụ theo các Điều Khoản này cho bất kỳ thành viên nào trong nhóm công ty của TikTok mà có hoặc không có thông báo đến Bạn.
+Người Bán không được chuyển nhượng hoặc chuyển giao quyền hoặc nghĩa vụ hoặc cả quyền và nghĩa vụ theo các Điều Khoản này cho bất kỳ bên thứ ba nào mà không có sự đồng ý trước bằng văn bản của TikTok. Bất kỳ nỗ lực nào để làm như vậy đều vô hiệu.
+Bảo Vệ Dữ Liệu
+Chúng Tôi sẽ xử lý bất kỳ dữ liệu nào mà có thể định danh một cá nhân theo
+Chính Sách Quyền Riêng Tư Của TikTok Shop
+của Chúng Tôi.
+Dịch Vụ Bên Thứ Ba
+TikTok không chứng nhận thông tin có trên các trang web hoặc dịch vụ của bên thứ ba ngoài Nền Tảng, hoặc đảm bảo tính tuân thủ bất kỳ Luật Áp Dụng nào, tính chính xác, độ tin cậy, chất lượng, hoặc tính đầy đủ của các thông tin đó. Vì các trang web hoặc dịch vụ của bên thứ ba và nội dung trên đó nằm ngoài tầm kiểm soát của TikTok, Bạn phải hoàn toàn tự chịu rủi ro nếu Bạn chọn truy cập bất kỳ trang web hoặc dịch vụ nào như vậy.
+Thông Báo
+Chúng Tôi có thể đưa ra thông báo cho Bạn theo các Điều Khoản này đến địa chỉ email bạn cung cấp trong Tài Khoản của Bạn.
+Bạn có thể đưa ra thông báo cho TikTok theo các Điều Khoản này tại
+e-commerce@tiktok.com
+.
+Bất Khả Kháng
+TikTok sẽ không chịu trách nhiệm đối với bất kỳ sự chậm trễ hoặc không thực hiện nào đối với bất kỳ nghĩa vụ nào của TikTok theo các Điều Khoản này do bất kỳ nguyên nhân, sự kiện hoặc vấn đề nào nằm ngoài sự kiểm soát hợp lý của TikTok.
+Giải Thích
+Các tiêu đề của điều khoản và đoạn văn chỉ nhằm mục đích thuận tiện cho việc tham khảo và không ảnh hưởng đến việc giải thích các Điều Khoản này.
+Đề cập đến một người bao gồm một thể nhân, công ty hoặc cơ quan không phải pháp nhân (cho dù có tư cách pháp lý riêng hay không).
+Trừ khi ngữ cảnh yêu cầu khác đi, các từ chỉ số ít cũng bao gồm số nhiều và các từ chỉ số nhiều cũng bao gồm số ít.
+Các thuật ngữ “Bao gồm cả”, “bao gồm”, “đã bao gồm” và các thuật ngữ tương tự sẽ được giải thích theo hướng đã được kèm theo cụm từ “nhưng không giới hạn ở”.
+Các Điều Khoản này ràng buộc, và vì lợi ích của các bên của các Điều Khoản này, và các đại diện cá nhân, người kế nhiệm và người nhận chuyển giao được phép tương ứng của họ, và đề cập đến bất ỳ bên nào cũng bao gồm cả người kế nhiệm và người nhận chuyển giao được phép của bên đó, và trong trường hợp của Người Bán, bao gồm cả đại diện cá nhân của Người Bán.
+Đề cập đến một bộ luật hoặc quy định pháp luật là đề cập đến bộ luật hoặc quy định pháp luật đó như được sửa đổi, gia hạn hoặc ban hành lại tùy từng thời điểm.
+28.
+Giải Quyết Tranh Chấp
+Tranh Chấp Giữa Bạn Và Người Mua
+Bạn có trách nhiệm giải quyết kịp thời và công bằng bất kỳ tranh chấp nào giữa Bạn và Người Mua. TikTok có thể tạo điều kiện cho việc trao đổi giữa Người Bán và Người Mua theo các chính sách và quy trình được giải thích tại
+Seller University
+(
+Singapore
+,
+Indonesia
+,
+Malaysia
+,
+Philippines
+,
+Thái Lan
+,
+Vương Quốc Anh
+,
+Việt Nam
+), nhưng không phải là một bên trong bất kỳ tranh chấp nào như vậy và không có nghĩa vụ phải làm như vậy.
+Nếu Người Mua gửi cho Chúng Tôi bất kỳ khiếu nại hoặc tranh chấp nào giữa Bạn và Người Mua, Chúng Tôi sẽ yêu cầu Bạn và Người Mua cung cấp cho TikTok bất kỳ tài liệu và thông tin nào mà cần thiết một cách hợp lý để có thể tạo điều kiện giải quyết tranh chấp theo
+Hướng Dẫn Xử Lý Tranh Chấp Sau Bán Hàng Trên TikTok Shop
+(
+Singapore
+,
+Indonesia
+,
+Malaysia
+,
+Philippines
+,
+Thái
+Lan,
+Vương
+Quốc Anh,
+Việt Nam
+).
+Bạn cam kết theo các Điều Khoản này sẽ tuân thủ đầy đủ bất kỳ thỏa thuận hoặc kết quả giải quyết nào đã thỏa thuận được với Người Mua theo các Điều Khoản này, bao gồm bất kỳ quyết định nào được đưa ra theo
+Hướng Dẫn Xử Lý Tranh Chấp Sau Bán Hàng Trên TikTok Shop
+(
+Singapore
+,
+Indonesia
+,
+Malaysia
+,
+Philippines
+,
+Thái
+Lan,
+Vương
+Quốc Anh,
+Việt Nam
+).
+Tranh Chấp Giữa Bạn Và Người Sáng Tạo
+Bạn có trách nhiệm giải quyết kịp thời và công bằng bất kỳ tranh chấp nào giữa Bạn và Người Sáng Tạo. TikTok có thể tạo điều kiện cho việc trao đổi giữa Người Bán và Người Sáng Tạo trên cơ sở tùy từng trường hợp, nhưng không phải là một bên trong bất kỳ tranh chấp nào như vậy và không có nghĩa vụ phải làm như vậy.
+Tranh Chấp Giữa Bạn Và Đối Tác, Giữa Bạn Và Kho Tích Hợp
+Bạn có trách nhiệm giải quyết nhanh chóng và công bằng bất kỳ tranh chấp nào với Đối Tác và Kho Tích Hợp. TikTok có thể tạo điều kiện cho việc trao đổi giữa Bạn, Kho Tích Hợp hoặc Đối Tác trên cơ sở từng trường hợp, nhưng không có nghĩa vụ phải làm như vậy. TikTok Shop không phải là một bên trong bất kỳ tranh chấp nào như vậy.
+Khiếu Nại Giữa Bạn và TikTok
+Nếu Bạn có khiếu nại về TikTok Shop, việc Bạn truy cập hoặc sử dụng TikTok Shop, các Điều Khoản này hoặc bất kỳ hành vi bị cáo buộc nào của Chúng Tôi, Bạn có thể khiếu nại thông qua hệ thống xử lý khiếu nại nội bộ của Chúng Tôi bằng cách gửi email đến
+e-commerce@tiktok.com
+, hoặc bằng cách gửi tin nhắn thông qua công cụ dịch vụ khách hàng trong ứng dụng của Chúng Tôi. Bạn cũng có thể yêu cầu thông tin về việc vận hành và hiệu quả của hệ thống xử lý khiếu nại nội bộ của Chúng Tôi bằng cách gửi email đến
+e-commerce@tiktok.com
+, hoặc bằng cách gửi tin nhắn thông qua công cụ dịch vụ khách hàng trong ứng dụng của Chúng Tôi.
+Tranh Chấp Giữa Bạn Và TikTok
+Trong trường hợp có tranh chấp giữa Bạn và TikTok, tranh chấp sẽ được giải quyết theo Điều Khoản 28 (
+Luật Điều Chỉnh Và Quyền Tài Phán
+).
+29.
+Luật Điều Chỉnh Và Quyền Tài Phán
+Nếu bạn bán Sản Phẩm cho Người Mua tại Vương Quốc Anh:
+Các Điều Khoản này và bất kỳ tranh chấp hoặc khiếu nại nào bao gồm các tranh chấp hoặc khiếu nại ngoài hợp đồng phát sinh từ hoặc liên quan đến các Điều Khoản này hoặc đối tượng hoặc sự hình thành của các Điều Khoản này sẽ được điều chỉnh và giải thích theo pháp luật của nước Anh và xứ Wales.
+Bạn và TikTok đồng ý một cách không thể hủy ngang rằng các tòa án của nước Anh và xứ Wales sẽ có thẩm quyền độc quyền để giải quyết bất kỳ tranh chấp hoặc khiếu nại nào (bao gồm cả tranh chấp hoặc khiếu nại ngoài hợp đồng) phát sinh từ hoặc liên quan đến các Điều Khoản này hoặc đối tượng hoặc sự hình thành các Điều Khoản này.
+Nếu bạn bán Sản Phẩm cho Người Mua tại Singapore, Indonesia, Malaysia, Thái Lan,
+Philippines,
+hoặc Việt Nam:
+Các Điều Khoản này, đối tượng và sự hình thành của các Điều Khoản này, được điều chỉnh bởi pháp luật Singapore. Bất kỳ tranh chấp nào phát sinh từ hoặc liên quan đến các Điều Khoản này, bao gồm bất kỳ thắc mắc nào về sự tồn tại, hiệu lực hoặc chấm dứt các Điều Khoản này, được đệ trình đến và giải quyết cuối cùng bằng thủ tục trọng tài do Trung Tâm Trọng Tài Quốc Tế Singapore tiến hành theo Quy Tắc Trọng Tài của Trung Tâm Trọng Tài Quốc Tế Singapore có hiệu lực tại thời điểm xét xử, mà các quy tắc đó được xem là được kết hợp bằng cách dẫn chiếu vào điều khoản này. Địa điểm tiến hành thủ tục trọng tài là Singapore. Hội Đồng Trọng Tài bao gồm ba (3) trọng tài viên. Ngôn ngữ sử dụng trong thủ tục trọng tài là tiếng Anh.
+30.
+Tuân Thủ Về Thương Mại
+Người Bán tuyên bố,đảm bảo và cam kết rằng Người Bán nhận thức được và Người Bán tuân thủ tất cả các Luật Áp Dụng, quy định, hướng dẫn áp dụng của các cơ quan có thẩm quyền áp dụng liên quan đến các vấn đề tuân thủ về thương mại, bao gồm kiểm soát xuất khẩu, nhập khẩu, hải quan và luật thương mại, bao gồm nhưng không hạn chế ở khu vực pháp lý của TikTok, khách hàng hoặc Người Bán, và các quốc gia khác nơi mà Sản Phẩm được gửi đi từ đó và được giao nhận đến đó. Bất kỳ sự vi phạm nào đối với Luật Áp Dụng đều bị cấm.
+Nếu TikTok được yêu cầu bởi cơ quan có thẩm quyền tiến hành bất kỳ việc xác minh nào về vấn đề tuân thủ về thương mại, thì Người Bán, khi có yêu cầu trước một cách hợp lý bởi cơ quan có thẩm quyền và/hoặc TikTok, phải nhanh chóng cung cấp cho cơ quan có thẩm quyền và/hoặc TikTok tất cả các thông tin và tài liệu được yêu cầu bằng văn bản cho mục đích tuân thủ với bất kỳ luật hoặc quy định nào.
+31.
+Điều Khoản Bổ Sung Theo Khu Vực Pháp Lý
+Các điều khoản sau đây áp dụng bổ sung nếu bạn thường trú tại khu vực pháp lý tương ứng. Trong trường hợp áp dụng, phần
+Điều Khoản Bổ Sung Theo Khu Vực Pháp Lý
+được ưu tiên áp dụng trong phạm vi có bất kỳ sự không đồng nhất nào với phần còn lại của các Điều Khoản này.
+I.
+Đông Nam Á (Singapore, Indonesia, Việt Nam, Thái Lan, Malaysia và Philippines).
+`
+1.
+Bên Cung Cấp TikTok Shop
+Bạn thừa nhận rằng chủ thể tương ứng cung cấp Nền Tảng là TikTok Pte. Ltd (được đăng ký tại Singapore, có địa chỉ đăng ký tại
+1 Raffles Place #26-10 Singapore 048583
+) và các đề cập đến TikTok/Chúng Tôi/của Chúng Tôi sẽ được giải thích theo đó. TikTok Pte. Ltd ký kết các Điều Khoản này và thực hiện tất cả hành động và nghĩa vụ từ Singapore.
+2.
+Đăng Ký
+Nếu Bạn là Người Bán tại Singapore, Indonesia, Việt Nam, Thái Lan, Malaysia hoặc Philippines, Bạn có thể là cư dân cá nhân tại Singapore, Indonesia, Việt Nam, Thái Lan, Malaysia hoặc Philippines, hoặc một thực thể doanh nghiệp đăng ký tương ứng tại Singapore, Indonesia, Việt Nam, Thái Lan, Malaysia hoặc Philippines. Bạn phải vượt qua quy trình xác minh của Chúng Tôi trước khi Bạn được cho phép hoạt động như một Người Bán trên TikTok Shop. Bạn có thể xem tại
+Hướng Dẫn Đăng Ký Dành Cho Người Bán Trên TikTok Shop
+(
+Singapore
+,
+Indonesia
+,
+Malaysia
+,
+Philippines
+,
+Thái Lan
+,
+Vương Quốc Anh
+,
+Việt Nam
+) để biết các quy định chi tiết.
+Tại mọi thời điểm, Bạn tuyên bố rằng:
+(i)
+Bạn đang, và sẽ luôn là một doanh nghiệp được tổ chức, đăng ký hợp pháp, tồn tại hợp lệ và chấp hành tốt theo pháp luật của quốc gia mà tại đó doanh nghiệp được đăng ký, và Bạn có đầy đủ quyền hạn, khả năng, và thẩm quyền để ký kết và thực hiện các nghĩa vụ của Bạn với tư cách Người Bán; và
+(ii)
+Bạn sẽ đạt được và duy trì tất cả các sự cấp phép, giấy phép và sự chấp thuận cần thiết mà cần phải có cho việc hoàn thành các nghĩa vụ của Bạn với tư cách Người Bán.
+Dành cho Indonesia:
+Nếu Bạn là Người Bán ở Indonesia, Bạn có thể là một cá nhân cư trú ở Indonesia hoặc một pháp nhân đăng ký tại Indonesia. Nếu Bạn là một cá nhân, Bạn phải đủ 18 tuổi hoặc lớn hơn và vượt qua quy trình xác minh của Chúng Tôi trước khi Bạn được cấp phép hành động như là Người Bán trên TikTok Shop.
+Nếu Bạn trong độ tuổi từ 18 đến 21, chưa kết hôn hoặc chịu sự giám hộ, Bạn có thể trở thành Người Bán chỉ khi có được sự cho phép của bố mẹ hoặc người giám hộ hợp pháp. Ngoài ra, bằng sự đồng ý với Điều Khoản này, Bạn tuyên bố và đồng ý rằng Bạn đã có được sự đồng ý từ bố mẹ của Bạn hoặc (những) người giám hộ hợp pháp trừ khi Bạn thể hiện khác đi. Bằng việc cho phép, bố mẹ hoặc (những) người giám hộ hợp pháp của Bạn đồng ý chịu trách nhiệm đối với:
+(i) tất cả các hành động của Bạn liên quan đến việc Bạn sử dụng chức năng Người Bán thông qua TikTok Shop;
+(ii) bất kỳ khoản phí hoặc lệ phí nào liên quan đến việc Bạn sử dụng Tài Khoản Người Bán và chức năng Người Bán;
+(iii) việc tuân thủ của Bạn đối với Điều Khoản này; và
+(iv) đảm bảo rằng Bạn sử dụng Tài Khoản Người Bán và chức năng Người Bán sẽ không, trong mọi trường hợp, tạo ra bất kỳ sự vi phạm nào đối với Luật Áp Dụng và các quy định về bảo vệ trẻ em.
+Nếu Bạn trong độ tuổi từ 18 đến 21 và Bạn chưa kết hôn, và Bạn không có được sự cho phép của bố mẹ hoặc (những) người giám hộ hợp pháp và bố mẹ của Bạn, Bạn phải dừng việc hành động với tư cách là Người Bán."
+Bạn có thể tham khảo
+Hướng Dẫn Đăng Ký Dành Cho Người Bán Trên TikTok Shop
+(
+Singapore
+,
+Indonesia
+,
+Malaysia
+,
+Philippines
+,
+Thái Lan
+,
+Vương Quốc Anh
+,
+Việt Nam
+) để xem quy định chi tiết.
+3.
+Bạn tìm dịch Vụ Logistic cho Sản Phẩm của Bạn như Thế Nào
+?
+Dành cho Singapore, Indonesia, Việt Nam, Thái Lan, Malaysia và Philippines
+: Bạn có thể chọn sử dụng các dịch vụ logistic do TikTok hoặc các Bên Liên Kết Của TikTok cung cấp (“
+Vận Chuyển Bởi TikTok
+”) hoặc thực hiện các dịch vụ logistic thông qua việc liên kết với nhà cung cấp dịch vụ (“
+Vận Chuyển Bởi Người Bán
+”).
+Nếu Bạn chọn Vận Chuyển Bởi TikTok, Bạn đồng ý và xác nhận rằng Bạn phải tuân thủ các
+Điều Khoản Dịch Vụ Logistic Trên TikTok Shop
+(
+Indonesia
+,
+Việt Nam
+,
+Malaysia
+,
+Philippines
+,
+Singapore
+,
+Thái Lan
+). Nếu
+Điều Khoản Dịch Vụ Logistic Trên TikTok Shop
+(
+Indonesia
+,
+Việt Nam
+,
+Malaysia
+,
+Philippines
+,
+Singapore
+,
+Thái Lan
+) bị chấm dứt, Bạn sẽ không còn được phép chọn Vận Chuyển bởi dịch vụ của TikTok. Việc chấm dứt Tài Khoản của Bạn sẽ chấm dứt bất kỳ
+Điều Khoản Dịch Vụ Logistic Trên TikTok Shop
+(
+Indonesia
+,
+Việt Nam
+,
+Malaysia
+,
+Philippines
+,
+Singapore
+,
+Thái Lan
+) nào với hiệu lực ngay lập tức.
+Dành cho Indonesia, Việt Nam, Thái Lan, Malaysia và Philippines:
+Nếu Bạn chọn Vận Chuyển Bởi Người Bán, Bạn chịu trách nhiệm đối với việc liên kết với nhà cung cấp dịch vụ logistic bởi chính Bạn (chứ không thông qua Trung Tâm Dành Cho Người Bán) để vận chuyển Sản Phẩm cho Người Mua. Khi vận chuyển Sản Phẩm cho Người Mua, Bạn phải làm theo các bước dưới đây:
+•
+Bạn chỉ có thể sử dụng các nhà cung cấp dịch vụ logistic để vận chuyển Sản Phẩm cho Người Mua. Danh sách các nhà cung cấp dịch vụ logistic được phê duyệt có sẵn tại Trung Tâm Dành Cho Người Bán. Để tránh nghi ngờ, Chúng Tôi không có bất kỳ mối quan hệ thương mại với nhà cung cấp dịch vụ logistic mà Bạn chọn để vận chuyển Sản phẩm của Bạn. Bạn phải đảm bảo rằng tất cả các chi phí giao hàng và các khoản thanh toán cho nhà cung cấp dịch vụ logistic được trả để đảm bảo rằng Bạn có thể hoàn thành các Đơn Đặt Hàng Sản Phẩm của Bạn phù hợp với các Điều Khoản này và các chính sách hoặc hướng dẫn dành cho TikTok Shop tương ứng. Chúng tôi không chịu trách nhiệm đối với việc thu hoặc xử lý bất kỳ khoản thanh toán nào mà bạn nợ các nhà cung cấp dịch vụ logistic, hoặc cung cấp bất kỳ hướng dẫn nào cho bất kỳ bên nào để xử lý các khoản thanh toán đó.
+•
+Bạn phải tuân thủ các yêu cầu được quy định tại
+Hướng Dẫn Vận Chuyển Đơn Đặt Hàng Của Khách Hàng Trên TikTok Shop Cho Người Bán
+(
+Singapore
+,
+Indonesia
+,
+Malaysia
+,
+Philippines
+,
+Thái
+Lan,
+Vương
+Quốc Anh,
+Việt Nam
+)
+,
+bao gồm các yêu cầu về đóng gói và gắn nhãn Sản Phẩm.
+•
+Khi bạn vận chuyển Sản Phẩm, Bạn phải gửi thông tin theo dõi cho Chúng Tôi thông qua Trung Tâm Dành Cho Người Bán “Nội Dung Theo Dõi”. Sau đó, Chúng Tôi sẽ chia sẻ Nội Dung Theo Dõi này với nhà cung cấp dịch vụ theo dõi logistic của Chúng Tôi (“
+Nhà Cung Cấp Dịch Vụ Theo Dõi
+”) để theo dõi Đơn Đặt Hàng.
+•
+Bạn tuyên bố và đảm bảo rằng: (i) Bạn hoặc là chủ sở hữu duy nhất và độc quyền của Nội Dung Theo Dõi hoặc có tất cả các quyền, giấy phép, sự đồng ý và khước từ cần thiết đối với việc sử dụng Nội Dung Theo Dõi bởi Chúng Tôi và Nhà Cung Cấp Dịch Vụ Theo Dõi của Chúng Tôi; và (ii) cả Nội Dung Theo Dõi, việc cung cấp bất kỳ thông tin theo dõi nào khác cho Chúng Tôi, việc Chúng Tôi gửi, tải lên, công bố hoặc cung cấp theo cách khác Nội Dung Theo Dõi như vậy, cũng như việc Nhà Cung Cấp Dịch Vụ Theo Dõi của Chúng Tôi sử dụng Nội Dung Theo Dõi như vậy sẽ không xâm phạm, chiếm dụng hoặc vi phạm tài sản sở hữu trí tuệ hoặc quyền sở hữu của bên thứ ba, hoặc quyền công khai hoặc quyền riêng tư, hoặc dẫn đến việc vi phạm bất kỳ Luật Áp Dụng hoặc quy định nào.
+•
+Bạn cũng đồng ý rằng:
+•
+Bạn sẽ không chia sẻ hoặc truyền đưa bất kỳ tài liệu hoặc nội dung nào mà (i) là bất hợp pháp, xúc phạm, có hại, đe dọa, lạm dụng, quấy rối, tra tấn, bạo lực quá mức, bôi nhọ, thô tục, tục tĩu, khiêu dâm, phỉ báng, xâm phạm quyền riêng tư của người khác, mang tính hiềm khích về chủng tộc, dân tộc hoặc có thể bị phản đối theo cách khác; (ii) Bạn không có quyền truyền đưa theo bất kỳ luật nào hoặc theo các mối quan hệ hợp đồng hoặc ủy thác; (iii) gây ra hoặc tạo ra rủi ro về quyền riêng tư hoặc bảo mật cho bất kỳ người nào; (iv) xâm phạm bất kỳ quyền sở hữu trí tuệ hoặc quyền độc quyền khác của bất kỳ bên nào; (v) cấu thành quảng cáo, tài liệu quảng bá, hoạt động thương mại và/hoặc bán hàng không mong muốn hoặc không được phép, “thư rác”, “tin rác”, “thư hàng loạt”, “sơ đồ kim tự tháp”, “cuộc thi”, “rút thăm trúng thưởng”, hoặc bất kỳ hình thức chào mời nào khác; (vi) chứa nội dung độc hại, phần mềm vi-rút hoặc bất kỳ mã máy tính, tệp hoặc chương trình nào khác được thiết kế để làm gián đoạn, phá hủy hoặc hạn chế chức năng của bất kỳ phần mềm hoặc phần cứng máy tính hoặc thiết bị viễn thông nào; hoặc (vii) là bất hợp pháp, hoặc nhằm tuyên truyền hoặc thực hiện một hành vi bất hợp pháp nào; hoặc (viii) theo nhận định của Chúng Tôi, hoặc của Nhà Cung Cấp Dịch Vụ Theo Dõi của Chúng Tôi, là có thể bị phản đối hoặc hạn chế hoặc ngăn cản bất kỳ người nào khác sử dụng hoặc hưởng thụ các dịch vụ của Nhà Cung Cấp Dịch Vụ Theo Dõi của Chúng Tôi, hoặc có thể khiến Chúng Tôi, Nhà Cung Cấp Dịch Vụ Theo Dõi của Chúng Tôi, hoặc các bên khác phải đối mặt với bất kỳ nguy hại hoặc trách nhiệm pháp lý nào dưới bất kỳ hình thức nào, hoặc mang tai tiếng xấu;
+•
+Bạn sẽ không mạo danh bất kỳ người hoặc thực thể nào, hoặc phát biểu sai hoặc tuyên bố sai lệch theo cách khác về sự liên kết của Bạn với một người hoặc thực thể.
+•
+Chúng Tôi, và Nhà Cung Cấp Dịch Vụ Theo Dõi của Chúng Tôi, không có nghĩa vụ phải lưu trữ, giữ lại hoặc cung cấp bất kỳ Nội Dung Theo Dõi nào, và rằng Bạn phải chịu trách nhiệm tạo các bản lưu dự phòng của bất kỳ Nội Dung Theo Dõi nếu cần thiết; và
+•
+Trong mọi trường hợp, Chúng Tôi, hoặc Nhà Cung Cấp Dịch Vụ Theo Dõi của Chúng Tôi không phải chịu trách nhiệm theo bất kỳ cách nào đối với Nội Dung Theo Dõi, bao gồm, nhưng không giới hạn, bất kỳ lỗi hoặc sự bất cẩn nào trong bất kỳ Nội Dung Theo Dõi nào, hoặc bất kỳ tổn thất hoặc thiệt hại nào phát sinh liên quan đến việc sử dụng hoặc biết đến các Nội Dung Theo Dõi như vậy được cung cấp thông qua trang web hoặc nền tảng của Nhà Cung Cấp Dịch Vụ Theo Dõi của Chúng Tôi.
+1.
+Nhận khoản thanh toán cho các đơn hàng trên TikTok Shop
+Bất kể các quy định còn lại của các Điều Khoản này (bao gồm nhưng không giới hạn Điều Khoản 5 (
+TikTok Shop Là Gì
+) và Điều Khoản 11 (
+Phí Dịch Vụ
+)), và bất kỳ điều khoản nào khác được quy định trong các tài liệu được đề cập trong các Điều Khoản này, Bạn thừa nhận rằng Chúng Tôi không phải đại lý thu tiền của Bạn, và Chúng Tôi không cung cấp bất kỳ dịch vụ thanh toán nào cho Bạn, bao gồm nhưng không hạn chế ở việc xử lý bất kỳ khoản thanh toán hoặc hoàn tiền nào cho hoặc thay mặt Bạn, nhận hoặc xử lý khoản thanh toán từ hoặc cho Người Mua, chuyển khoản thanh toán đến hoặc từ Bạn hoặc thay mặt cho Bạn, hoặc cung cấp bất kỳ dịch vụ tài chính thay mặt người bán, dịch vụ chuyển tiền nào hoặc dịch vụ xử lý thanh toán khác nào (“
+Dịch Vụ Thanh
+Toán”
+) cho Bạn, Người Mua, Người Sáng Tạo hoặc bất kỳ bên nào khác, trong bất kỳ trường hợp nào. Dịch Vụ Thanh Toán sẽ được cung cấp cho Bạn bởi:
+•
+(nếu Bạn là Người Bán tại
+Indonesia, Thái Lan, Malaysia hoặc Philippines
+), bên liên kết của Chúng Tôi, PIPO (HK) Limited ("
+PIPO HK
+”) bằng khả năng của chính PIPO HK, hoặc thông qua các bên liên kết được cấp phép hợp lệ của PIPO HK, hoặc các đối tác liên kết với PIPO HK;
+•
+(nếu Bạn là Người Bán tại Việt Nam), bên liên kết của Chúng Tôi, Công ty Cổ Phần PIPO Việt Nam ("
+PIPO VN
+”) bằng khả năng của chính PIPO VN, hoặc thông qua các bên liên kết được cấp phép hợp lệ của PIPO VN, hoặc các đối tác liên kết với PIPO VN; và
+•
+(nếu Bạn là Người Bán tại
+Singapore
+) bên liên kết của Chúng Tôi, PIPO (SG) Pte. Ltd. ("
+PIPO SG
+”), một Tổ Chức Thanh Toán Lớn được cấp phép theo Đạo Luật Dịch Vụ Thanh Toán năm 2019, bằng khả năng của chính PIPO SG, hoặc thông qua các bên liên kết được cấp phép hợp lệ của PIPO SG, hoặc các đối tác liên kết với PIPO SG. Để tránh nghi ngờ, nêu Bạn là Người Bán tại Singapore, Bạn đồng ý và thừa nhận rằng PIPO SG không cung cấp hoặc đề xuất cung cấp Dịch Vụ Thanh Tóa cho Bạn, và Chúng Tôi không cung cấp cho Bạn bất kỳ dịch vụ nào do PIPO SG cung cấp, cho dù thay mặt cho PIPO SG hoặc theo cách khác.
+•
+(nếu bạn là Người Bán tại Vương Quốc Anh hoặc Liên Minh Châu Âu), Stripe.
+Thuật ngữ “
+NCCDV Bên Thứ Ba
+” sau đây đề cập đến PIPO HK, PIPO VN, PIPO SG và/hoặc Stripe, tùy trường hợp áp dụng hoặc theo yêu cầu của ngữ cảnh.
+Như một điều kiện để sử dụng TikTok Shop, Bạn sẽ là chủ thể tham gia thỏa thuận dịch vụ thanh toán cho người bán (“
+Thỏa Thuận Dịch Vụ Thanh Toán Cho Người Bán
+”) với NCCDVTT Bên Thứ Ba có liên quan, mà thỏa thuận này quy định các điều khoản và điều kiện của Dịch Vụ Thanh Toán mà NCCDVTT Bên Thứ Ba có liên quan có thể đồng ý cung cấp cho Bạn. (Thỏa Thuận Dịch Vụ Thanh Toán Cho Người Bán áp dụng cho Dịch Vụ Thanh Toán được cung cấp bởi PIPO HK là:
+Thỏa Thuận Dịch Vụ Thanh Toán Cho Người Bán
+(
+Indonesia
+,
+Thái
+Lan,
+Malaysia
+,
+Philippines
+)
+.
+Thỏa Thuận Dịch Vụ Thanh Toán Cho Người Bán áp dụng cho Dịch Vụ Thanh Toán được cung cấp bởi PIPO VN là
+Thỏa Thuận Dịch Vụ Thanh Toán Cho Người Bán (Việt Nam)
+. Thỏa Thuận Dịch Vụ Thanh Toán Cho Người Bán áp dụng cho Dịch Vụ Thanh Toán được cung cấp bởi PIPO SG là:
+Thỏa Thuận Dịch Vụ Thanh Toán Cho Người Bán
+(SG))
+. Bằng việc đồng ý với các Điều Khoản này, Bạn đồng ý bị ràng buộc bởi Thỏa Thuận Dịch Vụ Thanh Toán Cho Người Bán với NCCDVTT Bên Thứ Ba có liên quan. Nếu Bạn không ký kết Thỏa Thuận Dịch Vụ Thanh Toán Cho Người Bán với NCCDVTT Bên Thứ Ba có liên quan, Chúng Tôi sẽ không thể cung cấp TikTok Shop cho Bạn, bởi vì NCCDVTT Bên Thứ Ba có liên quan sẽ không thể cung cấp bất kỳ Dịch Vụ Thanh Toán nào cho Bạn, mà điều đó có nghĩa là Bạn sẽ không nhận được khoản thanh toán cho Sản Phẩm của Bạn được bán trên TikTok Shop.
+Để tránh nghi ngờ, Bạn thừa nhận và đồng ý rằng mặc dù Chúng Tôi có thể thay mặt Bạn cung cấp hướng dẫn cho NCCDVTT Bên Thứ Ba có liên quan để tạo điều kiện hoặc hỗ trợ các Dịch Vụ Thanh Toán mà NCCDVTT Bên Thứ Ba có liên quan cung cấp cho Bạn, bất kỳ Dịch Vụ Thanh Toán nào mà NCCDVTT Bên Thứ Ba có liên quan cung cấp cho Bạn sẽ được NCCDVTT Bên Thứ Ba có liên quan cung cấp bằng tư cách của chính NCCDVTT Bên Thứ Ba có liên quan (bao gồm thông qua các bên liên kết hoặc đối tác được cấp phép hợp lệ của NCCDVTT Bên Thứ Ba), và Chúng Tôi không hành động như một đại lý hoặc đại diện của bất kỳ NCCDVTT Bên Thứ Ba nào liên quan các Dịch Vụ Thanh Toán như vậy. Chúng Tôi sẽ không chịu trách nhiệm với Bạn về bất kỳ tổn thất nào Bạn phải gánh chịu do bất kỳ vi phạm hoặc lỗi nào của bất kỳ NCCDVTT Bên Thứ Ba nào theo Thỏa Thuận Dịch Vụ Thanh Toán Cho Người Bán, hoặc bất kỳ thỏa thuận nào khác mà Bạn ký kết với bất kỳ NCCDVTT Bên Thứ Ba nào liên quan đến Dịch Vụ Thanh Toán hoặc theo cách khác.
+2.
+Hướng dẫn thanh toán
+Bạn thừa nhận rằng với tư cách là nhà cung cấp TikTok Shop, Chúng Tôi sẽ có thông tin về các giao dịch (bao gồm đơn đặt hàng, giao kết giao dịch mua bán, thanh toán và hoàn tiền được thực hiện giữa Người Mua và Bạn). Vì vậy, sẽ hiệu quả và phù hợp hơn khi Chúng Tôi cung cấp hướng dẫn cho NCCDVTT Bên Thứ Ba có liên quan thay mặt Bạn, để tạo điều kiện và hỗ trợ các Dịch Vụ Thanh Toán mà NCCDVTT Bên Thứ Ba có liên quan cung cấp cho Bạn.
+Về vấn đề này, Bạn chỉ định Chúng Tôi, TikTok Pte. Ltd., với tư cách là người được ủy quyền của Bạn, và thừa nhận và đồng ý, và ủy quyền cho Chúng Tôi thay mặt Bạn để cung cấp thông tin và hướng dẫn cho NCCDVTT Bên Thứ Ba có liên quan, để NCCDVTT Bên Thứ Ba có liên quan (bao gồm cả việc thông qua bên liên kết hoặc đối tác được ủy quyền hợp lệ của NCCDVTT Bên Thứ Ba) có thể thực hiện Dịch Vụ Thanh Toán cho Bạn. Không giới hạn quy định trên, Bạn ủy quyền cho Chúng Tôi để thông báo cho NCCDVTT Bên Thứ Ba có liên quan về các sự kiện sau:
+•
+có hay không bất kỳ yêu cầu hoàn tiền, yêu cầu hoàn trả hoặc tranh chấp nào do Người Mua đưa ra trong vòng 14 ngày kể từ ngày trạng thái đơn đặt hàng trên TikTok Shop được thay đổi thành “đã giao hàng”, việc hoàn tất bất kỳ thỏa thuận giải quyết nào giữa Người Mua và Bạn do yêu cầu hoàn tiền, yêu cầu hoàn trả hoặc tranh chấp được đưa ra, và cách thức xử lý các khoản tiền theo thỏa thuận giải quyết như vậy;
+•
+bất kỳ lệnh, chỉ thị, bản án hoặc phán quyết nào từ tòa án, hội đồng trọng tài hoặc cơ quan có thẩm quyền mà chỉ đạo về việc giải ngân các khoản tiền;
+•
+số tiền được khấu trừ từ các khoản thanh toán từ Người Mua trả cho Chúng Tôi hoặc bất kỳ bên liên kết hoặc bên nào khác, bao gồm bất kỳ khoản phí nền tảng và phí logistic nào trả cho Chúng Tôi, và bất kỳ khoản Hoa Hồng Cho Người Sáng Tạo nào (như được định nghĩa dưới đây) mà được trả cho Người Sáng Tạo theo thỏa thuận giữa Bạn và Người Sáng Tạo;
+•
+số tiền được khấu trừ từ các khoản thanh toán được trả cho Bạn cho các khoản thanh toán Hoa Hồng Cho Người Sáng Tạo, nếu Người Mua được hoàn tiền thành công sau 14 ngày dương lịch kể từ khi trạng thái đơn đặt hàng được thay đổi thành “đã giao hàng”;
+•
+bất kỳ thông tin nào khác liên quan đến các giao dịch giữa Người Mua và Bạn, bao gồm giao dịch mua bán, hoàn tiền hoặc hủy bỏ, như được xác định bởi Chúng Tôi hoặc khác đi theo các điều khoản được quy định trong các Điều Khoản này, các Chính Sách Về TikTok Shop hoặc bất kỳ điều khoản nào khác theo thỏa thuận giữa Bạn và Chúng Tôi.
+3.
+Khấu trừ các khoản thanh toán cho Người Sáng Tạo và Chúng Tôi
+Bạn thừa nhận rằng một phần của các khoản thanh toán từ Người Mua sẽ được khấu trừ và thanh toán cho Người Sáng Tạo, như là các chi phí mà Bạn phải trả cho Người Sáng Tạo (“
+Hoa Hồng Cho Người Sáng Tạo
+”) theo thỏa thuận giữa Bạn và Người Sáng Tạo tương ứng. NCCDVTT Bên Thứ Ba có liên quan sẽ cung cấp Dịch Vụ Thanh Toán cho Người Sáng Tạo để cho phép Người Sáng Tạo xem số tiền
+Hoa Hồng Cho Người Sáng Tạo (sau khi trừ khi các khoản phí/chi phí liên quan, nếu có)
+do NCCDVTT Bên Thứ Ba có liên quan giữ thay mặt cho Người Sáng Tạo và khởi tạo việc rút và chuyển
+Hoa Hồng Cho Người Sáng Tạo
+từ NCCDVTT Bên Thứ Ba có liên quan sang Người Sáng Tạo (và các bên khác mà được Người Sáng Tạo ủy quyền, nếu có), theo các điều khoản của Thỏa Thuận Dịch Vụ Thanh Toán Cho Người Sáng Tạo được thỏa thuận giữa NCCDVTT Bên Thứ Ba có liên quan và Người Sáng Tạo. (Thỏa Thuận Dịch Vụ Thanh Toán Cho Người Sáng Tạo áp dụng cho Dịch Vụ Thanh Toán thực hiện bởi PIPO HK là:
+Thỏa Thuận Dịch Vụ Thanh Toán Cho Người Sáng Tạo
+. Thỏa Thuận Dịch Vụ Thanh Toán Cho Người Sáng Tạo áp dụng cho Dịch Vụ Thanh Toán thực hiện bởi PIPO VN là:
+Thỏa Thuận Dịch Vụ Thanh Toán Cho Người Sáng Tạo (Việt Nam)
+.
+Thỏa Thuận Dịch Vụ Thanh Toán Cho Người Sáng Tạo áp dụng cho Dịch Vụ Thanh Toán thực hiện bởi PIPO SG là:
+Thỏa Thuận Dịch Vụ Thanh Toán Cho Người Sáng Tạo
+(
+SG
+)
+.
+)
+Bạn cũng thừa nhận rằng một phần của các khoản thanh toán từ Người Mua sẽ được khấu trừ và trả cho Chúng Tôi như là Phí Dịch Vụ đối với việc sử dụng TikTok Shop hoặc bất kỳ khoản phí nào khác phải trả cho Chúng Tôi.
+Bạn thừa nhận và đồng ý rằng với tư cách nhà cung cấp Tính Năng Liên Kết và TikTok Shop, Chúng Tôi có thể, với tư cách là người được ủy quyền của Bạn hoặc người được ủy quyền của Người Sáng Tạo, tùy từng trường hợp, cung cấp tất cả thông tin liên quan đến các thỏa thuận giữa Bạn và Người Sáng Tạo, các giao dịch giữa Bạn và Người Mua và bất kỳ sự cho phép nào được cấp cho chúng tôi, để cho phép NCCDVTT Bên Thứ Ba có liên quan cung cấp Dịch Vụ Thanh Toán cho Người Sáng Tạo, bao gồm nhưng không giới hạn:
+•
+các khoản tiền mà sẽ được trừ từ các khoản thanh toán từ Người Mua cho Chúng Tôi hoặc bất kỳ bên liên kết hoặc bên nào khác, bao gồm bất kỳ khoản phí nền tảng và phí dịch vụ logistics nào mà phải trả cho Chúng Tôi và bất kỳ khoản Hoa Hồng Cho Người Sáng Tạo nào mà phải trả cho Người Sáng Tạo, căn cứ theo thỏa thuận giữa Bạn và Người Sáng Tạo thông qua Tính Năng Liên Kết;
+•
+có hay không bất kỳ yêu cầu hoàn tiền, yêu cầu hoàn trả hoặc tranh chấp nào do Người Mua đưa ra trong vòng 14 ngày kể từ ngày trạng thái đơn đặt hàng trên TikTok Shop được thay đổi thành “đã giao hàng”, việc hoàn tất bất kỳ thỏa thuận giải quyết nào giữa Người Mua và Bạn do yêu cầu hoàn tiền, yêu cầu hoàn trả hoặc tranh chấp được đưa ra, và cách thức xử lý các khoản tiền theo thỏa thuận giải quyết như vậy;
+•
+bất kỳ lệnh, chỉ thị, bản án hoặc phán quyết nào từ tòa án, hội đồng trọng tài hoặc cơ quan có thẩm quyền mà chỉ đạo về việc giải ngân hoặc các khoản tiền;
+•
+số tiền được khấu trừ từ các khoản thanh toán được trả cho Bạn cho các khoản thanh toán Hoa Hồng Cho Người Sáng Tạo, nếu Người Mua được hoàn tiền thành công sau 14 ngày dương lịch kể từ khi trạng thái đơn đặt hàng được thay đổi thành “đã giao hàng”;
+•
+bất kỳ thông tin nào khác liên quan đến các giao dịch giữa Người Mua và Bạn, bao gồm giao dịch mua bán, hoàn tiền hoặc hủy bỏ, như được xác định bởi Chúng Tôi hoặc khác đi theo các điều khoản được quy định trong Điều Khoản này, các Chính Sách Về TikTok Shop hoặc bất kỳ điều khoản nào khác theo thỏa thuận giữa Bạn và Chúng Tôi.
+Để tránh nghi ngờ, Bạn thừa nhận và đồng ý rằng mặc dù Chúng Tôi có thể thay mặt Người Sáng Tạo cung cấp hướng dẫn cho NCCDVTT Bên Thứ Ba có liên quan để tạo điều kiện hoặc hỗ trợ các Dịch Vụ Thanh Toán mà NCCDVTT Bên Thứ Ba có liên quan cung cấp cho Người Sáng Tạo, bất kỳ Dịch Vụ Thanh Toán nào mà NCCDVTT Bên Thứ Ba có liên quan cung cấp cho Người Sáng Tạo sẽ được NCCDVTT Bên Thứ Ba có liên quan cung cấp theo khả năng riêng của NCCDVTT Bên Thứ Ba có liên quan (bao gồm thông qua các bên liên kết hoặc đối tác được cấp phép hợp lệ của NCCDVTT Bên Thứ Ba có liên quan), và Chúng Tôi không hành động như đại lý hoặc đại diện của bất kỳ NCCDVTT Bên Thứ Ba nào liên quan đến các Dịch Vụ Thanh Toán như vậy.
+4.
+Ngôn Ngữ
+Các Điều Khoản này được soạn thảo bằng tiếng Anh và các ngôn ngữ khác. Trong trường hợp có bất kỳ sự không đồng nhất hoặc giải thích khác nhau nào giữa văn bản tiếng Anh và văn bản không bằng tiếng Anh, thì văn bản tiếng Anh sẽ được ưu tiên áp dụng và văn bản không phải tiếng Anh có liên quan sẽ được xem là được tự động sửa đổi để phù hợp và làm cho các văn bản không phải tiếng Anh có liên quan thống nhất với văn bản tiếng Anh tương ứng. Mỗi bên TikTok và Người Bán thừa nhận rằng bên đó đã đọc các Điều Khoản này và hiểu nội dung của các Điều Khoản này, và rằng các Điều Khoản này đã được ký kết một cách tự do và không bị ép buộc
+Chỉ dành cho Indonesia
+: Bạn thừa nhận rằng Bạn hiểu đầy đủ ngôn ngữ và nội dung của các Điều Khoản này, và Bạn đồng ý rằng Bạn sẽ không sử dụng các quy định theo Luật của Cộng Hòa Indonesia số 24 năm 2009 về Quốc Kỳ, Quốc Ngữ, Quốc Huy và Quốc Ca (Law of the Republic of Indonesia No. 24 of 2009 on Flag, Language, State Emblem and National Anthem) hoặc bất kỳ quy định thực hiện nào của Luật đó để vô hiệu hóa Điều Khoản này.
+5.
+Khước Từ
+TikTok và Bạn đồng ý một cách rõ ràng sẽ khước từ và bỏ qua các quyền và nghĩa vụ tương ứng của mỗi bên theo bất kỳ Luật Áp Dụng nào trong bất kỳ trường hợp chấm dứt nào đối với các Điều Khoản này, trong phạm vi mà pháp luật như vậy yêu cầu bất kỳ tuyên bố pháp lý nào đối với việc chấm dứt các Điều Khoản này.
+6.
+Cấp Phép Sử Dụng Dữ Liệu Thương Mại
+TikTok và Bạn đồng ý một cách rõ ràng sẽ khước từ và bỏ qua các quyền và nghĩa vụ tương ứng của mỗi bên theo bất kỳ pháp luật áp dụng nào trong bất kỳ trường hợp chấm dứt nào đối với các Điều Khoản này, trong phạm vi mà pháp luật như vậy yêu cầu bất kỳ tuyên bố pháp lý nào đối với việc chấm dứt các Điều Khoản này.
+Bằng việc sử dụng TikTok Shop, Bạn thừa nhận và cho phép việc thu thập, sử dụng, xử lý, hiển thị và chuyển giao dữ liệu thương mại như được mô tả trong đoạn này. TikTok và Bên Liên Kết Của TikTok nắm giữ một số dữ liệu thương mại nhất định của Người Bán, bao gồm nội dung cửa hàng của Bạn (bao gồm, nhưng không giới hạn ở, bất kỳ văn bản, hình ảnh, video, bản ghi âm và các sản phẩm âm nhạc nào có trong đó), dữ liệu hoặc thông tin không phải là dữ liệu hoặc thông tin cá nhân, và các sản phẩm được hiển thị trong cửa hàng của Bạn mà được tạo ra thông qua hoặc phái sinh từ việc sử dụng nền tảng TikTok Shop của Người Bán (và không chỉ bao gồm những dữ liệu hoặc thông tin được Người Bán cung cấp cho Chúng Tôi) cho mục đích cung cấp dịch vụ liên quan đến TikTok Shop cho bạn ("
+Dữ Liệu Thương Mại
+"). Bạn cho phép TikTok và Bên Liên Kết Của TikTok:
+•
+lưu trữ, tái tạo, hiển thị, truyền phát (bao gồm truyền phát trực tiếp), phân phối, điều chỉnh, chạy, sao chép, biểu diễn công khai, cung cấp, công bố, dịch, và tạo tác phẩm phái sinh của Dữ Liệu Thương Mại; và
+•
+sử dụng Dữ Liệu Thương Mại để tiếp thị và quảng bá nền tảng TikTok Shop cả trong và ngoài Nền Tảng và để cải thiện nền tảng TikTok Shop và các tính năng, dịch vụ và nền tảng khác liên quan đến nền tảng TikTok Shop (chẳng hạn như các danh sách xếp hạng khác nhau hiển thị trên TikTok Shop, Trung Tâm Dành Cho Người Bán, nền tảng dành cho người sáng tạo hoặc
+Trung Tâm Đối Tác Trên TikTok Shop
+để cung cấp trải nghiệm người dùng dễ chịu và/ hoặc để hỗ trợ người dùng của nền tảng hiểu rõ hơn các tính năng của nền tảng).
+Bạn cũng cho phép những người dùng khác của Nền Tảng hoặc các bên thứ ba xem, truy cập, tải về, tái tạo, tạo tác phẩm phái sinh, công bố và/hoặc truyền đưa Dữ Liệu Thương Mại, dưới bất kỳ hình thức hoặc phương thức nào trên TikTok Shop và Nền Tảng và để sử dụng những đối tượng nêu trên nhằm (a) tiếp thị và quảng bá TikTok Shop cả trong và ngoài Nền Tảng, và (b) cải thiện TikTok Shop, Nền Tảng và các sản phẩm và dịch vụ khác của Chúng Tôi, bao gồm để hỗ trợ cải thiện trải nghiệm người dùng của các nền tảng này.
+Việc cấp phép này của Bạn cho TikTok không ảnh hưởng đến quyền có trong và đối với Dữ Liệu Thương Mại của Bạn theo bất kỳ cách nào.
+II. Thái Lan
+Nếu Bạn được đăng ký về VAT ở Thái Lan, Bạn phải dung cấp cho Chúng Tôi ID của VAT có hiệu lực của Bạn và đảm bảo rằng ID của VAT có thể được xác thực với cơ sở dữ liệu chính thức của Sở Thuế Vụ Thái Lan. Định dạng của ID của VAT phải gồm 13 chữ số. Lưu ý rằng nếu TikTok không thể nhận hoặc không nhận được ID của VAT có hiệu lực của Bạn, Chúng Tôi phải xử lý Bạn như là bên đăng ký không có VAT. Bạn phải chịu trách nhiệm đối với việc phát hành các hóa đơn VAT (nếu có) cho Người Mua.
+Bạn phải chịu trách nhiệm phát hành chứng từ thuế (nếu có) cho Người Mua.
+Bạn và/hoặc Người Sáng Tạo, chứ không phải TikTok phải chịu trách nhiệm đối với việc thu, giữ, hoặc báo cáo bất kỳ khoản thuế nào phát sinh từ khoản thanh toán từ Bạn liên quan đến việc cung cấp Dịch Vụ từ Người Sáng Tạo.
+Bạn chỉ định và cho phép Thai Happy Logistics Ltd. liên tục đại diện và thay mặt Bạn với tư cách là đại diện thuế khấu lưu và có quyền tiến hành các nghĩa vụ thuế khấu lưu đối với dịch vụ logistic được quy định trong
+Điều Khoản Dịch Vụ Logistic Trên TikTok Shop
+(
+Thái Lan
+), khấu trừ thuế tại nguồn, cấp giấy chứng nhận khấu trừ thuế và nộp hồ sơ khấu lưu thuế cho Cục Thuế Thái Lan, theo
+Điều Khoản Dịch Vụ Logistic Trên TikTok Shop
+(
+Thái Lan
+).
+III. Việt Nam
+Nếu Bạn là một tổ chức đã đăng ký thuế tại Việt Nam, vui lòng cung cấp Mã Số Thuế của Bạn cho TikTok và ngay khi Mã Số Thuế của Bạn được xác thực, Phí Dịch Vụ mà TikTok tính sẽ là khoản phí thực không bao gồm Thuế Giá Trị Gia Tăng ("
+VAT
+") và Thuế Thu Nhập Doanh Nghiệp ("
+CIT
+") tại Việt Nam (gọi chung là "
+Thuế của VN
+"). Bạn đồng ý rằng bạn sẽ chịu trách nhiệm chịu thuế, báo cáo và nộp Thuế của VN cho TikTok đến cơ quan thuế Việt Nam đối với Phí Dịch Vụ.
+Để làm rõ, Bạn đồng ý đảm bảo bồi thường, bảo vệ và giữ cho TikTok và Bên Liên Kết Của TikTok và bất kỳ người lao động, giám đốc hoặc đại lý nào của các chủ thể trên khỏi và chống lại bất kỳ khiếu nại nào phát sinh từ hoặc liên quan đến việc kê khai và nộp Thuế của VN nói trên đến cơ quan thuế tại Việt Nam. Các khoản bảo đảm bồi thường này bao gồm bất kỳ trách nhiệm pháp lý hoặc chi phí nào phát sinh từ các khiếu nại, tổn thất, thiệt hại, giải quyết tranh chấp, phán quyết, tiền phạt, chi phí tố tụng và chi phí pháp lý.
+Nếu Bạn không phải là một tổ chức đã đăng ký thuế tại Việt Nam hoặc Mã Số Thuế mà Bạn cung cấp không xác thực được, thì Phí Dịch Vụ mà TikTok tính cho Bạn sẽ chính là khoản tiền Phí Dịch Vụ bao gồm cả các khoản Thuế của VN.
+Bạn phải chịu trách nhiệm đối với việc phát hành hóa đơn thuế (nếu áp dụng) cho Người Mua.
+Bạn và/hoặc Người Sáng Tạo, chứ không phải là TikTok, phải chịu trách nhiệm đối với việc thu, giữ, hoặc báo cáo bất kỳ khoản thuế nào phát sinh từ việc thanh toán từ Bạn liên quan đến việc cung cấp Dịch Vụ từ Người Sáng Tạo.
+IV. Philippines
+Bạn phải chịu trách nhiệm xuất các chứng từ thuế (nếu có) cho Người Mua.
+Bạn và/hoặc Người Sáng Tạo, chứ không phải TikTok, phải chịu trách nhiệm thu, khấu trừ hoặc kê khai bất kỳ khoản thuế nào phát sinh từ khoản thanh toán từ Bạn mà có liên quan đến việc cung cấp Dịch Vụ từ Người Sáng Tạo.
+Bạn phải chịu trách nhiệm đối với tất cả các nghĩa vụ về thuế liên quan đến Phí Dịch Vụ, và phải đảm bảo bồi thường cho TikTok đối với các nghĩa vụ về thuế như vậy.
+V. Trung Quốc
+Nếu Bạn là Người Bán tại Trung Quốc (bao gồm cả Hong Kong), và sử dụng TikTok Shop để bán Sản Phẩm cho Người Mua tại Singapore, Malaysia, Thái Lan, Vương Quốc Anh, Philippines, Việt Nam và Hoa Kỳ, thì các điều khoản sau được áp dụng:
+1.
+Bên Cung Cấp TikTok Shop
+Nếu Bạn đang bán Sản Phẩm cho Người Dùng tại Vương Quốc Anh:
+Bạn thừa nhận rằng chủ thể tương ứng cung cấp Nền Tảng là TikTok Information Technologies UK Limited, mà được đăng ký tại nước Anh và có trụ sở tại Kaleidoscope, 4 Lindsey Street, London, Vương Quốc Anh, EC1A 9HP (số đăng ký công ty: 10165711), và các đề cập đến TikTok/Chúng Tôi/của Chúng Tôi sẽ được giải thích theo đó.
+Nếu Bạn đang bán Sản Phẩm cho Người Mua tại Singapore, Malaysia, Thái Lan, Philippines, hoặc Việt Nam:
+Bạn thừa nhận rằng chủ thể tương ứng cung cấp Nền Tảng là TikTok Pte. Ltd. (mà được đăng ký tại Singapore,
+1 Raffles Place #26-10 Singapore 048583)
+và các đề cập đến TikTok/Chúng Tôi/của Chúng Tôi sẽ được giải thích theo đó. TikTok Pte. Ltd. ký kết các Điều Khoản này và thực hiện tất cả các hành động và nghĩa vụ từ Singapore.
+Nếu Bạn đang bán Sản Phẩm cho Người Mua tại Hoa Kỳ:
+Bạn thừa nhận rằng chủ thể tương ứng cung cấp Nền Tảng là TikTok Inc., một công ty được đăng ký tại California có trụ sở tại 5800 Bristol Parkway, Culver City, California 90230, và các dẫn chiếu đến TikTok/Chúng Tôi/của Chúng Tôi sẽ được giải thích theo đó.
+2.
+Đăng Ký
+Người Bán tại Trung Quốc không cần phải có Tài Khoản trên Nền Tảng để đăng ký trở thành Người Bán trên TikTok Shop. Thay vào đó, Người Bán tại Trung Quốc sẽ tạo một Tài Khoản Dành Cho Người Bán Xuyên Biên Giới Trên TikTok Shop (“
+Tài Khoản XBorder
+”) cụ thể. Để biết thêm thông tin về quy trình đăng ký dành cho Người Bán tại Trung Quốc, vui lòng xem
+Hướng Dẫn Đăng Ký Dành Cho Người Bán Xuyên Biên Giới Trên TikTok Shop
+. Vui lòng lưu ý rằng Tài Khoản Xborder sẽ không có quyền truy cập vào Nền Tảng, nhưng sẽ có quyền truy cập vào Trung Tâm Dành Cho Người Bán và các tính năng bổ trợ khác cần thiết để bán Sản Phẩm cho Người Mua tại Malaysia, Thái Lan, Vương Quốc Anh, Philippines, Việt Nam và Hoa Kỳ. Vui lòng lưu ý rằng, đối với Người Bán tại Trung Quốc, các đề cập đến “Tài Khoản” xuyên suốt các Điều Khoản này được hiểu là đề cập đến Tài Khoản Xborder.
+3.
+Dịch vụ logistic hoạt động như thế nào?
+Trừ khi giữa Bạn và Chúng Tôi có thỏa thuận trước một cách khác đi bằng văn bản theo quy định dưới đây, Bạn phải sử dụng dịch vụ logistic do TikTok cung cấp để giao tất cả Sản Phẩm từ Bạn đến cho Người Mua để hoàn thành các đơn đặt hàng do Người Mua đặt trên TikTok Shop tại Singapore, Malaysia, Thái Lan, Vương Quốc Anh, Philippines, hoặc Việt Nam. Thông tin chi tiết được quy định tại
+Điều Khoản Dịch Vụ Logistic Xuyên Biên Giới Trên TikTok Shop
+(
+Vương Quốc Anh
+,
+Singapore
+,
+Malaysia
+,
+Philippines
+,
+Thái Lan
+,
+Việt Nam
+, và Hoa Kỳ
+) và nếu Bạn vận chuyển Sản Phẩm từ một nhà kho ở Thái Lan,
+Điều Khoản Dịch Vụ Logistic Trên TikTok Shop Dành Cho Thái Lan
+. Bạn phải tuân thủ Điều Khoản Dịch Vụ Logistic Xuyên Biên Giới Trên TikTok Shop và nếu Bạn vận chuyển Sản Phẩm từ một nhà kho ở Thái Lan,
+Điều Khoản Dịch Vụ Logistic Trên TikTok Shop Dành Cho Thái Lan
+.
+Nếu Điều Khoản Dịch Vụ Logistic Xuyên Biên Giới Trên TikTok Shop hoặc Điều Khoản Dịch Vụ Logistic Trên TikTok Shop Dành Cho Thái Lan (nếu áp dụng) giữa Bạn và TikTok bị chấm dứt vì bất kỳ lý do gì, thì các Điều Khoản này giữa Bạn và TikTok cũng sẽ tự động chấm dứt, và Bạn sẽ không còn được phép hành động như một Người Bán trên TikTok Shop.
+Nếu Tài Khoản của Bạn, hoặc các Điều Khoản này bị chấm dứt vì bất kỳ lý do gì, thì Điều Khoản Dịch Vụ Logistic Xuyên Biên Giới Trên TikTok Shop hoặc Điều Khoản Dịch Vụ Logistic Trên TikTok Shop Dành Cho Thái Lan (nếu áp dụng) giữa Bạn và TikTok cũng sẽ tự động chấm dứt.
+Trong phạm vi Chúng Tôi đồng ý trước bằng văn bản với Bạn rằng bạn không phải sử dụng dịch vụ logistic do Chúng Tôi cung cấp để giao Sản Phẩm từ Bạn đến cho Người Mua tại Singapore, Malaysia, Thái Lan, Vương Quốc Anh, Philippines, Việt Nam hoặc Hoa Kỳ theo điều khoản trên đây, thì Bạn phải sử dụng dịch vụ logistic do đối tác logistic được phê duyệt của Chúng Tôi cung cấp để giao Sản Phẩm từ Bạn đến cho Người Mua để hoàn thành đơn đặt hàng do Người Mua đặt trên TikTok Shop tại Singapore, Malaysia, Thái Lan, Vương Quốc Anh, Philippines, Việt Nam hoặc Hoa Kỳ, với điều kiện là:
+•
+Bạn chỉ có thể sử dụng các đối tác logistic được chấp thuận để vận chuyển Sản Phẩm đến cho Người Mua. Danh sách các đối tác logistic được chấp thuận có tại Seller Centre. Để tránh nghi ngờ, sẽ không có bất kỳ mối quan hệ thương mại nào giữa Chúng Tôi và đối tác logistic mà Bạn liên kết để vận chuyển Sản Phẩm của Bạn. Chỉ mình Bạn phải chịu trách nhiệm đối với tất cả các chi phí và khoản thanh toán vận chuyển phải trả cho đối tác logistic.
+•
+Bạn phải tuân thủ theo các yêu cầu được quy định tại Hướng Dẫn Vận Chuyển Đơn Đặt Hàng Của Khách Hàng Trên TikTok Shop, bao gồm các yêu cầu về đóng gói và gắn nhãn Sản Phẩm.
+•
+Khi Bạn vận chuyển Sản Phẩm, Bạn phải gửi thông tin theo dõi vận đơn cho Chúng Tôi thông qua mục “Nội Dung Theo Dõi” trong Seller Centre. Sau đó, Chúng Tôi sẽ chia sẻ Nội Dung Theo Dõi này với đối tác theo dõi logistic của Chúng Tôi để theo dõi Đơn Đặt Hàng.
+•
+Bạn tuyên bố và đảm bảo rằng: (i) Bạn hoặc là chủ sở hữu duy nhất và độc quyền đối với Nội Dung Theo Dõi, hoặc có tất cả các quyền, sự cấp phép, sự cho phép và giấy phép cần thiết cho việc sử dụng Nội Dung Theo Dõi bởi Chúng Tôi và đối tác theo dõi logistic của Chúng Tôi; và (ii) cả Nội Dung Theo Dõi, việc cung cấp bất kỳ thông tin theo dõi vận đơn nào khác cho Chúng Tôi, việc Chúng Tôi gửi, tải lên, công bố hoặc cung cấp theo cách khác Nội Dung Theo Dõi như vậy, và việc đối tác theo dõi logistic của Chúng Tôi sử dụng Nội Dung Theo Dõi như vậy đều sẽ không xâm phạm, chiếm đoạt hoặc vi phạm quyền sở hữu trí tuệ hoặc quyền tài sản, hoặc quyền công bố hoặc quyền riêng tư của bên thứ ba, hoặc dẫn đến sự vi phạm bất kỳ Luật Áp Dụng hoặc quy định nào.
+•
+Bạn cũng đồng ý rằng:
+•
+Bạn sẽ không chia sẻ hoặc truyền đưa bất kỳ tài liệu hoặc nội dung nào mà (i) trái pháp luật, xúc phạm, có hại, đe dọa, lạm dụng, quấy rối, sai trái, bạo lực, bôi nhọ, khiếm nhã, phản cảm, khiêu dâm, phỉ báng, xâm phạm quyền riêng tư của người khác, hiềm khích sắc tộc, trái đạo đức hoặc gây khó chịu theo cách khác; (ii) Bạn không có quyền để truyền đưa theo bất kỳ luật hoặc quan hệ hợp đồng hoặc quan hệ ủy thác nào; (iii) tạo ra hoặc mang lại rủi ro về quyền riêng tư hoặc bảo mật cho bất kỳ người nào; (iv) xâm phạm bất kỳ quyền sở hữu trí tuệ hoặc quyền tài sản nào của bất kỳ bên nào; (v) cấu thành tài liệu quảng cáo, quảng bá, hoạt động và/hoặc doanh số thương mại, “thư rác,” “hành vi gửi thư rác (spam),” “thư dây chuyền,” “sơ đồ kim tự tháp (pyramid scheme),” “cuộc thi,” “rút thăm trúng thưởng,” hoặc bất kỳ hình thức chào mời trái pháp luật hoặc trái phép nào khác; (vi) có chứa nội dung độc hại, phần mềm vi-rút hoặc bất kỳ mã, tệp hoặc chương trình máy tính nào khác được thiết kế để làm gián đoạn, phá hoại hoặc giới hạn chức năng của bất kỳ phần mềm hoặc phần cứng máy tính hoặc thiết bị viễn thông nào; hoặc (vii) trái pháp luật, hoặc nhằm quảng bá hoặc thực hiện hành vi trái pháp luật theo bất kỳ thể loại gì; hoặc (viii) theo ý kiến của Chúng Tôi, hoặc của đối tác theo dõi logistic của Chúng Tôi, là gây khó chịu hoặc hạn chế hoặc cản trở bất kỳ người nào khác sử dụng hoặc hưởng dịch vụ của đối tác theo dõi logistic của Chúng Tôi, hoặc có thể khiến Chúng Tôi, đối tác theo dõi logistic của Chúng Tôi, hoặc các bên khác phải chịu bất kỳ tổn hại hoặc trách nhiệm pháp lý nào theo bất kỳ thể loại nào, hoặc phải chịu tai tiếng;
+•
+Bạn sẽ không mạo danh bất kỳ người hoặc thực thể nào, hoặc tuyên bố sai lệch hoặc thể hiện sai theo cách khác về sự liên kết của Bạn với một người hoặc thực thể;
+•
+Chúng Tôi, và đối tác theo dõi logistic của Chúng Tôi không có bất kỳ nghĩa vụ nào để lưu trữ, giữ lại, công bố hoặc cung cấp bất kỳ Nội Dung Theo Dõi nào, và Bạn phải chịu trách nhiệm tạo các bản sao dự phòng của bất kỳ Nội Dung Theo Dõi nào như vậy nếu cần thiết; và
+•
+Trong mọi trường hợp, Chúng Tôi, hoặc đối tác theo dõi logistic của Chúng Tôi, đều không phải chịu trách nhiệm theo bất kỳ cách nào đối với bất kỳ Nội Dung Theo Dõi nào, bao gồm, nhưng không giới hạn ở bất kỳ lỗi hoặc sự thiếu sót nào trong bất kỳ Nội Dung Theo Dõi nào, hoặc bất kỳ tổn thất hoặc thiệt hại nào theo bất kỳ loại nào mà phát sinh liên quan đến việc sử dụng hoặc tiếp cận với Nội Dung Theo Dõi được cung cấp thông qua trang web hoặc nền tảng của đối tác theo dõi logistic của Chúng Tôi
+.
+4.
+Nhận các khoản thanh toán từ việc mua hàng trên TikTok Shop
+Nếu bạn đang bán Sản Phẩm cho Người Dùng tại Vương Quốc Anh:
+Bất kể các Điều Khoản còn lại (bao gồm nhưng không giới hạn ở Điều Khoản 5 (
+TikTok Shop Là Gì
+) và Điều Khoản 11 (
+Phí Dịch Vụ
+)), và bất kỳ điều khoản nào khác như được quy định trong các tài liệu được dẫn chiếu trong các Điều Khoản này, Bạn thừa nhận rằng Chúng Tôi không phải là đại lý thu hộ của Bạn, và Chúng Tôi không xử lý bất kỳ khoản thanh toán hoặc hoàn tiền nào cho Bạn, tiếp nhận hoặc xử lý khoản thanh toán từ hoặc cho Người Mua, chuyển khoản thanh toán đến cho hoặc từ Bạn, hoặc cung cấp bất kỳ dịch vụ quản lý khách hàng hoặc dịch vụ xử lý thanh toán nào khác cho Bạn, Người Mua, Người Sáng Tạo hoặc bất kỳ bên nào khác, trong bất kỳ trường hợp nào. Các dịch vụ nêu trên (“
+Dịch Vụ Thanh Toán
+”) sẽ được cung cấp cho Bạn bởi bên liên kết của Chúng Tôi, PIPO SG bằng khả năng của chính PIPO SG hoặc thông qua bên liên kết của PIPO SG (mà không phải chúng tôi) hoặc các đối tác khác do PIPO SG liên kết.
+Như một điều kiện để sử dụng TikTok Shop, Bạn phải ký kết thỏa thuận dịch vụ thanh toán cho người bán (“
+Thỏa Thuận Dịch Vụ Thanh Toán Cho Người Bán
+”) với PIPO SG:
+Thỏa Thuận Dịch Vụ Cho Người Bán
+, mà thỏa thuận này quy định các điều khoản và điều kiện của Dịch Vụ Thanh Toán mà PIPO SG có thể đồng ý cung cấp cho Bạn. Nếu Bạn không ký kết Thỏa Thuận Dịch Vụ Thanh Toán Cho Người Bán với PIPO SG, Chúng Tôi sẽ không thể cung cấp TikTok Shop cho Bạn, bởi vì Chúng Tôi sẽ không thể cung cấp bất kỳ Dịch Vụ Thanh Toán nào cho Bạn, mà điều đó có nghĩa là Bạn sẽ không nhận được khoản thanh toán cho Sản Phẩm của Bạn được bán cho Người Mua ở Vương Quốc Anh trên TikTok Shop.
+Để tránh nghi ngờ, Bạn thừa nhận và đồng ý rằng mặc dù Chúng Tôi có thể thay mặt Bạn cung cấp hướng dẫn cho PIPO SG để tạo điều kiện hoặc hỗ trợ các Dịch Vụ Thanh Toán mà PIPO SG cung cấp cho Bạn theo các điều khoản trong giấy ủy quyền như được quy định dưới đây, bất kỳ Dịch Vụ Thanh Toán nào mà PIPO SG cung cấp cho Bạn sẽ được PIPO SG cung cấp theo khả năng riêng của PIPO SG (bao gồm thông qua các bên liên kết hoặc đối tác khác của PIPO SG), và Chúng Tôi không hành động như đại lý hoặc đại diện của PIPO SG liên quan đến các Dịch Vụ Thanh Toán như vậy. Chúng Tôi sẽ không chịu trách nhiệm với bạn về bất kỳ tổn thất nào phải gánh chịu do bất kỳ vi phạm hoặc lỗi nào của PIPO SG theo Thỏa Thuận Dịch Vụ Thanh Toán Cho Người Bán, hoặc bất kỳ thỏa thuận nào khác mà Bạn ký kết với PIPO SG liên quan đến Dịch Vụ Thanh Toán hoặc theo cách khác.
+Nếu bạn đang bán Sản Phẩm cho Người Mua tại Singapore, Malaysia, Thái Lan, Philippines, hoặc Việt Nam:
+Bất kể các Điều Khoản còn lại (bao gồm nhưng không giới hạn ở Điều Khoản 5 (
+TikTok Shop Là Gì
+) và Điều Khoản 11 (
+Phí Dịch Vụ
+)), và bất kỳ điều khoản nào khác như được quy định trong các tài liệu được dẫn chiếu trong các Điều Khoản này, Bạn thừa nhận rằng Chúng Tôi không cung cấp bất kỳ dịch vụ thanh toán nào cho Bạn, bao gồm nhưng không giới hạn ở việc xử lý bất kỳ khoản thanh toán hoặc hoàn tiền nào cho Bạn, tiếp nhận hoặc xử lý khoản thanh toán từ hoặc cho Người Mua, chuyển khoản thanh toán đến cho hoặc từ Bạn, hoặc cung cấp bất kỳ dịch vụ quản lý khách hàng hoặc dịch vụ xử lý thanh toán nào khác (“
+Dịch Vụ Thanh Toán
+”) cho Bạn, Người Mua, Người Sáng Tạo hoặc bất kỳ bên nào khác, trong bất kỳ trường hợp nào. Dịch Vụ Thanh Toán sẽ được cung cấp cho Bạn bởi nhà cung cấp dịch vụ thanh toán bên thứ ba (“
+NCCDVTT Bên Thứ Ba
+”) bằng chính khả năng của NCCDVTT Bên Thứ Ba hoặc thông qua các bên liên kết khác của NCCDVTT Bên Thứ Ba hoặc các đối tác khác liên kết với NCCDVTT Bên Thứ Ba. Để tránh nghi ngờ, NCCDVTT Bên Thứ Ba sẽ liên kết với nhà cung cấp dịch vụ tài chính thay mặt người bán được đăng ký để cung cấp dịch vụ tài chính cho người bán.
+Như một điều kiện để sử dụng TikTok Shop, Bạn phải ký kết thỏa thuận dịch vụ thanh toán cho người bán (“
+Thỏa Thuận Dịch Vụ Thanh Toán Cho Người Bán
+”) với NCCDVTT Bên Thứ Ba:
+Thỏa Thuận Dịch Vụ Thanh Toán XBorder Cho Người Bán
+(
+Việt Nam
+,
+Thái Lan
+,
+Malaysia
+,
+Philippines
+,
+Singapore
+), mà thỏa thuận này quy định các điều khoản và điều kiện của Dịch Vụ Thanh Toán mà NCCDVTT Bên Thứ Ba có thể đồng ý cung cấp cho Bạn. Bằng việc đồng ý với các Điều Khoản này, Bạn đồng ý bị ràng buộc bởi
+Thỏa Thuận Dịch Vụ Thanh Toán Cho Người Bán
+với NCCDVTT Bên Thứ Ba. Nếu Bạn không ký kết
+Thỏa Thuận Dịch Vụ Thanh Toán Cho Người Bán
+với NCCDVTT Bên Thứ Ba, Chúng Tôi sẽ không thể cung cấp TikTok Shop cho Bạn, bởi vì NCCDVTT Bên Thứ Ba sẽ không thể cung cấp bất kỳ Dịch Vụ Thanh Toán nào cho Bạn, mà điều đó có nghĩa là Bạn sẽ không nhận được khoản thanh toán cho Sản Phẩm của Bạn được bán cho Người Mua tại Malaysia, Thái Lan, Vương Quốc Anh, hoặc Việt Nam trên TikTok Shop.
+Để tránh nghi ngờ, Bạn thừa nhận và đồng ý rằng mặc dù Chúng Tôi có thể thay mặt Bạn cung cấp hướng dẫn cho NCCDVTT Bên Thứ Ba để tạo điều kiện hoặc hỗ trợ các Dịch Vụ Thanh Toán mà NCCDVTT Bên Thứ Ba cung cấp cho Bạn, bất kỳ Dịch Vụ Thanh Toán nào mà NCCDVTT Bên Thứ Ba cung cấp cho Bạn sẽ được NCCDVTT Bên Thứ Ba cung cấp theo khả năng riêng của NCCDVTT Bên Thứ Ba (bao gồm thông qua các bên liên kết hoặc đối tác khác của NCCDVTT Bên Thứ Ba), và Chúng Tôi không hành động như đại lý hoặc đại diện của NCCDVTT Bên Thứ Ba liên quan đến các Dịch Vụ Thanh Toán như vậy. Chúng Tôi sẽ không chịu trách nhiệm với Bạn về bất kỳ tổn thất nào phải gánh chịu do bất kỳ vi phạm hoặc lỗi nào của NCCDVTT Bên Thứ Ba theo Thỏa Thuận Dịch Vụ Thanh Toán Cho Người Bán, hoặc bất kỳ thỏa thuận nào khác mà Bạn ký kết với NCCDVTT Bên Thứ Ba liên quan đến Dịch Vụ Thanh Toán hoặc theo cách khác.
+Nếu bạn đang bán Sản Phẩm cho Người Mua tại Hoa Kỳ
+Như một điều kiện để sử dụng TikTok Shop, Bạn phải ký kết thỏa thuận dịch vụ thanh toán cho người bán (“
+Thỏa Thuận Dịch Vụ Thanh Toán Cho Người Bán
+”) với PIPO SG: Thỏa Thuận Dịch Vụ Thanh Toán Cho Người Bán, mà thỏa thuận này quy định các điều khoản và điều kiện của Dịch Vụ Thanh Toán mà PIPO SG có thể đồng ý cung cấp cho Bạn. Nếu Bạn không ký kết
+Thỏa Thuận Dịch Vụ Thanh Toán Cho Người Bán
+với PIPO SG, Chúng Tôi sẽ không thể cung cấp TikTok Shop cho Bạn, bởi vì Chúng Tôi sẽ không thể cung cấp bất kỳ Dịch Vụ Thanh Toán nào cho Bạn, mà điều đó có nghĩa là Bạn sẽ không nhận được khoản thanh toán cho Sản Phẩm của Bạn được bán cho Người Mua ở Hoa Kỳ.
+Bạn thừa nhận rằng với tư cách là nhà cung cấp TikTok Shop, Chúng Tôi sẽ có thông tin về các giao dịch (bao gồm đơn đặt hàng, giao kết giao dịch mua bán, thanh toán và hoàn tiền được thực hiện giữa Người Mua và Bạn). Vì vậy, sẽ hiệu quả và phù hợp hơn khi Chúng Tôi cung cấp hướng dẫn cho PIPO SG thay mặt Bạn, để tạo điều kiện và hỗ trợ các Dịch Vụ Thanh Toán mà PIPO SG cung cấp cho Bạn.
+Liên quan đến việc này, Bạn thừa nhận và đồng ý cho Chúng Tôi thay mặt Bạn để cung cấp thông tin và hướng dẫn cho PIPO SG, để PIPO SG (bao gồm cả việc thông qua Bên Liên Kết hoặc Đối Tác của PIPO SG) có thể thực hiện Dịch Vụ Thanh Toán cho Bạn. Không giới hạn quy định trên, Bạn ủy quyền cho Chúng Tôi để thông báo cho PIPO SG về các sự kiện sau:
+• có hay không bất kỳ yêu cầu hoàn tiền, yêu cầu hoàn trả hoặc tranh chấp nào do Người Mua đưa ra trong vòng 14 ngày kể từ ngày trạng thái đơn đặt hàng trên TikTok Shop được thay đổi thành “đã giao hàng”, việc hoàn tất bất kỳ thỏa thuận giải quyết nào giữa Người Mua và Bạn do yêu cầu hoàn tiền, yêu cầu hoàn trả hoặc tranh chấp được đưa ra, và cách thức xử lý các khoản tiền theo thỏa thuận giải quyết như vậy;
+• bất kỳ lệnh, chỉ thị, bản án hoặc phán quyết nào từ tòa án, hội đồng trọng tài hoặc cơ quan có thẩm quyền mà chỉ đạo về việc giải ngân các khoản tiền;
+• số tiền được khấu trừ từ các khoản thanh toán từ Người Mua trả cho Chúng Tôi hoặc bất kỳ bên liên kết hoặc bên nào khác, bao gồm bất kỳ khoản phí nền tảng và phí logistic nào trả cho Chúng Tôi, và bất kỳ khoản Hoa Hồng Cho Người Sáng Tạo nào (như được định nghĩa dưới đây) mà được trả cho Người Sáng Tạo theo thỏa thuận giữa Bạn và Người Sáng Tạo;
+• số tiền được khấu trừ từ các khoản thanh toán được trả cho Bạn cho các khoản thanh toán Hoa Hồng Cho Người Sáng Tạo, nếu Người Mua được hoàn tiền thành công sau 14 ngày theo lịch kể từ khi trạng thái đơn đặt hàng được thay đổi thành “đã giao hàng”;
+• bất kỳ thông tin nào khác liên quan đến các giao dịch giữa Người Mua và Bạn, bao gồm giao dịch mua bán, hoàn tiền hoặc hủy bỏ, như được xác định bởi Chúng Tôi hoặc khác đi theo các điều khoản được quy định trong các Điều Khoản này, các Chính Sách Về TikTok Shop hoặc bất kỳ điều khoản nào khác theo thỏa thuận giữa Bạn và Chúng Tôi.
+5.
+Giấy Ủy Quyền
+Nếu bạn đang bán Sản Phẩm cho Người Dùng tại Vương Quốc Anh:
+Bạn thừa nhận rằng với tư cách là nhà cung cấp TikTok Shop, Chúng Tôi sẽ có thông tin về các giao dịch (bao gồm đơn đặt hàng, giao kết giao dịch mua bán, các khoản thanh toán và hoàn tiền được thực hiện giữa Người Mua và Bạn). Vì vậy, sẽ hiệu quả và phù hợp hơn khi Chúng Tôi cung cấp hướng dẫn cho PIPO SG thay mặt Bạn, để tạo điều kiện và hỗ trợ các Dịch Vụ Thanh Toán mà PIPO SG cung cấp cho Bạn.
+Liên quan đến việc này, Bạn chỉ định Chúng Tôi làm người đại diện và cho phép Chúng Tôi thay mặt Bạn cung cấp thông tin và hướng dẫn cho PIPO SG, để PIPO SG có thể thực hiện Dịch Vụ Thanh Toán cho Bạn. Không giới hạn quy định trên, Bạn ủy quyền cho Chúng Tôi để thông báo cho PIPO SG về các sự kiện sau:
+•
+có hay không bất kỳ yêu cầu hoàn tiền, yêu cầu hoàn trả hoặc tranh chấp nào do Người Mua đưa ra trong vòng 14 ngày kể từ ngày trạng thái đơn đặt hàng trên TikTok Shop được thay đổi thành “đã giao hàng”, việc hoàn tất bất kỳ thỏa thuận giải quyết nào giữa Người Mua và Bạn do yêu cầu hoàn tiền, yêu cầu hoàn trả hoặc tranh chấp được đưa ra, và cách thức xử lý các khoản tiền theo thỏa thuận giải quyết như vậy;
+•
+bất kỳ lệnh, phán quyết, quyết định hoặc bản án nào của tòa án, hội đồng trọng tài hoặc cơ quan có thẩm quyền mà chỉ thị việc giải ngân hoặc thanh toán tiền;
+•
+khoản tiền mà sẽ được trừ từ các khoản thanh toán mà sẽ được thanh toán cho Bạn đối với khoản thanh toán Hoa Hồng Cho Người Sáng Tạo, nếu Người Mua được hoàn tiền thành công sau 14 ngày dương lịch kể từ khi có thay đổi trạng thái đơn đặt hàng thành “đã giao hàng”; và
+•
+bất kỳ thông tin nào khác liên quan đến giao dịch giữa Người Mua và Bạn, bao gồm việc bán hàng, hoàn tiền hoặc hủy đơn, như được Chúng Tôi xác định hoặc theo cách khác tuân thủ các điều khoản như được quy định trong các Điều Khoản này, Chính Sách Quyền Riêng Tư Của TikTok Shop hoặc bất kỳ điều khoản nào khác theo thỏa thuận giữa Bạn và Chúng Tôi.
+6.
+Dịch Vụ Thanh Toán
+Nếu Bạn đang bán Sản Phẩm cho Người Mua tại Malaysia, Thái Lan, Philippines, hoặc Việt Nam:
+Bạn thừa nhận rằng với tư cách là nhà cung cấp TikTok Shop, Chúng Tôi sẽ có thông tin về các giao dịch (bao gồm đơn đặt hàng, giao kết giao dịch mua bán, các khoản thanh toán và hoàn tiền được thực hiện giữa Người Mua và Bạn). Vì vậy, sẽ hiệu quả và phù hợp hơn khi Chúng Tôi cung cấp hướng dẫn cho NCCDVTT Bên Thứ Ba thay mặt cho Bạn, để tạo điều kiện và hỗ trợ các Dịch Vụ Thanh Toán mà NCCDVTT Bên Thứ Ba cung cấp cho Bạn.
+Liên quan đến việc này, Bạn thừa nhận và đồng ý để Chúng Tôi thay mặt Bạn cung cấp thông tin và hướng dẫn cho NCCDVTT Bên Thứ Ba, để NCCDVTT Bên Thứ Ba (bao gồm thông qua Bên Liên Kết hoặc Đối Tác khác của NCCDVTT Bên Thứ Ba) có thể thực hiện Dịch Vụ Thanh Toán cho Bạn. Không giới hạn quy định trên đây, Bạn ủy quyền cho Chúng Tôi để thông báo cho NCCDVTT Bên Thứ Ba về các sự kiện sau:
+•
+có hay không bất kỳ yêu cầu hoàn tiền, yêu cầu hoàn trả hoặc tranh chấp nào do Người Mua đưa ra trong vòng 14 ngày kể từ ngày trạng thái đơn đặt hàng trên TikTok Shop được thay đổi thành “đã giao hàng”, việc hoàn tất bất kỳ thỏa thuận giải quyết nào giữa Người Mua và Bạn do yêu cầu hoàn tiền, yêu cầu hoàn trả hoặc tranh chấp được đưa ra, và cách thức xử lý các khoản tiền theo thỏa thuận giải quyết như vậy;
+•
+bất kỳ lệnh, phán quyết, quyết định hoặc bản án nào của tòa án, hội đồng trọng tài hoặc cơ quan có thẩm quyền mà chỉ thị việc giải ngân hoặc thanh toán tiền;
+•
+các khoản tiền mà sẽ được khấu trừ từ các khoản thanh toán từ Người Mua mà phải trả cho Chúng Tôi hoặc bất kỳ bên liên kết hoặc bên nào khác, bao gồm bất kỳ phí nền tảng và phí dịch vụ logistic nào mà phải trả cho Chúng Tôi, và bất kỳ khoản Hoa Hồng Cho Người Sáng Tạo nào (được định nghĩa dưới đây) mà phải trả cho Người Sáng Tạo theo thỏa thuận giữa Bạn và Người Sáng Tạo;
+•
+khoản tiền mà sẽ được trừ từ các khoản thanh toán mà sẽ được thanh toán cho Bạn đối với khoản thanh toán Hoa Hồng Cho Người Sáng Tạo, nếu Người Mua được hoàn tiền thành công sau 14 ngày dương lịch kể từ khi có thay đổi trạng thái đơn đặt hàng thành “đã giao hàng”; và
+•
+bất kỳ thông tin nào khác liên quan đến giao dịch giữa Người Mua và Bạn, bao gồm việc bán hàng, hoàn tiền hoặc hủy đơn, như được Chúng Tôi xác định hoặc theo cách khác tuân thủ các điều khoản như được quy định trong các Điều Khoản này, Chính Sách Quyền Riêng Tư Của TikTok Shop hoặc bất kỳ điều khoản nào khác theo thỏa thuận giữa Bạn và Chúng Tôi.
+7.
+Khấu trừ các khoản thanh toán cho Người Sáng Tạo và Chúng Tôi
+Bạn thừa nhận rằng một phần của các khoản thanh toán từ Người Mua sẽ được khấu trừ và trả cho Người Sáng Tạo, như là khoản phí Bạn phải trả cho Người Sáng Tạo (“
+Hoa Hồng Cho Người Sáng Tạo
+”) như thỏa thuận giữa Bạn và Người Sáng Tạo tương ứng. Bạn cũng thừa nhận rằng một phần của các khoản thanh toán từ Người Mua sẽ được khấu trừ và trả cho Chúng Tôi như là Phí Dịch Vụ đối với việc sử dụng TikTok Shop.
+Dịch Vụ Thanh Toán được cung cấp cho Người Sáng Tạo và Chúng Tôi bởi bên thanh toán thứ ba (“
+Cổng Thanh Toán Bên Thứ Ba
+”). Cổng Thanh Toán Bên Thứ Ba sẽ cho phép Người Sáng Tạo truy cập đến Hoa Hồng Cho Người Sáng Tạo, theo các điều khoản của thỏa thuận ký kết giữa Cổng Thanh Toán Bên Thứ Ba và Người Sáng Tạo, và sẽ khấu trừ và quyết toán Phí Dịch Vụ cho Chúng Tôi, bao gồm bất kỳ khoản phí nền tảng và phí dịch vụ logistic nào.
+Bạn thừa nhận và đồng ý rằng, với tư cách là bên cung cấp Tính Năng Liên Kết và TikTok Shop, Chúng Tôi có thể cung cấp tất cả thông tin liên quan đến các thỏa thuận giữa Bạn và Người Sáng Tạo, các giao dịch giữa Bạn và Người Mua và bất kỳ thẩm quyền nào được cấp cho Chúng Tôi, để Cổng Thanh Toán Bên Thứ Ba có thể cung cấp Dịch Vụ Thanh Toán cho Người Sáng Tạo và quyết toán Phí Dịch Vụ cho Chúng Tôi, bao gồm nhưng không giới hạn ở:
+•
+các khoản tiền mà sẽ được khấu trừ từ các khoản thanh toán từ Người Mua mà phải trả cho Chúng Tôi hoặc bất kỳ bên liên kết hoặc bên nào khác, bao gồm bất kỳ phí nền tảng và phí dịch vụ logistic nào mà phải trả cho Chúng Tôi, và bất kỳ khoản Hoa Hồng Cho Người Sáng Tạo nào mà phải trả cho Người Sáng Tạo theo thỏa thuận giữa Bạn và Người Sáng Tạo thông qua Tính Năng Liên Kết;
+•
+có hay không bất kỳ yêu cầu hoàn tiền, yêu cầu hoàn trả hoặc tranh chấp nào do Người Mua đưa ra trong vòng 14 ngày kể từ ngày trạng thái đơn đặt hàng trên TikTok Shop được thay đổi thành “đã giao hàng”, việc hoàn tất bất kỳ thỏa thuận giải quyết nào giữa Người Mua và Bạn do yêu cầu hoàn tiền, yêu cầu hoàn trả hoặc tranh chấp được đưa ra, và cách thức xử lý các khoản tiền theo thỏa thuận giải quyết như vậy;
+•
+bất kỳ lệnh, phán quyết, quyết định hoặc bản án nào của tòa án, hội đồng trọng tài hoặc cơ quan có thẩm quyền mà chỉ thị việc giải ngân hoặc thanh toán tiền;
+•
+khoản tiền mà sẽ được trừ từ các khoản thanh toán mà sẽ được thanh toán cho Bạn đối với khoản thanh toán Hoa Hồng Cho Người Sáng Tạo, nếu Người Mua được hoàn tiền thành công sau 14 ngày dương lịch kể từ khi có thay đổi trạng thái đơn đặt hàng thành “đã giao hàng”; và
+•
+bất kỳ thông tin nào khác liên quan đến giao dịch giữa Người Mua và Bạn, bao gồm việc bán hàng, hoàn tiền hoặc hủy đơn, như được Chúng Tôi xác định hoặc theo cách khác tuân thủ các điều khoản như được quy định trong Thỏa Thuận này, Chính Sách Quyền Riêng Tư Của TikTok Shop hoặc bất kỳ điều khoản nào khác theo thỏa thuận giữa Bạn và Chúng Tôi.
+Để tránh nhầm lẫn, Bạn thừa nhận và đồng ý rằng mặc dù Chúng Tôi có thể thay mặt Người Sáng Tạo cung cấp hướng dẫn cho Cổng Thanh Toán Bên Thứ Ba để tạo điều kiện hoặc hỗ trợ các Dịch Vụ Thanh Toán mà Cổng Thanh Toán Bên Thứ Ba cung cấp cho Người Sáng Tạo, bất kỳ Dịch Vụ Thanh Toán nào mà Cổng Thanh Toán Bên Thứ Ba cung cấp cho Người Sáng Tạo sẽ được Cổng Thanh Toán Bên Thứ Ba cung cấp theo khả năng riêng của Cổng Thanh Toán Bên Thứ Ba.
+8.
+Các Điều Khoản Bổ Sung cho TikTok Shop Hoa Kỳ
+8.1 Nếu Bạn đang bán Sản Phẩm cho Người Mua tại Hoa Kỳ, Bạn cũng đồng ý tuân thủ Điều Khoản Dịch Vụ Dành Cho Người Bán Trên TikTok Shop dành cho người bán tại Hoa Kỳ (“
+Điều Khoản Dành Cho Người Bán Địa Phương TTS Hoa Kỳ
+”), ngoài các quy định của Phần VI Trung Quốc này (“
+Điều Khoản Bổ Sung Dành Cho Người Bán Xuyên Biên Giới TTS Hoa Kỳ
+”). Điều Khoản Dành Cho Người Bán Địa Phương TTS Hoa Kỳ, Điều Khoản Bổ Sung Dành Cho Người Bán Xuyên Biên Giới TTS Hoa Kỳ và phần còn lại của Điều Khoản này sau đây được gọi chung là “
+Điều Khoản Dành Cho Người Bán Xuyên Biên Giới TTS Hoa Kỳ
+”.
+8.2 Trong trường hợp có bất kỳ xung đột hoặc mâu thuẫn nào giữa Điều Khoản Bổ Sung Dành Cho Người Bán Xuyên Biên Giới TTS Hoa Kỳ, Điều Khoản Dành Cho Người Bán Địa Phương TTS Hoa Kỳ và phần còn lại của Điều Khoản này, xung đột hoặc mâu thuẫn đó sẽ được giải quyết theo thứ tự ưu tiên sau: (i) Điều Khoản Bổ Sung Dành Cho Người Bán Xuyên Biên Giới TTS Hoa Kỳ, (ii) Điều Khoản Dành Cho Người Bán Địa Phương TTS Hoa Kỳ và (iii) phần còn lại của Điều khoản này.
+8.3
+Tuân Thủ Lao Động
+8.3.1 Bạn phải đảm bảo rằng bản thân Bạn và các nhà cung cấp của Bạn tuân thủ tất cả các luật và quy định hiện hành (bao gồm pháp luật lao động địa phương và quốc gia cũng như Đạo Luật Nô Lệ Hiện Đại năm 2015 của Vương Quốc Anh và các luật tương tự như vậy liên quan đến lao động cưỡng bức) để bảo vệ quyền và lợi ích hợp pháp của nhân viên và công nhân. Bạn sẽ tiến hành thẩm định xem các nhà cung cấp của Bạn có hành vi cưỡng bức hoặc bắt buộc lao động và các vi phạm khác đối với pháp luật và quy định về lao động hay không, và trong vòng 3 (ba) năm sau khi chấm dứt hoặc hủy bỏ Điều Khoản Dành Cho Người Bán Xuyên Biên Giới TTS Hoa Kỳ, Bạn sẽ duy trì đầy đủ và chính xác hồ sơ về việc thẩm định các nhà cung cấp của Bạn.
+8.3.2 Bạn phải đảm bảo rằng Bạn và chuỗi cung ứng của Bạn không có nô lệ hiện đại, nạn buôn người, lao động trẻ em, lao động bất hợp pháp, lao động cưỡng bức hoặc bắt buộc, quấy rối, phân biệt đối xử hoặc các hành vi vi phạm pháp luật lao động hiện hành khác (“
+Vi Phạm Lao Động
+”). Để thực hiện những điều đã nêu trên, Bạn phải thiết lập các hệ thống quản lý để giám sát và giải quyết mọi Vi Phạm Lao Động trong các hoạt động của mình và trong chuỗi cung ứng của bạn.
+(1)
+Bạn phải tiến hành thẩm định về sự tồn tại của các Vi Phạm Lao Động trong các hoạt động của chính Bạn và trong chuỗi cung ứng của bạn, đồng thời phải duy trì hồ sơ thẩm tra đầy đủ và chính xác trong thời hạn của Điều Khoản Dành Cho Người Bán Xuyên Biên Giới TTS Hoa Kỳ và trong ba (3) năm sau khi chấm dứt hoặc hủy bỏ Điều Khoản Dành Cho Người Bán Xuyên Biên Giới TTS Hoa Kỳ.
+(2)
+TikTok có thể tiến hành thẩm định Bạn để đánh giá xem có Vi Phạm Lao Động hay không thông qua kiểm tra và/hoặc các công cụ đánh giá khác, tùy theo từng trường hợp và Bạn đồng ý hợp tác đầy đủ, bao gồm trong mọi cuộc kiểm tra không báo trước hoặc có thông báo trước về thời gian không chi tiết hoặc các hoạt động tham gia của nhân viên mà TikTok có thể yêu cầu (bao gồm thông qua bên thứ ba).
+(3)
+Trong trường hợp Bạn xác định được sự cố hoặc rủi ro về lao động cưỡng bức hoặc bắt buộc trong các hoạt động của chính Bạn hoặc trong chuỗi cung ứng của mình, Bạn sẽ ngay lập tức (a) thực hiện các bước hợp lý và thích hợp để khắc phục sự cố đó hoặc giảm thiểu rủi ro đó (bao gồm cả việc cung cấp một biện pháp khắc phục thích hợp cho nạn nhân của sự cố đó); và (b) thông báo cho TikTok về sự cố hoặc rủi ro đó và các bước mà Bạn đã thực hiện để khắc phục sự cố đó hoặc giảm thiểu rủi ro đó.
+Bạn đảm bảo rằng Bạn đã thiết lập (hoặc cam kết Bạn sẽ áp dụng trong vòng 15 ngày làm việc kể từ ngày bắt đầu áp dụng Điều Khoản Dành Cho Người Bán Xuyên Biên Giới TTS Hoa Kỳ) một chương trình đào tạo được thiết kế để đảm bảo rằng các thành viên có liên quan trong đội ngũ nhân viên của Bạn (đặc biệt là những người chịu trách nhiệm cho việc thực hiện) hiểu Vi Phạm Lao Động là gì, hiểu pháp luật hiện hành của địa phương và quốc gia liên quan đến Vi Phạm Lao Động, đồng thời biết các quy trình của Bạn để xác định rủi ro Vi Phạm Lao Động xảy ra trong chuỗi cung ứng của mình và các bước có thể thực hiện để giảm thiểu những rủi ro đó.
+8.3.3 Bạn phải (và sẽ yêu cầu bất kỳ nhà cung cấp hoặc nhà thầu phụ nào của Bạn phải):
+(3)
+đảm bảo tất cả các công việc làm thêm giờ là tự nguyện;
+(2)
+xác minh tất cả người lao động được phép làm việc phù hợp trước khi tuyển dụng;
+(3)
+không thu phí tuyển dụng lao động, kể cả thông qua đại lý hoặc môi giới lao động;
+(4)
+không cản trở người lao động tiếp cận các giấy tờ tùy thân hoặc tài sản có giá trị khác của họ;
+(3)
+cho phép người lao động chấm dứt việc làm khi có thông báo hợp lý; không được trừ lương, khấu trừ lương, chậm lương, trả lương sai quy định.
+8.3.4 Nếu Bạn (hoặc nhà cung cấp của Bạn) vi phạm bất kỳ tuyên bố và bảo đảm nào trong Mục 8.3.1, 8.3.2 và 8.3.3 ở trên, TikTok sẽ có quyền chấm dứt Điều Khoản Dành Cho Người Bán Xuyên Biên Giới TTS Hoa Kỳ, và Bạn sẽ bồi thường cho TikTok theo yêu cầu đối với tất cả các Tổn thất mà TikTok phải gánh chịu hoặc phát sinh do vi phạm đó.
+8.4 Tuân Thủ Về Thương Mại
+8.4.1 Khi thực hiện Thỏa Thuận này, Bạn:
+(1) đồng ý tuân thủ tất cả các luật và quy định hiện hành về trừng phạt thương mại, kinh tế và tài chính, cấm vận thương mại, kiểm soát xuất khẩu và các biện pháp hạn chế khác, bao gồm cả những biện pháp do Hội Đồng Bảo An Liên Hợp Quốc, Văn phòng Kiểm soát Tài sản Nước ngoài (OFAC) của Bộ Tài Chính Hoa Kỳ, Cục Công Nghiệp và An Ninh (BIS) của Bộ Thương Mại Hoa Kỳ, Bộ Thương Mại CHND Trung Hoa, Văn Phòng Thực Thi Trừng Phạt Tài Chính (OFSI) của Vương Quốc Anh và Hội Đồng Liên Minh Châu Âu (gọi chung là “
+Biện Pháp Kiểm Soát Thương Mại
+”) ; và
+(2) sẽ không, trực tiếp hoặc gián tiếp, tham gia vào bất kỳ hoạt động kinh doanh hoặc giao dịch trái phép nào trong hoặc với bất kỳ Quốc Gia Bị Trừng Phạt hoặc Bên Bị Trừng Phạt nào, hoặc tham gia vào bất kỳ hoạt động nào bị cấm bởi, hoặc điều đó sẽ khiến TikTok có nguy cơ bị trừng phạt theo, Biện Pháp Kiểm Soát Thương Mại hiện hành.
+8.4.2 Bạn cam đoan và đảm bảo rằng cả Bạn, các công ty con của Bạn cũng như bất kỳ giám đốc, cán bộ, nhân viên, đại lý hoặc chi nhánh tương ứng nào đều không là:
+(1) một cá nhân hoặc tổ chức mà
+(a) có trụ sở, được tổ chức hoặc cư trú tại một quốc gia hoặc vùng lãnh thổ mà đang hoặc có thể, tùy thời điểm, là mục tiêu hoặc đối tượng của các biện pháp trừng phạt toàn diện (“
+Quốc Gia Bị Trừng Phạt
+”);
+(b) mục tiêu hoặc đối tượng của bất kỳ Biện Pháp Kiểm Soát Thương Mại hiện hành nào, bao gồm, nhưng không giới hạn, người có tài sản hoặc quyền lợi đối với tài sản bị phong tỏa hoặc đóng băng, hoặc người được chỉ định trong Danh Sách Công Dân Bị Chỉ Định Đặc Biệt và Người Bị Phong Tỏa (SDN) của OFAC, Danh Sách Thực Thể BIS, Danh Sách Thực Thể Không Đáng Tin Cậy của CHND Trung Hoa, Danh Sách Trừng Phạt Tài Chính Hợp Nhất của Liên Minh Châu Âu, Danh Sách Mục Tiêu Trừng Phạt Tài Chính Hợp Nhất của OFSI hoặc Danh Sách Trừng Phạt Hợp Nhất của Hội Đồng Bảo An Liên Hợp Quốc; hoặc
+(c) sở hữu từ 50 phần trăm trở lên, được kiểm soát bởi hoặc hành động thay mặt cho một hoặc nhiều bên được mô tả trong (a) hoặc (b) ở trên (1(a), (b) và (c) sau đây được gọi chung là “
+Bên Bị Trừng Phạt
+”); hoặc
+(2) tham gia, trực tiếp hoặc gián tiếp, vào hoạt động kinh doanh hoặc giao dịch trái phép tại hoặc với Quốc Gia Bị Trừng Phạt hoặc Bên Bị Trừng Phạt.
+8.4.3 Nếu bất kỳ sự kiện nào sau đây xảy ra (mỗi sự kiện được gọi là “
+Sự Kiện Trừng Phạt
+”), TikTok có thể chấm dứt Điều Khoản Dành Cho Người Bán Xuyên Biên Giới TTS Hoa Kỳ với hiệu lực ngay lập tức:
+(1) Bạn trở thành Bên Bị Trừng Phạt;
+(2) TikTok, theo quyết định riêng và tuyệt đối của mình, xác định rằng Bạn đã vi phạm bất kỳ tuyên bố, bảo đảm hoặc cam kết nào trong điều khoản này; hoặc
+(3) TikTok, theo toàn quyền quyết định của mình, xác định rằng Bạn không thể thực hiện các nghĩa vụ của mình theo Điều Khoản Dành Cho Người Bán Xuyên Biên Giới TTS Hoa này do các lệnh cấm hoặc nguy cơ bị trừng phạt, theo Biện Pháp Kiểm Soát Thương Mại hiện hành.
+8.4.4 Bạn sẽ giữ cho TikTok vô hại trước mọi trách nhiệm pháp lý và, trong phạm vi được cho phép bởi Biện Pháp Kiểm Soát Thương Mại hiện hành, bồi thường cho TikTok mọi chi phí, phí tổn, thiệt hại và tổn thất mà TikTok phải gánh chịu phát sinh từ Sự Kiện Trừng Phạt.
+8.4.5 Bạn phải phân loại mọi hàng hóa, công nghệ, phần mềm hoặc các mặt hàng khác được cung cấp cho TikTok theo Điều Khoản Dành Cho Người Bán Xuyên Biên Giới TTS Hoa Kỳ, xin các giấy phép cần thiết nếu có và cung cấp cho TikTok thông tin phân loại chính xác và cập nhật nhất, bao gồm nhưng không giới hạn ở các quyết định về Mã Số Phân Loại Kiểm Soát Xuất Khẩu (“
+ECCN
+”), Phân Loại Hàng Hóa (“
+CCATS
+”) và giấy phép chứng nhận.
+8.5. Kiểm toán
+8.5.1 Trong thời hạn của Điều Khoản Dành Cho Người Bán Xuyên Biên Giới TTS Hoa Kỳ và trong vòng ba (3) năm sau khi chấm dứt hoặc hủy bỏ Thỏa Thuận này, Bạn phải lưu giữ hồ sơ đầy đủ và chính xác về hoạt động của mình theo Điều Khoản Dành Cho Người Bán Xuyên Biên Giới TTS Hoa Kỳ.
+8.5.2 Bạn phải cho phép TikTok (hoặc các cố vấn chuyên nghiệp của TikTok) truy cập các cơ sở của Bạn, truy cập các hệ thống liên quan đến việc thực hiện Điều Khoản Dành Cho Người Bán Xuyên Biên Giới TTS Hoa Kỳ và xem xét/kiểm tra Hồ Sơ liên quan đến việc thực hiện Điều Khoản Dành Cho Người Bán Xuyên Biên Giới TTS Hoa Kỳ mà không cần thông báo trước để:
+(1)
+xác minh rằng Bạn đang tuân thủ các điều khoản của Điều Khoản Dành Cho Người Bán Xuyên Biên Giới TTS Hoa Kỳ, tiêu chuẩn cao về điều kiện làm việc an toàn, đối xử công bằng và tôn trọng nhân viên cũng như các quy tắc đạo đức.
+(2)
+xác định các hành vi nghi ngờ gian lận hoặc sai sót kế toán trọng yếu.
+(3)
+tiến hành các cuộc kiểm toán nội bộ và theo luật định của TikTok.
+(4)
+kiểm tra tính toàn vẹn, bảo mật và an toàn của dữ liệu và Thông Tin Bí Mật của TikTok.
+Nếu TikTok nhận thấy Bạn gặp vấn đề trong việc thực hiện Điều Khoản Dành Cho Người Bán Xuyên Biên Giới TTS Hoa Kỳ để tuân thủ theo các quy định của phần này, Bạn sẽ ngay lập tức thực hiện các biện pháp khắc phục hiệu quả sau khi nhận được thông báo từ TikTok và thông báo cho TikTok về các biện pháp khắc phục đã thực hiện.
+8.6 Chúng Tôi sẽ không hành động (và Bạn sẽ không chỉ định Chúng Tôi) với tư cách là người khai báo, nhà nhập khẩu hoặc nhà xuất khẩu trong hồ sơ, hoặc bất kỳ vai trò tương đương nào đối với Sản Phẩm được nhập khẩu hoặc xuất khẩu đến hoặc từ bất kỳ khu vực tài phán nào. Theo pháp luật và yêu cầu của khu vực tài phán của Người Mua và khu vực tài phán mà Sản Phẩm được vận chuyển đi, Bạn sẽ (nếu thích hợp): (i) hành động với tư cách là nhà nhập khẩu và/hoặc nhà xuất khẩu; (ii) chỉ định Người Mua đóng vai trò là nhà nhập khẩu Sản Phẩm (và ủy quyền cho người vận chuyển hành động thay mặt Người Mua); hoặc (iii) chỉ định một bên thứ ba được ủy quyền sẵn sàng và phù hợp để hành động với tư cách đó
+8.7 Luật điều chỉnh. Điều Khoản Dành Cho Người Bán Xuyên Biên Giới TTS Hoa Kỳ và bất kỳ tranh chấp hoặc khiếu nại nào (bao gồm cả tranh chấp hoặc khiếu nại ngoài hợp đồng) phát sinh từ hoặc liên quan đến hoặc đối tượng hoặc sự hình thành của Điều Khoản Dành Cho Người Bán Xuyên Biên Giới TTS Hoa Kỳ sẽ được điều chỉnh và hiểu theo luật của Tiểu Bang California, mà không ảnh hưởng đến xung đột pháp luật của các điều khoản đó, trừ khi được quy định khác trong Mục 8.8.
+8.8 Thỏa Thuận Trọng Tài; Từ Bỏ Khởi Kiện Tập Thể – VUI LÒNG XEM KỸ PHẦN NÀY, VÌ BẠN VÀ TIKTOK CÙNG ĐỒNG Ý TỪ BỎ CÁC QUYỀN CỦA MỖI BÊN TRONG VIỆC GIẢI QUYẾT TRANH CHẤP TẠI TÒA ÁN BỞI MỘT THẨM PHÁN HOẶC BỒI THẨM ĐOÀN VÀ ĐỒNG Ý GIẢI QUYẾT BẤT KỲ KHIẾU NẠI HOẶC TRANH CHẤP NÀO VỚI NHAU TRÊN CƠ SỞ CÁ NHÂN BẰNG THỦ TỤC TRỌNG TÀI, TRỪ TRƯỜNG HỢP ĐƯỢC QUY ĐỊNH RÕ RÀNG TRONG MỤC NÀY (“
+THỎA THUẬN TRỌNG TÀI
+”).
+(a)
+Thỏa Thuận Ràng Buộc Trọng Tài Cá Nhân Giữa Bạn và TikTok
+Bạn và TikTok, bao gồm cả những bên thụ hưởng thứ ba, đồng ý rằng mọi tranh chấp, khiếu nại hoặc tranh cãi phát sinh từ hoặc liên quan đến Điều Khoản Dành Cho Người Bán Xuyên Biên Giới TTS Hoa Kỳ hoặc sự tồn tại, vi phạm, chấm dứt, thực thi, diễn giải hoặc hiệu lực của những điều khoản đó sẽ được giải quyết bởi thủ tục trọng tài mang tính ràng buộc, và không phải tại một tòa án. Việc giải quyết bằng thủ tục trọng tài này sẽ chỉ được tiến hành trên cơ sở cá nhân, và Bạn và TikTok đều lần lượt từ bỏ quyền giải quyết tranh chấp tại tòa án bởi một thẩm phán hoặc bồi thẩm đoàn hoặc tham gia với tư cách là nguyên đơn hoặc thành viên tập thể trong bất kỳ thủ tục khiếu kiện tập thể, chung, gộp hoặc hợp nhất nào (và, trong phạm vi tối đa được pháp luật cho phép, thủ tục khiếu kiện đại diện) (“
+Từ Bỏ Khởi Kiện Tập Thể
+”).
+(b)
+Ngoại Lệ với Trọng Tài
+Bất kể bất kỳ điều khoản nào khác trong Điều Khoản Dành Cho Người Bán Xuyên Biên Giới TTS Hoa Kỳ, Thỏa Thuận Trọng Tài này sẽ không yêu cầu việc giải quyết bằng phương thức trọng tài đối với các loại khiếu kiện sau: (a) các vụ kiện tranh chấp nhỏ được đưa ra trên cơ sở cá nhân nằm trong phạm vi thẩm quyền của tòa án khiếu kiện tranh chấp nhỏ đó, (b) các biện pháp khẩn cấp hoặc các biện pháp hợp lý khác để ngăn chặn hành vi xâm phạm trên thực tế hoặc đe dọa xâm phạm, chiếm dụng hoặc vi phạm quyền bảo mật hoặc quyền tác giả, nhãn hiệu, bí mật thương mại, sáng chế hoặc các quyền sở hữu trí tuệ khác của một bên và (c) các khiếu kiện có thể không thuộc thẩm quyền xử lý của trọng tài theo pháp luật áp dụng chung.
+(c)
+Luật và Quy tắc Điều Chỉnh
+Các bên đồng ý và thừa nhận rằng Thỏa Thuận Trọng Tài này là bằng chứng cho một giao dịch liên quan đến thương mại giữa các tiểu bang và Đạo Luật Trọng Tài Liên Bang, 9 USC § 1 et seq. (“
+FAA
+”) sẽ điều chỉnh việc giải thích và thi hành. Thủ tục trọng tài sẽ do Hiệp Hội Trọng Tài Hoa Kỳ (“
+AAA
+”) quản lý theo Quy tắc Trọng tài Thương mại của AAA (“
+Quy tắc AAA
+”) có hiệu lực tại thời điểm đó và các bên đồng ý rằng trọng tài viên (“
+Trọng Tài Viên
+”) sẽ có độc quyền giải quyết các tranh chấp về phạm vi giải quyết của thủ tục trọng tài bao gồm các tranh chấp liên quan đến việc giải thích, khả năng áp dụng, khả năng thi hành, hiệu lực hoặc sự hình thành của Thỏa Thuận Trọng Tài này. Mọi vấn đề không được điều chỉnh bởi FAA và Quy tắc AAA sẽ được giải quyết theo pháp luật bang California trong phạm vi tối đa được cho phép.
+(d)
+Tố Tụng
+Một bên mong muốn tiến hành thủ tục trọng tài phải cung cấp cho bên còn lại Yêu Cầu Trọng Tài bằng văn bản, như quy định trong Quy tắc AAA. Trọng Tài Viên sẽ là (1) một thẩm phán đã nghỉ hưu hoặc (2) một luật sư duy nhất được cấp phép hành nghề ở bang California, do các bên lựa chọn (hoặc do AAA chỉ định nếu các bên không thể đồng thuận) từ danh sách trọng tài viên giải quyết tranh chấp thương mại của AAA. Trừ khi các bên có thỏa thuận khác hoặc Trọng Tài Viên có yêu cầu khác, thủ tục trọng tài sẽ được tiến hành tại Quận Los Angeles, bang California và các khiếu kiện không vượt quá 10.000 USD sẽ chỉ được tiến hành trên cơ sở các tài liệu do các bên cung cấp. Trọng Tài Viên sẽ đưa ra quyết định hợp lý, cuối cùng và ràng buộc, và quyết định về phán quyết của Trọng Tài Viên có thể được đưa ra tại bất kỳ tòa án nào có thẩm quyền thích hợp.
+(e)
+Hiệu Lực Từng Phần
+Nếu bất kỳ phần nào của Thỏa Thuận Trọng Tài bị coi là không thể thi hành hoặc bất hợp pháp vì bất kể lý do gì, (i) điều khoản không thể thi hành hoặc bất hợp pháp đó sẽ bị loại bỏ khỏi Thỏa Thuận Trọng Tài, (ii) phần còn lại của Thỏa Thuận Trọng Tài sẽ có hiệu lực đầy đủ và (iii) việc hủy bỏ điều khoản không thể thi hành hoặc bất hợp pháp sẽ không ảnh hưởng đến phần còn lại của Thỏa Thuận Trọng Tài hoặc khả năng của các bên trong việc bắt buộc thực hiện thủ tục trọng tài đối với bất kỳ khiếu kiện còn lại nào trên cơ sở cá nhân; với điều kiện là việc loại bỏ này sẽ không dẫn đến việc hủy bỏ Từ Bỏ Khởi Kiện Tập Thể trong Mục 8.8(a) theo bất kỳ cách nào cho phép thực hiện thủ tục trọng tài hàng loạt mà các bên không đồng ý rõ ràng.
+Phụ Lục 1
+Điều Khoản Logistic Chặng Cuối Trên TikTok Shop
+Các Điều Khoản Logistic Chặng Cuối Trên TikTok Shop này (“Điều Khoản Logistic”) áp dụng đồng thời với Điều Khoản Dịch Vụ Dành Cho Người Bán khi bạn chấp thuận việc cung cấp dịch vụ logistic bởi TikTok hoặc bên được ủy quyền hoặc nhà thầu phụ của TikTok tùy từng trường hợp (“Chúng Tôi”) cho Bạn (“Dịch Vụ Logistic”) đối với các sản phẩm (“Sản Phẩm”) được bán bởi Bạn cho người mua (“Người Mua”) trên TikTok Shop. Trong phạm vi có bất kỳ sự không thống nhất nào giữa các Điều Khoản Logistic này và Điều Khoản, thì các Điều Khoản Logistic này được ưu tiên áp dụng.
+1.
+Chấp thuận các Điều Khoản Logistic này
+1.1
+Nếu Bạn không đồng ý với các Điều Khoản Logistic này, Bạn không được sử dụng Dịch Vụ Logistic để hoàn thành đơn đặt hàng do Người Mua đặt trên TikTok Shop.
+2.
+Vai trò của TikTok
+2.1
+Không có quy định nào theo Điều Khoản Logistic này được giải thích rằng TikTok là một bên của thỏa thuận giữa Bạn và Người Mua đối với việc mua và bán Sản Phẩm. Việc cung cấp Dịch Vụ Logistic bởi TikTok hoặc bên được ủy quyền hoặc nhà thầu phụ của TikTok cho Bạn không được xem là, rõ ràng hoặc ngụ ý, tuyên bố, bảo đảm hoặc chứng thực bởi TikTok về chất lượng, tính hợp pháp, hoặc tính tuân thủ của Sản Phẩm được bán bởi Bạn. Chỉ mình Bạn phải chịu trách nhiệm đối với Sản Phẩm mà Bạn bán cho Người Mua.
+3.
+Dịch Vụ Logistic Chặng Cuối Từ Địa Phương Đến Địa Phương
+3.1
+Các khoản phí và chi phí áp dụng đối với Dịch Vụ Logistic và điều khoản thanh toán sẽ được quy định tại Seller Centre.
+3.2
+Chúng Tôi có quyền lựa chọn từ chối vận chuyển một số Sản Phẩm nhất định. Chúng Tôi có quyền từ chối cung cấp Dịch Vụ Logistic đối với một Sản Phẩm nếu theo ý kiến của Chúng Tôi, việc xử lý và/hoặc giao Sản Phẩm như vậy là không an toàn, trái pháp luật hoặc không tuân thủ các chính sách của TikTok hoặc của bên được ủy quyền hoặc nhà thầu phụ của TikTok, chẳng hạn như bất kỳ mặt hàng nào được quy định trong Hướng Dẫn Về Hàng Hóa Bị Cấm Trên TikTok Shop (hoặc hàng hóa bị hạn chế theo cách khác), hoặc bất kỳ mặt hàng nào mà không được xác định, mô tả, ghi nhãn hoặc đóng gói phù hợp để đảm bảo việc vận chuyển an toàn.
+3.3
+Chúng Tôi quyết định phương thức vận chuyển. TikTok có thể sử dụng bất kỳ phương thức, tuyến đường, phương tiện và quy trình vận chuyển, lưu trữ, xếp hoặc dở hàng nào, theo quyết định của riêng TikTok cho mục đích thực hiện Dịch Vụ Logistic mà không phải thông báo cho Bạn.
+3.4
+Không muộn hơn 5 ngày trước thời điểm bắt đầu mỗi tháng, Bạn phải đưa ra cho TikTok dự liệu của bạn về: (a) dịch vụ lưu trữ mà Bạn dự định yêu cầu (bao gồm khối lượng Sản Phẩm mà Bạn dự định lưu trữ hoặc không gia lưu trữ mà Bạn dự định yêu cầu); và (b) Dịch Vụ Logistic mà Bạn dự định yêu cầu trong suốt tháng tiếp theo.
+3.5
+Thời gian không phải yếu tố cơ bản. Trừ khi được thỏa thuận khác đi một cách cụ thể bằng văn bản bởi TikTok, thời gian không phải là yếu tố cốt lõi theo các Điều Khoản Logistic này. Trừ khi được thỏa thuận khác đi một cách rõ ràng bằng văn bản bởi TikTok rằng một Sản Phẩm phải khởi hành hoặc đến tại một ngày hoặc thời gian cụ thể, TikTok không chịu bất kỳ trách nhiệm nào đối với ngày và thời gian khởi hành hoặc đến của Sản Phẩm. Bất kỳ ngày hoặc thời gian nào (nếu có) do TikTok cung cấp trước hoặc khi Bạn thực hiện việc Mua Hàng hoặc theo cách khác (mà không phải ngày và thời gian được chỉ định trên vận đơn cuối cùng) chỉ là ngày hoặc thời gian ước tính và chỉ cho mục đích tham khảo.
+3.6
+Dịch Vụ Logistic có thể bị giới hạn tại một số khu vực nhất định. Dịch Vụ Logistic có thể không được cung cấp tại một số khu vực nhất định tại một số khu vực pháp lý nhất định. Nếu địa chỉ giao hàng nằm ngoài khu vực hoặc khu vực pháp lý giao hàng, thì đơn đặt hàng đối với việc giao Sản Phẩm sẽ bị TikTok hủy mà không phải chịu trách nhiệm pháp lý.
+3.7
+Người Bán đồng ý một cách rõ ràng rằng TikTok có thể ủy quyền hoặc ký hợp đồng phụ đối với bất kỳ hoặc tất cả quyền hoặc nghĩa vụ của TikTok theo Điều Khoản Logistic này cho một hoặc nhiều bên được ủy quyền hoặc nhà thầu phụ mà không phải có sự chấp thuận hoặc cho phép từ Người Bán, và không phải thông báo cho Người Bán, với điều kiện là TikTok không được miễn trừ khỏi nghĩa vụ của TikTok theo Điều Khoản Logistic này bằng việc ủy quyền hoặc ký hợp đồng phụ như vậy.
+4.
+Mặt Hàng Bị Cấm
+4.1
+Chúng Tôi sẽ không xử lý hoặc giao Mặt Hàng Bị Cấm. Bạn phải tuân thủ với tất cả luật, quy định và quy tắc áp dụng đối với việc xử lý, quá cảnh và giao Sản Phẩm cho đến điểm đến cuối cùng của Sản Phẩm. Bạn tuyên bố rằng Bạn sẽ không giao hoặc làm cho TikTok hoặc bên được ủy quyền hoặc nhà thầu phụ của TikTok phải xử lý hoặc giải quyết hàng hóa mà bị cấm theo Hướng Dẫn Về Hàng Hóa Bị Cấm Trên TikTok Shop, hoặc hàng hóa mà bị hạn chế theo cách khác mà không có sự phê duyệt trước theo Hướng Dẫn Về Hàng Hóa Bị Cấm Trên TikTok Shop, hoặc hàng hóa bị cấm theo Luật Áp Dụng đối với việc vận chuyển (“Mặt Hàng Bị Cấm”).
+4.2
+Chúng Tôi có quyền xử lý Mặt Hàng Bị Cấm. Nếu TikTok hoặc bên được ủy quyền hoặc nhà thầu phụ của TikTok nắm giữ được Mặt Hàng Bị Cấm, TikTok có quyền (theo quyết định của riêng TikTok): (i) yêu cầu Bạn nhận lại Mặt Hàng Bị Cấm hoặc hoàn trả Mặt Hàng Bị Cấm cho Bạn, bằng phí và chi phí của Bạn, hoặc (ii) hủy, hoặc xử lý theo cách khác Mặt Hàng Bị Cấm như vậy theo qyết định của riêng TikTok, bằng phí và chi phí của Bạn, mà TikTok, bên được ủy quyền hoặc nhà thầu phụ của TikTok không phải chịu bất kỳ trách nhiệm pháp lý nào với Bạn. Bạn phải cung cấp cho TikTok, bên được ủy quyền hoặc nhà thầu phụ của TikTok tất cả sự hỗ trợ và thông tin, và tiến hành tất cả các biện pháp hoặc hành động được yêu cầu mà có liên quan đến việc quản lý hoặc xử lý Sản Phẩm như vậy bằng phí và chi phí của Bạn. Không làm giới hạn tính tổng quát của quy định trên đây, Bạn vẫn phải chịu trách nhiệm thanh toán Phí Dịch Vụ đối với các đơn đặt hàng có Mặt Hàng Bị Cấm, và Phí Dịch Vụ như vậy là không thể hoàn lại.
+4.3
+Mặt Hàng Bị Cấm có thể bị tịch thu hoặc xử lý theo cách khác bởi cơ quan thuế và hải quan có liên quan. Bạn thừa nhận và đồng ý một cách rõ ràng rằng Mặt Hàng Bị Cấm do bạn bàn giao cho Chúng Tôi có thể bị tịch thu hoặc xử lý theo cách khác bởi cơ quan nhà nước trong quá trình vận chuyển. Chỉ mình Bạn phải chịu trách nhiệm đối với các tổn thất hoặc thiệt hại phát sinh từ sự tịch thu hoặc xử lý như vậy đối với Mặt Hàng Bị Cấm của Bạn.
+5.
+Yêu Cầu Đối Với Việc Vận Chuyển Sản Phẩm
+5.1
+Sản Phẩm được vận chuyển phải tuân thủ một số yêu cầu nhất định. Sản Phẩm có thể phải tuân thủ một số yêu cầu và hạn chế nhất định đối với việc vận chuyển (ví dụ như, khối lượng, kích thước), mà, khi áp dụng, Chúng Tôi có thể thông báo cho Bạn (chẳng hạn như trong “Trung Tâm Dành Cho Người Bán” hoặc theo cách khác) tùy từng thời điểm. Những yêu cầu và hạn chế như vậy có thể thay đổi tùy thuộc vào điểm đến của việc vận chuyển, tuyến đường và/hoặc cách thức vận chuyển, v.v. TikTok có quyền từ chối cung cấp Dịch Vụ Logistic đối với Sản Phẩm không thỏa mãn các yêu cầu và hạn chế như vậy
+5.2
+Một số Sản Phẩm có thể cần được xử lý hoặc quan tâm đặc biệt. Một số Sản Phẩm nhất định có thể cần được xử lý hoặc quan tâm đặc biệt đối với việc vận chuyển, chẳng hạn như hàng hóa đông lạnh hoặc dễ vỡ. Bạn cam kết không đề nghị việc vận chuyển bất kỳ Sản Phẩm nào mà cần được xử lý hoặc quan tâm đặc biệt mà không có văn bản cho phép trước của TikTok và không cung cấp tất cả thông tin do TikTok yêu cầu (ví dụ như, bản chất Sản Phẩm, khoảng nhiệt độ cần được duy trì). Nếu các yêu cầu trên đây không được thỏa mãn, TikTok không chịu trách nhiệm về bất kỳ tổn thất hoặc thiệt hại nào đối với Sản Phẩm như vậy.
+5.3
+Sản Phẩm xâm phạm là không được phép. Bạn tuyên bố,đảm bảo và cam kết rằng Bạn không giao hoặc cố gắng giao bất kỳ Sản Phẩm nào mà vi phạm, chiếm đoạt hoặc xâm phạm quyền sở hữu trí tuệ của bất kỳ bên thứ ba nào, bao gồm nhưng không giới hạn ở nhãn hiệu, bí mật kinh doanh, quyền bảo mật, quyền tác giả, bằng sáng chế, bao bì thương mại, tên thương mại hoặc bất kỳ quyền sở hữu trí tuệ hoặc quyền tài sản nào khác tại bất kỳ khu vực pháp lý nào. Để biết thêm thông tin, vui lòng xem Chính Sách Sở Hữu Trí Tuệ Trên TikTok Shop.
+5.4
+Bạn phải có quyền sở hữu đối với Sản Phẩm. Bạn tuyên bố rằng Bạn có quyền sở hữu hợp pháp hoặc quyền nắm giữ hợp pháp đối với Sản Phẩm được giao theo các Điều Khoản Logistic này.
+5.5
+Bạn phải khai báo chính xác giá trị của Sản Phẩm. Bạn phải khai báo chính xác giá trị của Sản Phẩm do TikTok vận chuyển nếu việc kê khai giá trị là cần thiết. Trong phạm vi áp dụng, Bạn cũng phải tuân thủ tất cả quy định hải quan áp dụng đối với việc kê khai Sản Phẩm. Trong phạm vi cần thiết và được cho phép theo Luật Áp Dụng, TikTok có thể thay mặt Bạn kê khai giá trị của một số Sản Phẩm nhất định để cung cấp Dịch Vụ Logistic và cung cấp thông tin có liên quan cho cơ quan nhà nước có liên quan chịu trách nhiệm tính toán thuế hải quan, thuế hoặc thuế hàng hóa.
+5.6
+Bạn phải cung cấp thông tin chính xác và sự hỗ trợ. Bạn phải cung cấp thông tin và tài liệu chính xác, trung thực, hoàn chỉnh và đầy đủ cho TikTok liên quan đến Sản Phẩm (bao gồm nhưng không giới hạn ở khối lượng và kích thước kiện hàng), Người Bán và/hoặc Người Mua, và phải cung cấp cho TikTok tất cả sự hỗ trợ và hợp tác, và thực hiện tất cả biện pháp và hành động do TikTok yêu cầu, liên quan đến việc TikTok thực hiện Dịch Vụ Logistic theo Điều Khoản Logistic này, bao gồm việc nhập khẩu, xuất khẩu, thanh tra, kiểm dịch, hải quan, thuế, kê khai đối với Sản Phẩm.
+5.7
+Chỉ mình Bạn phải chịu trách nhiệm về bao bì, đóng gói, gắn nhãn và chuẩn bị Sản Phẩm một cách an toàn, phù hợp và đầy đủ và tuân thủ bất kỳ hướng dẫn cụ thể nào mà TikTok đưa ra. Bao bì của Sản Phẩm phải đủ tốt để đảm bảo rằng Sản Phẩm sẽ không bị hư hỏng khi vận chuyển. TikTok không chịu trách nhiệm đối với bất kỳ tổn thất hoặc thiệt hại nào đối với Sản Phẩm mà được bao bì, đóng gói, gắn nhãn hoặc chuẩn bị không phù hợp hoặc không đầy đủ, bất kể nguyên nhân gây ra tổn thất hoặc thiệt hại như vậy.
+6.
+Kiểm Tra Sản Phẩm
+6.1
+Bạn phải chịu trách nhiệm đối với nội dung của Sản Phẩm. TikTok không có nghĩa vụ xác thực nội dung của Sản Phẩm do bạn bàn giao để vận chuyển, trừ khi được yêu cầu khác đi bởi
+Luật Áp Dụng. Tài liệu vận chuyển chỉ bao gồm biên nhận số bưu kiện mà đơn vị vận chuyển có thể nhìn thấy được từ bên ngoài, và không được xem là biên nhận về số lượng Sản Phẩm hoặc mặt hàng mà đơn vị vận chuyển không thể nhìn thấy được một cách rõ ràng và hợp lý tại thời điểm vận chuyển đến cho đơn vị vận chuyển.
+6.2
+Chúng Tôi có quyền nhưng không có nghĩa vụ mở hoặc kiểm tra Sản Phẩm. Nếu qua quá trình kiểm tra bên ngoài hoặc kiểm tra kỹ thuật mà phát hiện toàn bộ hoặc một phần Sản Phẩm là không thích hợp để giao hàng hoặc vi phạm theo cách khác đối với Điều Khoản Logistic này, theo Điều Khoản Logistic này hoặc theo yêu cầu bởi Luật Áp Dụng và quy định áp dụng, Chúng Tôi có quyền, theo quyết định của riêng Chúng Tôi: (i) để dừng Dịch Vụ Logistic đối với Sản Phẩm như vậy, (ii) để hoàn trả Sản Phẩm cho Bạn bằng phí và chi phí của Bạn, (iii) để tiếp tục giao Sản Phẩm nguyên trạng, hoặc (iv) để xử lý Sản Phẩm mà không phải chịu trách nhiệm pháp lý với Bạn, bằng phí và chi phí của Bạn. Quyền kiểm tra Sản Phẩm của TikTok không miễn trừ Bạn khỏi bất kỳ nghĩa vụ nào của Bạn theo Điều Khoản Logistic này (bao gồm sự bảo đảm của Bạn rằng Bạn không giao bất kỳ Mặt Hàng Bị Cấm nào).
+7.
+Bảo Đảm Bồi Thường
+7.1
+Bạn phải đảm bảo bồi thường, bảo vệ và giữ vô hại cho TikTok, Bên Liên Kết Của TikTok, bên được ủy quyền, nhà thầu phụ, nhà cung cấp dịch vụ logistic của TikTok, và người lao động, cán bộ, giám đốc, đại lý tương ứng của họ (“Người Được Bồi Thường Của TikTok”) chống lại tất cả các tổn hại, tổn thất, khiếu nại, thiệt hại, phí, chi phí, tiền phạt, hình phạt, thuế, yêu cầu (bao gồm bất kỳ tổn thất trực tiếp, gián tiếp hoặc mang tính hậu quả nào, tổn thất lợi nhuận, mất uy tín và tất cả tiền lãi, tiền phạt và chi phí pháp lý (được tính toán trên cơ sở đảm bảo bồi thường toàn bộ) và tất cả khoản phí và chi phí chuyên môn khác) và các trách nhiệm pháp lý khác phát sinh hoặc phải gánh chịu bởi Người Được Bồi Thường Của TikTok mà phát sinh từ, do hoặc liên quan đến (a) vi phạm của Bạn đối với bất kỳ tuyên bố, bảo đảm, giao ước, cam kết, thỏa thuận hoặc nghĩa vụ nào theo Điều Khoản Logistic này (bao gồm nhưng không giới hạn ở việc bàn giao hoặc nỗ lực vận chuyển Mặt Hàng Bị Cấm hoặc Sản Phẩm mà xâm phạm bất kỳ quyền sở hữu trí tuệ bên thứ ba nào, việc Bạn không kê khai chính xác giá trị của Sản Phẩm hoặc bất kỳ thông tin liên quan nào khác, việc Bạn không cung cấp thông tin chính xác, đầy đủ, xác thực hoặc không thực hiện các hành động theo yêu cầu hợp lý của TikTok theo Điều Khoản Logistic này); (b) việc Bạn không tuân thủ bất kỳ và tất cả các Luật Áp Dụng áp dụng cho Bạn, bao gồm nhưng không giới hạn ở tất cả pháp luật về bảo vệ dữ liệu áp dụng; (c) hành vi hoặc thiếu sót của Bạn về gian lận hoặc tuyên bố sai lệch mang tính lừa đảo; (d) bất kỳ thương tích cá nhân hoặc tử vong nào gây ra bởi hành vi hoặc thiếu sót của Bạn; (e) bất kỳ tổn thất hoặc thiệt hại nào phải gánh chịu một cách trực tiếp hoặc gián tiếp bởi nhà thầu hoặc nhà cung cấp của Người Được Bồi Thường Của TikTok (bao gồm nhưng không giới hạn ở nhà cung cấp dịch vụ logistic và kho bãi); (f) bất kỳ cáo buộc hoặc khiếu nại nào về sự bất cẩn hoặc hành động cố ý sai trái phát sinh từ bất kỳ hành vi hoặc sự thiếu sót nào của Bạn; và (g) bất kỳ yêu cầu nộp thuế hoặc các khoản phí hoặc đóng góp khác liên quan đến việc chúng tôi cung cấp Dịch Vụ Logistic cho Bạn theo Điều Khoản Logistic này.
+8.
+Giới Hạn Trách Nhiệm Pháp Lý
+8.1
+Trách nhiệm pháp lý của TikTok là có giới hạn. Trong mọi trường hợp và tùy thuộc vào quy định của Điều Khoản 8 (Giới Hạn Trách Nhiệm Pháp Lý) này, tổng trách nhiệm pháp lý cộng dồn của TikTok và Bên Liên Kết Của TikTok có thể phát sinh, cho dù theo hợp đồng, bồi thường thiệt hại ngoài hợp đồng (bao gồm cả sự cẩu thả), tuyên bố sai lệch, bồi thường hoặc khác đi theo các Điều Khoản Logistic này, đều được giới hạn ở tổng phí và lệ phí logistic mà Bạn phải chịu trong 30 ngày trước ngày có nguyên nhân dẫn đến hành động. Trách nhiệm pháp lý và khoản bồi thường tối đa của TikTok và Bên Liên Kết Của TikTok cho Bạn đối với từng trường hợp tổn thất hoặc thiệt hại đối với Sản Phẩm được giới hạn ở tổng giá cả mà Người Mua đã thanh toán cho Sản Phẩm tổn thất hoặc hư hỏng như vậy, hoặc giá trị mà Sản Phẩm bị hư hỏng, tùy thuộc khoản nào thấp hơn. Để tránh nghi ngờ, TikTok chỉ bồi thường cho Bạn đối với tổn thất hoặt thiệt hại đối với Sản Phẩm mà xảy ra do việc cung cấp Dịch Vụ Logistic, và tùy thuộc vào Điều Khoản 8 này.
+8.2
+TikTok và Bên Liên Kết Của TikTok sẽ không chịu trách nhiệm đối với bất kỳ trách nhiệm pháp lý nào sau đây mà có thể phát sinh liên quan đến việc Người Bán sử dụng Dịch Vụ Logistic, cho dù theo hợp đồng, ngoài hợp đồng (bao gồm cả sự cẩu thả), tuyên bố sai lệch, bồi thường hoặc khác đi, tổn thất lợi nhuận, tổn thất doanh thu, cơ hội kinh doanh, mất lợi lế thương mại, tổn thất khoản tiết kiệm dự kiến; tổn thất gián tiếp hoặc mang tính hậu quả; hoặc thiệt hại ngẫu nhiên, gián tiếp, đặc biệt hoặc mang tính trừng phạt.
+8.3
+Không có quy định nào trong Điều Khoản Logistic này giới hạn hoặc loại trừ bất kỳ trách nhiệm pháp lý nào mà không thể loại trừ một cách hợp pháp.
+8.4
+Miễn trừ trách nhiệm pháp lý. Trong mọi trường hợp, TikTok và Bên Liên Kết Của TikTok không chịu trách nhiệm pháp lý và được miễn trừ khỏi bất kỳ trách nhiệm pháp lý nào đối với việc chậm giao hàng, thất lạc hoặc hư hỏng sản phẩm, nếu việc chậm trễ, thất lạc hoặc hư hỏng như vậy là bị gây ra bởi, phát sinh từ, liên quan đến hoặc do các lý do sau: (a) Hành vi sai trái hoặc sơ suất của Người Bán; (b) Người Bán không tuân thủ các quy định của Điều Khoản Logistic này hoặc bất kỳ hướng dẫn nào do Chúng Tôi cung cấp trước bằng văn bản cho Bạn; (c) Tuân theo hướng dẫn của Người Bán; (d) Khiếm khuyết, không có hoặc thiếu thông tin trên vỏ hoặc bao bì của Sản Phẩm; (e) Khiếm khuyết đối với Sản Phẩm và tổn thất hoặc thiệt hại phát sinh từ hoặc liên quan đến khiếm khuyết như vậy; (f) Thông tin không chính xác, sai sự thật, không đầy đủ, không hoàn chỉnh, sai trái về Sản Phẩm do Người Bán cung cấp; (g) Thông tin không chính xác, sai sự thật, không đầy đủ, không hoàn chỉnh, sai trái về Người Bán hoặc Người Mua; (h) Lỗi, sự tạm ngưng hoặc gián đoạn dịch vụ của TikTok hoặc các hệ thống khác hỗ trợ cho dịch vụ logistic do việc bảo trì (cho dù được lên kế hoạch trước hay không) hoặc do các lỗi về mạng internet, thiết bị, nguồn, dịch vụ thông tin trao đổi hoặc dịch vụ đám mây; (i) Sự kiện bất khả kháng; hoặc (j) Bất kỳ sự kiện hoặc lý do nào khác mà không thể quy về cho TikTok hoặc sự vận hành Dịch Vụ Logistic bởi TikTok (bao gồm bất kỳ sự chậm trễ, thất thoát hoặc hư hỏng nào đối với (các) Sản Phẩm do Người Bán, hoặc do các sự kiện nằm ngoài sự kiểm soát hợp lý của TikTok).
+8.5
+Khước Từ Của TikTok. Trong phạm vi rộng nhất được cho phép bởi Luật Áp Dụng, TikTok, bằng Điều Khoản Logistic này, khước từ bất kỳ và tất cả tuyên bố, bảo đảm hoặc điều kiện mà không được quy định một cách rõ ang trong Điều Khoản Logistic này.
+9.
+Chấm Dứt
+9.1
+TikTok có thể chấm dứt Điều Khoản Logistic này mà không cần lý do bằng cách đưa ra văn bản thông báo cho Người Bán trước ít nhất ba mươi (30) ngày. Người Bán có thể chấm dứt Điều Khoản Logistic này mà không cần lý do bằng cách đưa ra văn bản thông báo cho TikTok trước ít nhất sáu mươi (60) ngày.
+9.2
+Việc chấm dứt Điều Khoản Dịch Vụ Dành Cho Người Bán Trên TikTok Shop giữa Bạn và TikTok, hoặc việc chấm dứt tài khoản của Bạn vì bất kỳ lý do gì, sẽ tự động chấm dứt Điều Khoản Logistic này, và bất kỳ việc đình chỉ nào đối với tài khoản của Bạn theo Điều Khoản Dịch Vụ Dành Cho Người Bán Trên TikTok Shop sẽ dẫn đến việc đình chỉnh Dịch Vụ Logistic theo Điều Khoản Logistic này.
+9.3
+Bất kể quy định nào khác đi trong Điều Khoản Logistic này, nếu (a) có các đơn đặt hàng chưa hoàn tất giữa Bạn và Người Mua kể từ ngày chấm dứt Điều Khoản Logistic này, thì Điều Khoản Logistic này sẽ được gia hạn cho đến khi Dịch Vụ Logistic đối với các đơn đặt hàng như vậy đã được thực hiện, (b) có các đơn đặt hàng chưa hoàn tất giữa Bạn và Người Mua kể từ ngày đình chỉ Dịch Vụ Logistic, TikTok sẽ tiếp tục cung cấp Dịch Vụ Logistic đối với các đơn đặt hàng như vậy, với điều kiện là các đơn đặt hàng như vậy và việc cung cấp Dịch Vụ Logistic đối với các đơn đặt hàng như vậy không vi phạm Điều Khoản Dịch Vụ Dành Cho Người Bán Trên TikTok Shop, Điều Khoản Logistic này, các chính sách hoặc hướng dẫn của TikTok, hoặc Luật Áp Dụng.
+9.4
+Hiệu Lực Của Việc Chấm Dứt. Việc chấm dứt Điều Khoản Logistic này không giải phóng bất kỳ bên nào khỏi các nghĩa vụ đã phát sinh trước ngày chấm dứt.
+Phụ Lục 2
+Chuyển Giao Dữ Liệu Cá Nhân
+1.
+Cho mục đích của Phụ Lục này, thuật ngữ “Phụ Lục Được Phê Duyệt” có nghĩa là mẫu phụ lục được kết hợp vào Điều Khoản Hợp Đồng Tiêu Chuẩn như được quy định trong Phụ Chương của Quyết Định Thi Hành Của Ủy Ban (Liên Minh Châu Âu - EU) 2021/914 ngày 04/6/2021, như được ban hành bởi Văn Phòng Của Ủy Viên Thông Tin (“ICO”) và được trình Nghị Viện theo phần 119A (s119A) của Đạo Luật Bảo Vệ Dữ Liệu năm 2018 ngày 02/02/2022, như được sửa đổi theo Phần 18.
+2.
+Chuyển Giao Ngoài EEA
+(Bên Kiểm Soát tới Bên Kiểm Soát)
+a.
+Khi có sự Chuyển Giao Ngoài EEA, thì việc Chuyển Giao Ngoài EEA được điều chỉnh bởi điều khoản hợp đồng tiêu chuẩn được Ủy Ban Châu Âu phê duyệt trong Quyết Định Của Ủy Ban số 2021/914 ngày 04/6/2021, đối với việc chuyển giao dữ liệu cá nhân tại quốc gia không được Ủy Ban Châu Âu công nhận theo cách khác là có mức độ bảo vệ dữ liệu cá nhân phù hợp (như được sửa đổi và cập nhật tùy từng thời điểm (“
+SCC
+” – standard contractual clauses)), mà bằng văn bản này, được kết hợp vào các Điều Khoản này và được ký kết bởi các bên với các sửa đổi sau đây (với các tham chiếu đến các Điều Khoản trong đoạn 2(a) này là các Điều Khoản của SCC) và Bạn đóng vai trò “Bên Tiếp Nhận Dữ Liệu” và Chúng Tôi đóng vai trò “Bên Chuyển Giao Dữ Liệu”):
+i.
+tất cả các ghi chú và chú giải trong SCC được xóa bỏ;
+ii.
+vì việc Chuyển Giao Ngoài EEA là việc chuyển giao từ bên kiểm soát đến bên kiểm soát, nên chỉ các điều khoản liên quan đến Mục 1 mới áp dụng cho việc Chuyển Giao Ngoài EEA như vậy, và các điều khoản chỉ liên quan đến các Mục 2, 3 và 4 được xóa bỏ và không áp dụng đối với việc Chuyển Giao Ngoài EEA như vậy;
+iii.
+Điều Khoản 7 được bao gồm và các tham chiếu đến Điều Khoản 7 mà là “tùy chọn” trong các Điều Khoản thì được xóa bỏ;
+iv.
+Nội dung “TÙY CHỌN” trong Điều Khoản 11(a) không được áp dụng, và các diễn đạt trong ngoặc vuông trong Điều Khoản đó được xóa bỏ;
+v.
+đối với Điều Khoản 13(a) (giám sát), diễn đạt sau đây được áp dụng: “Cơ quan giám sát Ai-len đóng vai trò cơ quan giám sát có thẩm quyền”;
+vi.
+đối với Điều Khoản 17 (luật áp dụng), luật của Ai-len được áp dụng;
+vii.
+đối với Điều Khoản 18 (lựa chọn tòa án và quyền tài phán), các tòa án có liên quan sẽ là tòa án Ai-len.
+viii.
+Phụ Chương I của SCC sẽ được hoàn thiện với thông tin quy định tại Phụ Chương I của Phụ Lục 2 này.
+ix.
+Phụ Chương II của SCC sẽ được hoàn thiện với thông tin quy định tại Phụ Chương II của Phụ Lục 2 này.
+3.
+Chuyển Giao Ngoài UK
+Khi có sự Chuyển Giao Ngoài UK và việc chuyển giao như vậy không được điều chỉnh bởi một quyết định phù hợp của Quốc Vụ Khanh theo quy định có liên quan của GDPR Của UK và DPA, thì các Điều Khoản này sẽ kết hợp Phụ Lục Được Phê Duyệt và các điều khoản của SCC như được đính kèm theo và sửa đổi bởi Phụ Lục Được Phê Duyệt theo cùng cách thức được quy định tại đoạn 2(a) hoặc 2(b) (khi áp dụng) đối với việc Chuyển Giao Ngoài EEA.
+4.
+Điều Khoản Bổ Sung
+a.
+Nếu việc tuân thủ của Chúng Tôi với các yêu cầu theo pháp luật bảo vệ dữ liệu có liên quan đến việc chuyển giao quốc tế đối với dữ liệu cá nhân bị ảnh hưởng bởi các sự kiện nằm ngoài sự kiểm soát của Chúng Tôi, bao gồm cả trong trường hợp SCC hoặc bất kỳ văn bản pháp luật nào khác đối với việc chuyển giao quốc tế đối với dữ liệu cá nhân bị vô hiệu, sửa đổi hoặc thay thế, thì Chúng Tôi sẽ cùng hợp tác với tinh thần thiện chí nhằm giải quyết hợp lý sự không tuân thủ như vậy.
+b.
+Tùy thuộc vào đoạn 3.4, nếu Bạn biết được rằng bất kỳ cơ quan thực thi pháp luật, quản lý, tư pháp hoặc chính phủ nào (một “
+Cơ Quan
+”) muốn có được quyền truy cập đến hoặc bản sao của một số hoặc tất cả dữ liệu cá nhân, cho dù trên cơ sở tự nguyện hoặc bắt buộc, thì Bạn phải: (i) thông báo ngay cho Chúng Tôi về yêu cầu của Cơ Quan đó; (ii) nếu Bạn là Bên Xử Lý dữ liệu cá nhân, thông báo cho Cơ Quan về điều này và rằng Chúng Tôi không được Bạn ủy quyền tiết lộ dữ liệu cá nhân đó cho Cơ Quan; (iii) thông báo cho Cơ Quan rằng yêu cầu như vậy nên được đưa ra với Chúng Tôi (với tư cách bên kiểm soát gốc) bằng văn bản; và (iv) không cung cấp cho Cơ Quan dữ liệu cá nhân như vậy cho đến khi được Chúng Tôi cho phép.
+c.
+Trong trường hợp Bạn bị cấm tuân thủ đoạn 3.2 theo quy định pháp luật, Bạn phải sử dụng nỗ lực hợp lý để vượt qua quy định cấm như vậy.
+d.
+Nếu Bạn tiết lộ dữ liệu cá nhân cho một Cơ Quan (cho dù có sự cho phép của Chúng Tôi hoặc do yêu cầu bắt buộc theo luật định), thì Bạn chỉ làm việc đó trong phạm vi được yêu cầu theo luật định.
+e.
+Các đoạn 3.3 và 3.4 không áp dụng trong trường hợp Bạn có niềm tin hợp lý và thiện chí rằng quyền truy cập khẩn cấp là cần thiết để ngăn chặn nguy cơ có thể xảy ra thiệt hại nghiêm trọng cho bất kỳ cá nhân nào. Trong trường hợp đó, Bạn phải thông báo cho Chúng Tôi sớm nhất có thể kể từ khi Cơ Quan có quyền truy cập, và cung cấp cho Chúng Tôi đầy đủ chi tiết của việc truy cập như vậy, trừ khi và trong phạm vi Bạn bị cấm làm như vậy theo quy định pháp luật.
+f.
+Bạn không được cố tình tiết lộ dữ liệu cá nhân một cách hàng loạt, không tương xứng và bừa bãi mà vượt mức cần thiết trong một xã hội dân chủ.
+g.
+Nếu có bất kỳ mẫu thuẫn hoặc sự không rõ ràng nào giữa các Điều Khoản này và SCC, thì các quy định có trong SCC có hiệu lực ưu tiên (nhưng chỉ trong phạm vi và đối với việc chuyển giao, và không phải đối với bất kỳ hoạt động xử lý nào khác).
+Phụ Chương 1
+A.
+DANH SÁCH CÁC BÊN
+(Các) Bên chuyển giao dữ liệu
+: TikTok Information Technologies UK Limited, được đăng ký tại nước Anh với trụ sở tại Kaleidoscope, 4 Lindsey Street, London, Vương Quốc Anh, EC1A 9HP (số đăng ký công ty: 10165711)
+(Các) Bên tiếp nhận dữ liệu
+: Chủ thể là Người Bán ký kết các Điều Khoản này
+B.
+MÔ TẢ VIỆC CHUYỂN GIAO
+Danh mục chủ thể dữ liệu có dữ liệu cá nhân được chuyển giao
+Người Mua và Người Bán (như được định nghĩa trong Điều Khoản)
+Danh mục dữ liệu cá nhân được chuyển giao
+Thông tin cần thiết để cho phép Người Mua hoàn thành giao dịch mua của họ và sắp xếp việc giao sản phẩm của họ (tên, email, địa chỉ, thông tin thanh toán)
+Dữ liệu nhạy cảm được chuyển giao
+(nếu có) và được áp dụng biện pháp hạn chế hoặc biện pháp bảo vệ mà cân nhắc đầy đủ bản chất của dữ liệu và các nguy cơ có liên quan, chẳng hạn ví dụ như giới hạn mục đích nghiêm ngặt, hạn chế quyền truy cập (bao gồm cả quyền truy cập chỉ dành cho nhân viên đã tuân thủ kỹ năng đào tạo chuyên ngành), lưu giữ hồ sơ sự truy cập dữ liệu, hạn chế việc chuyển giao chuyển tiếp hoặc biện pháp bảo mật bổ sung
+Không
+Tần suất chuyển giao
+(ví dụ như, liệu dữ liệu được chuyển giao trên cơ sở một lần hay liên tục).
+Liên tục
+Bản chất việc xử lý
+Logistic và thanh toán
+(Các) mục đích của việc chuyển giao dữ liệu và xử lý bổ sung
+Để cho phép Người Mua mua Sản Phẩm (như quy định trong Điều Khoản) và cho phép Người Bán hoàn tất việc mua như vậy và sắp xếp giao bất kỳ Sản Phẩm nào cho Người Mua, và các mục đích phụ trợ khác có liên quan đến việc bán Sản Phẩn trên ứng dụng hoặc trang web.
+Thời hạn lưu giữ dữ liệu cá nhân, hoặc, nếu việc đó là không khả thi, yếu tố được sử dụng để xác định thời hạn đó
+Trong thời hạn của Điều Khoản
+Đối với việc chuyển giao cho bên xử lý (bên xử lý thứ cấp), đồng thời xác định đối tượng, bản chất và thời gian xử lý
+C.
+CƠ QUAN GIÁM SÁT CÓ THẨM QUYỀN (chỉ áp dụng đối với Chuyển Giao Ngoài EEA từ bên kiểm soát tới bên kiểm soát)
+Xác định cơ quan/các cơ quan giám sát có thẩm quyền theo Điều Khoản 13
+Ai-len.
+Phụ Chương 2
+BIỆN PHÁP KỸ THUẬT VÀ TỔ CHỨC BAO GỒM BIỆN PHÁP KỸ THUẬT VÀ TỔ CHỨC ĐỂ ĐẢM BẢO AN TOÀN DỮ LIỆU
+Các Biện Pháp An Toàn Tối Thiểu này có thể được thay đổi tùy từng thời điểm bởi Chúng Tôi (hành động một cách hợp lý) để cung cấp cho Người Bán một nội dung thay thế. Các Biện Pháp An Toàn Tối Thiểu này sẽ được Người Bán thực hiện liên quan đến bất kỳ dữ liệu cá nhân nào được chuyển giao theo các Điều Khoản này. Người Bán sẽ ghi lại, thực hiện và duy trì chương trì an toàn thông tin đáp ứng tiêu chuẩn của các thực tiễn tốt nhất trong ngành để bảo vệ dữ liệu cá nhân như vậy, mà sẽ bao gồm:
+I.
+Kiểm Soát Đầu Vào Hệ Thống
+Thiết lập, duy trì, kiểm soát, và sử dụng các biện pháp bảo vệ kỹ thuật, vật lý, quản trị và tổ chức phù hợp với tiêu chuẩn cao nhất trong ngành để đảm bảo an toàn trước những Sự Cố Bảo Mật, tối thiểu bao gồm:
+(a)
+Đảm bảo an toàn giao thức xác thực người dùng và kiểm soát truy cập hệ thống;
+(b)
+Sử dụng biện pháp bảo vệ vật lý hoàn thiện và phù hợp, phần mềm độc hại, chống vi-rút và phần mềm bảo mật hiện thời mà bao gồm tính năng lọc email và phát hiện phần mềm độc hại;
+(c)
+Sử dụng biện pháp bảo vệ mạng phù hợp;
+(d)
+Trong thời gian không sử dụng, thiết bị do công ty cấp (ví dụ như máy tính xách tay do công ty cấp) được tự động khóa;
+(e)
+Khuyến khích việc sử dụng mật khẩu phức tạp;
+(f)
+Khái niệm đặc quyền tối thiểu, chỉ cho phép sự truy cập cần thiết để người dùng hoàn thành chức năng công việc của họ. Sự truy cập trên đây cần có sự cho phép phù hợp;
+(g)
+Đặc quyền truy cập của nhân viên IT được xem xét thường xuyên bởi nhân sự phù hợp;
+(h)
+Dịch vụ kiểm soát mạng hoạt động 24/7/365 để phát hiện hoạt động trái phép;
+(i)
+Thực hiện quét và khắc phục lỗ hổng bảo mật;
+(j)
+Thực hiện kiểm tra xâm nhập khi phù hợp;
+(k)
+Áp dụng giao thức mã hóa khi cần thiết trong nhiều tình huống khác nhau.
+II.
+Kiểm Soát Truy Cập Vật Lý
+Người Bán phải thực hiện, trong số các biện pháp khác, biện pháp bảo mật phù hợp để thiết lập danh tính cá nhân được phép và ngăn sự tiếp cận trái phép đến địa điểm và cơ sở vật chất của Người Bán mà tại đó dữ liệu được xử lý.
+III.
+Ki
+ểm Soát Truy Cập Dữ Liệu
+Người Bán phải thực hiện các biện pháp kỹ thuật và tổ chức để ngăn các hoạt động trái phép trong hệ thống xử lý dữ liệu ngoài phạm vi của bất kỳ sự cho phép được cấp nào, tối thiểu bao gồm:
+(a)
+Việc truy cập của người dùng và quản trị viên đến mạng là mô hình truy cập dựa trên vai trò. Mô hình cấp phép cấp quyền truy cập đến dữ liệu chỉ trên cơ sở “cần phải biết”;
+(b)
+Quản trị quyền của người dùng thông qua quản trị viên hệ thống;
+(c)
+Số quản trị viên được giảm đến mức tối thiểu tuyệt đối;
+(d)
+Thực hiện kiểm tra nội bộ khi cần thiết để đánh giá các quá trình, công nghệ và cá nhân rủi ro cao;
+(e)
+Cấm từng người lao động tiết lộ dữ liệu cá nhân cho bất kỳ bên thứ ba không được phép nào, hoặc sử dụng dữ liệu cá nhân theo cách thức không được phép.
+(f)
+Khi việc mã hóa dữ liệu được sử dụng, cần có các thực hành quản lý vòng đời mã khóa phù hợp.
+IV.
+Kiểm Soát Chuyển Giao Dữ Liệu
+Người Bán phải thực hiện các biện pháp kỹ thuật và tổ chức để đảm bảo rằng dữ liệu cá nhân không thể bị đọc, sao chép, thay đổi, hoặc xóa bỏ bởi những người không được phép theo sự truyền đưa điện tử của họ hoặc trong quá trình họ vận chuyển hoặc ghi trên vật mang dữ liệu, và đảm bảo rằng có thể kiểm tra và thiết lập nơi mà dữ liệu cá nhân được hoặc đã được truyền đưa bởi thiết bị truyền đưa dữ liệu, tối thiểu bao gồm:
+(a)
+Việc truy cập từ xa (bao gồm trong quá trình bảo hành hoặc quy trình dịch vụ từ xa) đối với hệ thống IT được thực hiện thông qua đường truyền VPN, khi áp dụng, hoặc các liên kết bảo mật, mã hóa khác;
+(b)
+Các giao thức mã hóa được áp dụng khi cần thiết trong nhiều tình huống khác nhau;
+(c)
+Các thiết bị lưu trữ dữ liệu và tài liệu giấy được khóa lại khi không sử dụng (ví dụ như, chính sách chiếc bàn sạch (clean desk));
+(d)
+Việc hủy và xử lý tài liệu phù hợp;
+(e)
+Có quy trình hủy bỏ vật lý phù hợp tiêu chuẩn ngành;
+(f)
+Thiết lập các phiên trao đổi bảo mật thông qua TLS hoặc các giao thức tương tự xuyên suốt các ứng dụng/dịch vụ cốt lõi;
+(g)
+Chứng nhận mã hóa được tận dụng để xác thực giữa trang web khách hàng cốt lỗi và trang web máy chủ cốt lõi.
+V.
+Kiểm Soát Đầu Vào
+Người Bán phải thực hiện các biện pháp kỹ thuật và tổ chức phù hợp để đảm bảo rằng sau đó, thông qua tập tin đăng nhập, có thể xác thực và thiết lập việc liệu dữ liệu cá nhân có được nhập vào hệ thống xử lý hay không, có bị thay đổi hoặc xóa bỏ hay không, và ai là người thực hiện các thao tác đó.
+VI.
+Kiểm Soát Cơ Cấu
+Người Bán phải thực hiện các biện pháp kỹ thuật và tổ chức để đảm bản rằng bất kỳ dữ liệu cá nhân nào được chuyển giao theo DSA này chỉ có thể được Xử Lý cho các mục đích được quy định trong DSA, tối thiểu bao gồm:
+(a)
+Chính sách nội bộ rõ ràng và mang tính ràng buộc có chứa hướng dẫn chính thức về quy trình xử lý dữ liệu;
+(b)
+Có các biện pháp bảo vệ theo hợp đồng được kết nối một cách rõ ràng khi phù hợp trong các hợp đồng thứ cấp;
+(c)
+Thường xuyên đào tạo nhân viên về việc sử dụng phù hợp hệ thống an toàn máy tính, quy trình sao lưu bảo mật và khắc phục sự cố, và tầm quan trọng của việc bảo mật để đảm bảo tuân thủ các thỏa thuận theo hợp đồng và duy trì ý thức về yêu cầu bảo vệ dữ liệu;
+(d)
+Có quy trình hủy bỏ an toàn phù hợp tiêu chuẩn ngành;
+(e)
+Xem xét sự truy cập định kỳ để giám sát việc kiểm soát truy cập của người lao động;
+(f)
+Mạng hợp tác của Người Bán được tách bạch khỏi mạng dịch vụ của người dùng của Người Bán bằng cách thức sử dụng thiết bị phân tách phức tạp.
+VII.
+Kiểm Soát Tính Khả Dụng
+Người Bán phải thực hiện các biện pháp kỹ thuật và tổ chức để bảo vệ dữ liệu khỏi việc bị vô tình hủy hoại hoặc mất mát, tối thiểu bao gồm:
+(a)
+Thiết bị kiểm soát nhiệt độ và độ ẩm trong các trung tâm dữ liệu;
+(b)
+Thiết bị báo cháy/báo khói và bình chữa cháy hoặc hệ thống chữa cháy trong trung tâm dữ liệu;
+(c)
+Sử dụng phần mềm chống vi-rút hoàn thiện và phù hợp mà bao gồm tính năng lọc email và phát hiện phần mềm độc hại;
+(d)
+Có biện pháp khôi phục dữ liệu và kế hoạch khẩn cấp và được kiểm tra thường xuyên;
+(e)
+Thực hiện các phương pháp sao lưu hoàn thiện và phù hợp, bao gồm việc phân tách vật lý giữa dữ liệu sao lưu và phương tiện lưu trữ dữ liệu được lưu trên thiết bị lưu trữ dự phòng;
+(f)
+Sử dụng kết hợp việc sao lưu toàn diện, sao lưu vi sai và sao lưu tích lũy để đảm bảo tính toàn vẹn của dữ liệu và kịp thời khôi phục dữ liệu cốt lõi, khi phù hợp;
+(g)
+Đảm bảo nguồn điện không gián đoạn cho hệ thống, các đơn vị cung cấp điện dự phòng được thêm vào hệ thống bất cứ nơi nào có thể;
+(h)
+Tính toàn vẹn của dữ liệu được lưu trữ phải được xác thực thường xuyên bằng giá trị tổng kiểm;
+(i)
+Có các quy trình để chuyển lưu lượng dữ liệu khỏi khu vực bị ảnh hưởng sang khu vực cố định trong trường hợp xảy ra lỗi;
+(j)
+Thực hiện bảo trì phòng ngừa để đảm bảo khả năng vận hành liên tục của thiết bị.
+(k)
+Có công nghệ Từ Chối Dịch Vụ và Từ Chối Dịch Vụ Phân Tán phù hợp để chống lại các tấn công mạng và tấn công tước tài nguyên (resource starvation) dựa trên hệ thống.
+Phụ Lục 3
+Sử Dụng API
+1
+Định Nghĩa
+1.1
+API
+: giao diện lập trình ứng dụng, bộ công cụ phát triển phần mềm, thông số kỹ thuật, mã mẫu, dữ liệu, siêu dữ liệu, công nghệ, phần mềm và các thông tin và tài liệu liên quan khác cũng như bất kỳ bản cập nhật nào của các đối tượng trên do TikTok cung cấp cho bạn.
+1.2
+Dữ Liệu API:
+tất cả dữ liệu được công bố hoặc cung cấp thông qua API.
+1.3
+Khóa API
+: khóa bảo mật mà TikTok cung cấp cho Bạn để truy cập vào API.
+1.4
+Ứng Dụng:
+bất kỳ ứng dụng nào được phát triển bởi hoặc thay mặt cho Bạn.
+1.5
+Người Dùng Được Cho Phép:
+bất kỳ người dùng nào được cho phép bởi TikTok để truy cập vào API thay mặt cho Bạn.
+2
+Sự Cấp Phép
+2.1
+TikTok cấp cho Bạn một sự cho phép không độc quyền, không thể chuyển giao, không thể cấp phép thứ cấp, có giới hạn, có thể hủy ngang trong thời hạn của các Điều Khoản này:
+(a)
+để Người Dùng Được Cho Phép truy cập vào API chỉ nhằm mục đích phát triển, thử nghiệm, duy trì và vận hành Ứng Dụng lập kế hoạch nguồn lực doanh nghiệp để sử dụng nội bộ nhằm quản lý hoạt động của bạn với tư cách là người bán trên TikTok Shop; và
+(b)
+để hiển thị Dữ Liệu API nhận được từ API trong Ứng Dụng.
+2.2
+Phương tiện truy cập API duy nhất của bạn là thông qua Khóa API.
+2.3
+Liên quan đến phạm vi sử dụng được nêu trong đoạn 2.1, bạn không được:
+(a)
+thực hiện, hoặc cho phép thông qua Ứng Dụng, các truy vấn API vượt quá bất kỳ giới hạn nào mà chúng tôi có thể áp dụng tùy từng thời điểm;
+(b)
+gỡ bỏ bất kỳ thông báo về quyền sở hữu nào khỏi API hoặc Dữ Liệu API;
+(c)
+sử dụng Ứng Dụng, API hoặc Dữ Liệu API theo bất kỳ cách nào hoặc cho bất kỳ mục đích nào mà vi phạm, chiếm đoạt, hoặc theo cách khác xâm phạm bất kỳ Quyền Sở Hữu Trí Tuệ hoặc quyền nào khác của bất kỳ người nào, hoặc vi phạm bất kỳ Luật Áp Dụng nào;
+(d)
+thiết kế hoặc cho phép Ứng Dụng vô hiệu hóa, ghi đè, hoặc can thiệp theo cách khác vào bất kỳ thông tin trao đổi nào do TikTok triển khai với người dùng cuối, màn hình đồng ý, cài đặt người dùng, nhắc nhỏ, cảnh báo hoặc các chủ thể tương tự;
+(e)
+cố ẩn danh hoặc che giấu danh tính của bạn hoặc danh tính của Ứng Dụng khi yêu cầu cấp phép sử dụng API hoặc thực hiện truy vấn API;
+(f)
+ngoại trừ trong phạm vi được cho phép rõ ràng theo đoạn 2 này, bạn không được (và phải đảm bảo rằng mỗi Người Dùng Được Cho Phép không được) chuyển hoặc cho phép việc truy cập vào Ứng Dụng, API hoặc Dữ Liệu API cho bất kỳ bên thứ ba nào (ngoài trường hợp tuân theo Phụ Lục 3 này);
+(g)
+sử dụng Ứng Dụng, API và/hoặc Dữ Liệu API liên quan đến hoặc cho bất kỳ mục đích bất hợp pháp, trái phép hoặc theo không phù hợp theo cách khác nào, hoặc theo bất kỳ cách nào mà có thể vi phạm bất kỳ quyền nào của bất kỳ người nào, bao gồm quyền sở hữu trí tuệ, hoặc vi phạm bất kỳ luật hoặc quy định nào, hoặc theo bất kỳ cách nào gây hiểu lầm, phỉ báng, xâm phạm, bôi nhọ, chê bai, tục tĩu hoặc có thể bị phản đối theo cách khác cho TikTok;
+(h)
+sử dụng hoặc kết hợp Ứng Dụng, API và/hoặc Dữ Liệu API với phần mềm được cung cấp theo sự cấp phép mã nguồn mở theo cách mà có thể làm cho TikTok phải tuân thủ theo bất kỳ nghĩa vụ nào theo bất kỳ sự cấp phép mã nguồn mở nào như vậy;
+(i)
+thu thập hoặc cố gắng thu thập bất kỳ dữ liệu cá nhân nào từ những người dùng của TikTok Shop cho bất kỳ mục đích trái phép hoặc bất hợp pháp nào, hoặc xây dựng, hỗ trợ xây dựng, hoặc bổ sung bất kỳ hồ sơ, cơ sở dữ liệu, hoặc hồ sơ tương tự nào về bất kỳ cá nhân, thiết bị, nội dung, hoặc trình duyệt nào, hoặc kết hợp hành vi của bất kỳ cá nhân, thiết bị, nội dung, hoặc trình duyệt nào với bất kỳ hồ sơ, cơ sở dữ liệu, hoặc với hồ sơ tương tự nào;
+(j)
+sử dụng Ứng Dụng, API và/hoặc Dữ Liệu API cho mục đích gian lận hoặc bất hợp pháp hoặc trái phép theo cách khác, bao gồm nhưng không giới hạn ở việc phát triển hoặc quảng bá phần mềm gián điệp, phần mềm quảng cáo hoặc các mã hoặc chương trình độc hại khác, hoặc để bôi nhọ hoặc quấy rối bất kỳ người nào;
+(k)
+giới thiệu vi-rút, phần mềm độc hại, mã độc hại hoặc nội dung khác có tính chất gây hại hoặc phá hoại thông qua Ứng Dụng hoặc thông qua việc bạn truy cập hoặc sử dụng TikTok Shop, Trung Tâm Đối Tác Trên TikTok Shop (“TTĐTTTTS” hoặc “Nền Tảng”), API và/hoặc Dữ Liệu API, bao gồm, nhưng không giới hạn ở việc không đảm bảo cài đặt biện pháp bảo vệ đầy đủ trên thiết bị và máy chủ của bạn theo thông lệ của ngành;
+(l)
+sử dụng bất kỳ rô-bốt, nhện máy tính, ứng dụng tìm kiếm hoặc truy xuất trang web, hoặc thiết bị nào khác để thu thập thông tin về người dùng của TikTok Shop hoặc TTĐTTTTS cho bất kỳ mục đích trái phép nào;
+(m)
+hành động theo bất kỳ cách nào mà có khả năng một cách hợp lý sẽ ảnh hưởng tiêu cực đến tính ổn định của máy chủ của TikTok hoặc hoạt động của các ứng dụng khác mà sử dụng TikTok Shop hoặc TTĐTTTTS;
+(n)
+can thiệp hoặc cố gắng can thiệp vào hoạt động bình thường của TikTok Shop, TTĐTTTTS hoặc các trang web hoặc ứng dụng của chúng tôi, làm gián đoạn các trang web, ứng dụng của chúng tôi hoặc bất kỳ mạng lưới nào được kết nối với TikTok Shop, TTĐTTTTS hoặc với chúng tôi, hoặc vượt qua, phá vỡ hoặc cố gắng vượt qua hoặc phá vỡ bất kỳ biện pháp nào mà chúng tôi có thể sử dụng để ngăn chặn hoặc hạn chế việc truy cập vào TikTok Shop, TTĐTTTTS hoặc các trang web hoặc ứng dụng của chúng tôi;
+(o)
+gỡ bỏ, che giấu hoặc thay đổi bất kỳ thông báo về pháp lý, quyền tác giả, nhãn hiệu hoặc quyền sở hữu nào khác liên quan đến TikTok Shop, TTĐTTTTS, API và/hoặc Dữ liệu API, trang web hoặc ứng dụng của chúng tôi, và tuân theo các yêu cầu của TikTok liên quan đến việc sử dụng bất kỳ tài liệu thuộc quyền sở hữu nào, hoặc xuyên tạc hoặc loại bỏ bất kỳ thông tin tác giả, thông báo pháp lý hoặc các nhãn khác về xuất xứ hoặc nguồn gốc của tài liệu;
+(p)
+sử dụng Ứng Dụng, TikTok Shop, TTĐTTTTS, API và/hoặc Dữ Liệu API, hoặc cho phép các bên thứ ba sử dụng các chủ thể trên để cạnh tranh với hoặc sao chép bất kỳ dịch vụ nào do TikTok cung cấp;
+(q)
+sử dụng TikTok Shop hoặc TTĐTTTTS theo cách mà (do TikTok xác định), vượt quá số lượng yêu cầu hợp lý, cấu thành việc sử dụng quá mức hoặc lạm dụng, hoặc không tuân thủ theo cách khác hoặc mâu thuẫn với bất kỳ tài liệu, chính sách nào hoặc Điều Khoản này; hoặc
+(r)
+sử dụng Ứng Dụng, TikTok Shop, TTĐTTTTS, API và/hoặc Dữ Liệu API theo bất kỳ cách nào mà không được cho phép rõ ràng theo các Điều Khoản này, hoặc để tái tạo chức năng cốt lõi hoặc thay thế bất kỳ chức năng nào của TikTok Shop, hoặc theo bất kỳ cách nào mà gây ra bất kỳ thiệt hại nào về uy tín cho TikTok.
+2.4
+Trừ khi được quy định rõ ràng tại đoạn 2 này hoặc được yêu cầu bởi pháp luật, bạn không có quyền (và không được cho phép bất kỳ bên thứ ba nào) sao chép, làm cho phù hợp, sử dụng công nghệ dịch ngược, phân dịch, biên dịch ngược, điều chỉnh, làm cho phù hợp hoặc sửa lỗi đối với API, TTĐTTTTS hoặc TikTok Shop, toàn bộ hoặc một phần (ngoại trừ trong phạm vi luật hiện hành bác bỏ điều khoản này hoặc bất kỳ phần nào trong điều khoản này).
+2.5
+Không ảnh hưởng đến các quyền và biện pháp khắc phục khác của bạn theo các Điều Khoản này, nếu bạn sử dụng API hoặc Dữ Liệu API khác với quy định trong đoạn 2 này mà không có sự đồng ý trước bằng văn bản của chúng tôi, chúng tôi có thể, theo quyết định của riêng chúng tôi, chấm dứt các Điều Khoản này, hoặc tạm dừng việc truy cập và sử dụng API và Dữ Liệu API của bạn, theo thông báo bằng văn bản có hiệu lực ngay lập tức.
+4
+Kiểm Tra
+4.1
+TikTok hoặc đại diện của TikTok có thể giám sát và kiểm tra trực tiếp hoặc từ xa đối với việc bạn sử dụng API và Dữ Liệu API để đảm bảo bạn tuân thủ Phụ Lục 3 này.
+4.2
+Bạn phải lưu giữ các hồ sơ đầy đủ và chính xác để chứng minh cho việc bạn tuân thủ Phụ Lục 3 này.
+5
+Bảo Mật
+5.1
+TikTok sẽ thực hiện các biện pháp an toàn thực tế, điện tử và vận hành hợp lý đối với TikTok Shop (“
+Các Biện Pháp Bảo Mật
+”).
+5.2
+Bạn thừa nhận và đồng ý rằng:
+(a)
+bất kể các Biện Pháp Bảo Mật do TikTok thực hiện theo đoạn 6.1, nếu một nhà cung cấp phần mềm độc lập có được, sử dụng hoặc tiết lộ dữ liệu và thông tin từ Tài Khoản của bạn ngoài phạm vi cho phép mà bạn đã cấp, thì điều đó có thể gây tổn hại đến quyền và lợi ích của bạn. Trong trường hợp như vậy, bạn có thể khởi kiện trách nhiệm pháp lý đối với các nhà cung cấp phần mềm độc lập đó. Bạn đồng ý miễn trừ cho TikTok và các bên liên kết của TikTok và giữ cho TikTok và các Bên Liên Kết Của TikTok vô hại trước bất kỳ trách nhiệm pháp lý, tổn thất hoặc thiệt hại nào mà bạn có thể phải gánh chịu vì nguyên nhân nêu trên;
+(b)
+không có bất kỳ biện pháp kỹ thuật nào có thể được sử dụng để loại bỏ hoàn toàn các rủi ro bảo mật. Do đó, để giảm tác động của vi-rút máy tính, mã độc, lỗi, v.v., chỉ mình bạn phải chịu trách nhiệm thực hiện các biện pháp an toàn thích hợp như cài đặt phần mềm chống vi-rút phù hợp và cập nhật trên phần cứng của bạn; và
+(c)
+chỉ mình bạn phải chịu trách nhiệm đối với tất cả hoạt động trên TikTok Shop hoặc TTĐTTTTS diễn ra dưới danh nghĩa hoặc thông qua việc sử dụng Tài Khoản của bạn, bất kể các hoạt động đó được cho phép hoặc thực hiện bởi (i) bạn, (ii) những người dùng khác được bạn cho phép, hoặc (iii) bất kỳ người nào không được cho phép. Ngoài ra, bạn thừa nhận và đồng ý rằng các hoạt động đó sẽ được quy về cho và ràng buộc đối với Bạn.
+6
+Sở Hữu Trí Tuệ
+6.1
+Bạn thừa nhận rằng tất cả các quyền sở hữu trí tuệ đối với TikTok Shop, TTĐTTTTS, API và Dữ Liệu API thuộc về và phải thuộc về TikTok (hoặc bên cấp phép của TikTok) và bạn không có quyền trong hoặc đối với các quyền như vậy ngoài quyền sử dụng chúng theo các Điều Khoản này.
+Apakah konten di atas berguna?
+Berikutnya
+Các điều khoản và điều kiện Chương trình Hàng Chính hãng 100%
+×
